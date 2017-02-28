@@ -49,7 +49,7 @@
 <v t="leo.20170226172936.1"><vh>(1)圖片</vh>
 <v t="leo.20170226172936.2"><vh>圖片</vh></v>
 </v>
-<v t="leo.20170226173320.1" a="E"><vh>一-2</vh>
+<v t="leo.20170226173320.1"><vh>一-2</vh>
 <v t="leo.20170226173320.2"><vh>了解如何使用stunnel</vh></v>
 </v>
 <v t="leo.20170301001458.1"><vh>一-2</vh>
@@ -61,22 +61,31 @@
 <v t="leo.20170226172940.1"><vh>(3)圖片</vh>
 <v t="leo.20170226172940.2"><vh>圖片</vh></v>
 </v>
+<v t="leo.20170301074427.1"><vh>二-1</vh>
+<v t="leo.20170301074427.2"><vh>開啟Leo</vh></v>
+</v>
+<v t="leo.20170301074629.1" a="E"><vh>(4)圖片</vh>
+<v t="leo.20170301074629.2"><vh>圖片</vh></v>
+</v>
+<v t="leo.20170301074630.1" a="E"><vh>(5)圖片</vh>
+<v t="leo.20170301074630.2"><vh>圖片</vh></v>
+</v>
 <v t="leo.20170226171703.1"><vh>三-1</vh>
 <v t="leo.20170226171703.2"><vh>python程式碼控制Vrep</vh></v>
 </v>
-<v t="leo.20170226173018.1"><vh>(4)圖片</vh>
+<v t="leo.20170226173018.1"><vh>(6)圖片</vh>
 <v t="leo.20170226173018.2"><vh>圖片</vh></v>
 </v>
-<v t="leo.20170226173019.1"><vh>(5)圖片</vh>
+<v t="leo.20170226173019.1"><vh>(7)圖片</vh>
 <v t="leo.20170226173019.2"><vh>圖片</vh></v>
 </v>
 <v t="leo.20170226173834.1"><vh>三-2</vh>
 <v t="leo.20170226173834.2"><vh>python程式碼控制Vrep</vh></v>
 </v>
-<v t="leo.20170226173023.1" a="E"><vh>(6)圖片</vh>
+<v t="leo.20170226173023.1"><vh>(8)圖片</vh>
 <v t="leo.20170226173023.2"><vh>圖片</vh></v>
 </v>
-<v t="yen.20170120110024.16" a="E"><vh>影片</vh>
+<v t="yen.20170120110024.16"><vh>影片</vh>
 <v t="yen.20170120110024.17"><vh>第一週影片</vh></v>
 </v>
 </v>
@@ -386,6 +395,48 @@ example
 可至cmd打ipconfig/all的指令，找到電腦的ip位置並將其複製、貼到styunnel.conf裡
 
 </t>
+<t tx="leo.20170301074427.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170301074427.2">###開啟Leo
+使用Scite編輯start.bat</t>
+<t tx="leo.20170301074629.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170301074629.2">&lt;/span&gt;&lt;img src="data/W1/before.jpg" width="640" /&gt;
+
+
+</t>
+<t tx="leo.20170301074630.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170301074630.2">&lt;/span&gt;&lt;img src="data/W1/after.jpg" width="640" /&gt;
+
+</t>
 <t tx="yen.20170108171605.1"></t>
 <t tx="yen.20170108171605.2">QTreeWidget {
     /* These apply to the selected item, but not to editing items.*/
@@ -581,9 +632,10 @@ make.start()</t>
 </t>
 <t tx="yen.20170120110024.17">##stunnel修改影片
 
-&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/88oDxd_oHbg" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
+&lt;iframe src="https://player.vimeo.com/video/206084321" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href="https://vimeo.com/206084321"&gt;stunnel設定&lt;/a&gt; from &lt;a href="https://vimeo.com/user47600730"&gt;40423228&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
 
-40423228機械設計工程系-協同產品設計實習課程-W1&lt;/a&gt; from &lt;a href="https://vimeo.com/user47600730/videos"&gt;40423228&lt;/a&gt; on &lt;a href="https://www.youtube.com/"&gt;youtube&lt;/a&gt;.&lt;/p&gt;
+40423228機械設計工程系-協同產品設計實習課程-W1&lt;/a&gt; from &lt;a href="https://vimeo.com/user47600730/videos"&gt;40423228&lt;/a&gt; on &lt;a href="https://vimeo.com/home/myvideos"&gt;vimeo&lt;/a&gt;.&lt;/p&gt;
 
 </t>
 <t tx="yen.20170120110024.2">&lt;!doctype html&gt;
