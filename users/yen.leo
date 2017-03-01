@@ -36,10 +36,7 @@
 <v t="yen.20170120110024.7" a="E"><vh>封面投影片</vh>
 <v t="yen.20170120110024.8"><vh>封面投影片內容</vh></v>
 </v>
-<v t="yen.20170120110024.9"><vh>快捷鍵</vh>
-<v t="yen.20170120110024.10"><vh>投影片快捷鍵</vh></v>
-</v>
-<v t="yen.20170120110024.11" a="E"><vh>20170222第一週上課筆記</vh>
+<v t="yen.20170120110024.11" a="E"><vh>20170222W1</vh>
 <v t="yen.20170120110024.12"><vh>上課內容</vh>
 <v t="yen.20170120110024.13"><vh>上課大綱</vh></v>
 </v>
@@ -64,10 +61,10 @@
 <v t="leo.20170301074427.1"><vh>二-1</vh>
 <v t="leo.20170301074427.2"><vh>開啟Leo</vh></v>
 </v>
-<v t="leo.20170301074629.1" a="E"><vh>(4)圖片</vh>
+<v t="leo.20170301074629.1"><vh>(4)圖片</vh>
 <v t="leo.20170301074629.2"><vh>圖片</vh></v>
 </v>
-<v t="leo.20170301074630.1" a="E"><vh>(5)圖片</vh>
+<v t="leo.20170301074630.1"><vh>(5)圖片</vh>
 <v t="leo.20170301074630.2"><vh>圖片</vh></v>
 </v>
 <v t="leo.20170226171703.1"><vh>三-1</vh>
@@ -89,6 +86,35 @@
 <v t="yen.20170120110024.17"><vh>第一週影片</vh></v>
 </v>
 </v>
+<v t="leo.20170301113115.1" a="E"><vh>20170222W2</vh>
+<v t="leo.20170301113115.2" a="E"><vh>上課內容</vh>
+<v t="leo.20170301113115.3"><vh>上課大綱</vh></v>
+</v>
+<v t="leo.20170301113115.4" a="E"><vh>一-1</vh>
+<v t="leo.20170301113115.5"><vh>Ethercalc</vh></v>
+</v>
+<v t="leo.20170301113115.6"><vh>(1)圖片</vh>
+<v t="leo.20170301113115.7"><vh>圖片</vh></v>
+</v>
+<v t="leo.20170301113115.8"><vh>一-2</vh>
+<v t="leo.20170301113115.9"><vh>了解如何使用stunnel</vh></v>
+</v>
+<v t="leo.20170301113115.10"><vh>一-2</vh>
+<v t="leo.20170301113115.11"><vh>修改IP</vh></v>
+</v>
+<v t="leo.20170301113115.16"><vh>二-1</vh>
+<v t="leo.20170301113115.17"><vh>開啟Leo</vh></v>
+</v>
+<v t="leo.20170301113115.22"><vh>三-1</vh>
+<v t="leo.20170301113115.23"><vh>python程式碼控制Vrep</vh></v>
+</v>
+<v t="leo.20170301113115.28"><vh>三-2</vh>
+<v t="leo.20170301113115.29"><vh>python程式碼控制Vrep</vh></v>
+</v>
+<v t="leo.20170301113115.32"><vh>影片</vh>
+<v t="leo.20170301113115.33"><vh>第一週影片</vh></v>
+</v>
+</v>
 </v>
 </v>
 </v>
@@ -97,6 +123,7 @@
 <v t="yen.20170108171733.71" a="E"><vh>@path content</vh>
 <v t="leo.20170226155017.1" a="E"><vh>201702</vh>
 <v t="yen.20170123225841.1"><vh>@edit 0222W1.md</vh></v>
+<v t="leo.20170301113054.1"><vh>@edit 0301W2.md</vh></v>
 </v>
 <v t="yen.20170108171733.81"><vh>@path pages</vh>
 <v t="yen.20170108171733.82"><vh>@edit pages_1.md</vh></v>
@@ -271,7 +298,7 @@ example
 </t>
 <t tx="leo.20170226171703.2">###三.利用python程式碼控制Vrep裡的單連桿作動。
 
-####可至課程倉儲的data裡下載fourbar_eightbar_solvespace_vrep.7z以及onelink_vrep_remoteapi_pos_vel.7z兩個檔案，解壓縮後會有三個檔案，分別是單連桿、四連桿及八連桿，可試著在solvespace及Vrep裡開啟。
+####可至課程倉儲的data裡下載fourbar_eightbar_solvespace_vrep.7z以及onelink_vrep_remoteapi_pos_vel.7z並解壓縮，分別是單連桿、四連桿及八連桿三個檔案，可試著在solvespace及Vrep裡開啟。
 
 </t>
 <t tx="leo.20170226172936.1">&lt;section data-markdown&gt;
@@ -437,6 +464,142 @@ example
 <t tx="leo.20170301074630.2">&lt;/span&gt;&lt;img src="data/W1/after.jpg" width="640" /&gt;
 
 </t>
+<t tx="leo.20170301113115.1">&lt;section&gt;
+@others
+&lt;/section&gt;</t>
+<t tx="leo.20170301113115.10">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170301113115.11">###修改IP
+可至cmd打ipconfig/all的指令，找到電腦的ip位置並將其複製、貼到styunnel.conf裡
+
+</t>
+<t tx="leo.20170301113115.16">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170301113115.17">###開啟Leo
+使用Scite編輯start.bat</t>
+<t tx="leo.20170301113115.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170301113115.22">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170301113115.23">###三.利用python程式碼控制Vrep裡的單連桿作動。
+
+####可至課程倉儲的data裡下載fourbar_eightbar_solvespace_vrep.7z以及onelink_vrep_remoteapi_pos_vel.7z並解壓縮，分別是單連桿、四連桿及八連桿三個檔案，可試著在solvespace及Vrep裡開啟。
+
+</t>
+<t tx="leo.20170301113115.28">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170301113115.29">###在Vrep裡開啟one_link_robot_remoteAPI.ttt的檔案(ttt是Vrep檔案的副檔名)，在SciTE裡開啟one_link_robot_remoteAPI_joint_target_vel.py的檔案，按下Tool裡的Go即可開始控制單連桿，按Enter會旋轉，按P會暫停。</t>
+<t tx="leo.20170301113115.3">#第二週上課筆記
+
+##一.20170301的上課內容
+
+##二.利用 Ethercalc取得各學員座號與組別，
+以 Python3 程式整理成分組數列與座位
+
+##三.利用 Solvespace 進行四連桿機構組立</t>
+<t tx="leo.20170301113115.32">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20170301113115.33">##stunnel修改影片
+
+&lt;iframe src="https://player.vimeo.com/video/206084321" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href="https://vimeo.com/206084321"&gt;stunnel設定&lt;/a&gt; from &lt;a href="https://vimeo.com/user47600730"&gt;40423228&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
+
+40423228機械設計工程系-協同產品設計實習課程-W1&lt;/a&gt; from &lt;a href="https://vimeo.com/user47600730/videos"&gt;40423228&lt;/a&gt; on &lt;a href="https://vimeo.com/home/myvideos"&gt;vimeo&lt;/a&gt;.&lt;/p&gt;
+
+</t>
+<t tx="leo.20170301113115.4">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170301113115.5">###利用 Ethercalc取得各學員座號與組別，
+以 Python3 程式整理成分組數列與座位
+
+</t>
+<t tx="leo.20170301113115.6">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170301113115.7">&lt;/span&gt;&lt;img src="data/W1/stunnel Error.png" width="640" /&gt;
+
+</t>
+<t tx="leo.20170301113115.8">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170301113115.9">###這是因為stunnel資料夾裡的config/styunnel.conf裡的ip與電腦的ip不同</t>
 <t tx="yen.20170108171605.1"></t>
 <t tx="yen.20170108171605.2">QTreeWidget {
     /* These apply to the selected item, but not to editing items.*/
@@ -590,16 +753,6 @@ make.start()</t>
 @others
 
 </t>
-<t tx="yen.20170120110024.10"># 投影片快捷鍵
-
-* 利用箭頭上下前後換頁
-* 按 f 鍵進入全螢幕模式 (full screen)
-* 按 s 鍵可以顯示投影片筆記 (show)
-* 按 o 鍵可以切換單張或全域檢視 (overview)
-* 按 b 或 . 鍵可以切換螢幕黑屏 (black)
-* 按 Esc 可以退出全螢幕或全域檢視 (Escape)
-
-</t>
 <t tx="yen.20170120110024.11">&lt;section&gt;
 @others
 &lt;/section&gt;</t>
@@ -616,7 +769,7 @@ make.start()</t>
 </t>
 <t tx="yen.20170120110024.13">#第一週上課筆記
 
-##一.這學期的課程大綱
+##一.20170222的上課內容
 
 ##二.了解如何使用stunnel
 
@@ -726,29 +879,20 @@ make.start()</t>
 						
 </t>
 <t tx="yen.20170120110024.8">## 2017Spring 協同產品設計實習
-
 ### 虎科大機械設計工程系
-
-####學員 40423228 課程簡報
+### 設計二乙
+### 40423228
+### 張育誠
 
 &lt;small&gt;
-Created by [40423228](https://40423228.github.io/2017springcd_hw/blog/)
+[40423228](https://40423228.github.io/2017springcd_hw/blog/)
 &lt;/small&gt;
 
-[協同產品設計實習課程網誌](blog/index.html)
+[協同產品設計實習課程網誌](http://mde.tw/2017springcd/blog/)
 
 [Vimeo 上課心得影片](https://vimeo.com/user47600730/videos)
 
 
-</t>
-<t tx="yen.20170120110024.9">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-						
 </t>
 <t tx="yen.20170120212350.1"></t>
 <t tx="yen.20170120212354.1">@language python

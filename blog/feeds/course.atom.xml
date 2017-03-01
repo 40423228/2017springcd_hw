@@ -1,18 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>2017Spring 協同產品設計實習 (虎尾科大MDE)</title><link href="./" rel="alternate"></link><link href="./feeds/course.atom.xml" rel="self"></link><id>./</id><updated>2017-02-22T11:00:00+08:00</updated><entry><title>2017/2/22 W1</title><link href="./W1.html" rel="alternate"></link><published>2017-02-22T11:00:00+08:00</published><updated>2017-02-22T11:00:00+08:00</updated><author><name>40423228</name></author><id>tag:,2017-02-22:./W1.html</id><summary type="html">&lt;h2&gt;2017Spring 協同產品設計實習課程  第一週&lt;/h2&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>2017Spring 協同產品設計實習 (虎尾科大MDE)</title><link href="./" rel="alternate"></link><link href="./feeds/course.atom.xml" rel="self"></link><id>./</id><updated>2017-02-22T11:00:00+08:00</updated><entry><title>2017/2/22 W1</title><link href="./W1.html" rel="alternate"></link><published>2017-02-22T11:00:00+08:00</published><updated>2017-02-22T11:00:00+08:00</updated><author><name>40423228</name></author><id>tag:,2017-02-22:./W1.html</id><summary type="html">&lt;h2&gt;20170222W1上課內容&lt;/h2&gt;
 
 
 &lt;p&gt;一.可至&lt;a href="http://mde.tw/2017springcd/blog/2017spring-cd.html"&gt;2017 Spring 協同產品設計實習&lt;/a&gt;觀看這學期的課程大綱&lt;/p&gt;
 &lt;p&gt;二.&lt;/span&gt;了解如何使用stunnel&lt;/p&gt;
 &lt;p&gt;在按下start之後，會出現錯誤的圖案&lt;img src="./../data/W1/stunnel Error.png" width="240" /&gt;，
-這是因為stunnel資料夾裡的config/styunnel.conf裡的ip與電腦的ip不同可至cmd打ipconfig/all的指令，找到電腦的ip位置並將其複製、貼到styunnel.conf裡&lt;img src="./../data/W1/IP2.jpg" width="240" /&gt;
-&lt;img src="./../data/W1/IP.jpg" width="240" /&gt;&lt;/p&gt;
+這是因為stunnel資料夾裡的config/styunnel.conf裡的ip與電腦的ip不同可至cmd打ipconfig/all的指令，找到電腦的ip位置並將其複製、貼到styunnel.conf裡
+自己IP&lt;img src="./../data/W1/IP2.jpg" width="240" /&gt;
+修改IP(accept後面的IP)&lt;img src="./../data/W1/IP.jpg" width="240" /&gt;&lt;/p&gt;
 &lt;p&gt;三.開啟Leo
 利用Scite編輯Start.bat
 &lt;img src="./../data/W1/before.jpg" width="240" /&gt;
 &lt;img src="./../data/W1/after.jpg" width="240" /&gt;&lt;/p&gt;
 &lt;p&gt;四.利用python程式碼控制Vrep裡的單連桿作動。&lt;/p&gt;
-&lt;p&gt;可至&lt;a href="http://github.com/mdecourse/2017springcd"&gt;課程倉儲&lt;/a&gt;的data裡下載fourbar_eightbar_solvespace_vrep.7z以及onelink_vrep_remoteapi_pos_vel.7z兩個檔案，解壓縮後會有三個檔案，分別是單連桿、四連桿及八連桿，可試著在solvespace及Vrep裡開啟。&lt;/p&gt;
+&lt;p&gt;可至&lt;a href="http://github.com/mdecourse/2017springcd"&gt;課程倉儲&lt;/a&gt;的data裡下載fourbar_eightbar_solvespace_vrep.7z以及onelink_vrep_remoteapi_pos_vel.7z並解壓縮，裡面有單連桿、四連桿及八連桿三個檔案，可試著在solvespace及Vrep裡開啟。&lt;/p&gt;
 &lt;p&gt;在Vrep裡開啟one_link_robot_remoteAPI.ttt的檔案(ttt是Vrep檔案的副檔名)，在SciTE裡開啟one_link_robot_remoteAPI_joint_target_vel.py的檔案，按下Tool裡的Go即可開始控制單連桿，按Enter會旋轉，按P會暫停。&lt;/p&gt;
 &lt;p&gt;&lt;img src="./../data/jansen_solvespace_2.png" width="560" /&gt;&lt;/p&gt;
 &lt;p&gt;&lt;img src="./../data/W1/fourbar345.png" width="560" /&gt;&lt;/p&gt;
@@ -22,4 +23,5 @@
 
 &lt;p&gt;&lt;a href="https://vimeo.com/206084321"&gt;stunnel設定&lt;/a&gt; from &lt;a href="https://vimeo.com/user47600730"&gt;40423228&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
 
-&lt;p&gt;40423228機械設計工程系-協同產品設計實習課程-W1&lt;/a&gt; from &lt;a href="https://vimeo.com/user47600730/videos"&gt;40423228&lt;/a&gt; on &lt;a href="https://vimeo.com/home/myvideos"&gt;vimeo&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;</summary><category term="w1上課內容"></category></entry></feed>
+&lt;p&gt;40423228機械設計工程系-協同產品設計實習課程-W1&lt;/a&gt; from &lt;a href="https://vimeo.com/user47600730/videos"&gt;40423228&lt;/a&gt; on &lt;a href="https://vimeo.com/home/myvideos"&gt;vimeo&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;</summary><category term="w1上課內容"></category></entry><entry><title>2017/2/22 W2</title><link href="./W2.html" rel="alternate"></link><published>2017-02-22T11:00:00+08:00</published><updated>2017-02-22T11:00:00+08:00</updated><author><name>40423228</name></author><id>tag:,2017-02-22:./W2.html</id><summary type="html">&lt;h2&gt;20170222W1上課內容&lt;/h2&gt;
+</summary><category term="w2上課內容"></category></entry></feed>
