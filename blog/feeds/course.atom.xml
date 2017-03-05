@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>2017Spring 協同產品設計實習 (虎尾科大MDE)</title><link href="./" rel="alternate"></link><link href="./feeds/course.atom.xml" rel="self"></link><id>./</id><updated>2017-02-22T11:00:00+08:00</updated><entry><title>2017/2/22 W1</title><link href="./W1.html" rel="alternate"></link><published>2017-02-22T11:00:00+08:00</published><updated>2017-02-22T11:00:00+08:00</updated><author><name>40423228</name></author><id>tag:,2017-02-22:./W1.html</id><summary type="html">&lt;h2&gt;20170222W1上課內容&lt;/h2&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>2017Spring 協同產品設計實習 (虎尾科大MDE)</title><link href="./" rel="alternate"></link><link href="./feeds/course.atom.xml" rel="self"></link><id>./</id><updated>2017-02-22T11:00:00+08:00</updated><entry><title>2017/02/22 W1</title><link href="./W1.html" rel="alternate"></link><published>2017-02-22T11:00:00+08:00</published><updated>2017-02-22T11:00:00+08:00</updated><author><name>40423228</name></author><id>tag:,2017-02-22:./W1.html</id><summary type="html">&lt;h2&gt;20170222W1上課內容&lt;/h2&gt;
 
 
 &lt;p&gt;一.可至&lt;a href="http://mde.tw/2017springcd/blog/2017spring-cd.html"&gt;2017 Spring 協同產品設計實習&lt;/a&gt;觀看這學期的課程大綱&lt;/p&gt;
@@ -23,5 +23,93 @@
 
 &lt;p&gt;&lt;a href="https://vimeo.com/206084321"&gt;stunnel設定&lt;/a&gt; from &lt;a href="https://vimeo.com/user47600730"&gt;40423228&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
 
-&lt;p&gt;40423228機械設計工程系-協同產品設計實習課程-W1&lt;/a&gt; from &lt;a href="https://vimeo.com/user47600730/videos"&gt;40423228&lt;/a&gt; on &lt;a href="https://vimeo.com/home/myvideos"&gt;vimeo&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;</summary><category term="w1上課內容"></category></entry><entry><title>2017/2/22 W2</title><link href="./W2.html" rel="alternate"></link><published>2017-02-22T11:00:00+08:00</published><updated>2017-02-22T11:00:00+08:00</updated><author><name>40423228</name></author><id>tag:,2017-02-22:./W2.html</id><summary type="html">&lt;h2&gt;20170222W1上課內容&lt;/h2&gt;
-</summary><category term="w2上課內容"></category></entry></feed>
+&lt;p&gt;40423228機械設計工程系-協同產品設計實習課程-W1&lt;/a&gt; from &lt;a href="https://vimeo.com/user47600730/videos"&gt;40423228&lt;/a&gt; on &lt;a href="https://vimeo.com/home/myvideos"&gt;vimeo&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;</summary><category term="w1上課內容"></category></entry><entry><title>2017/03/01 W2</title><link href="./W2.html" rel="alternate"></link><published>2017-02-22T11:00:00+08:00</published><updated>2017-02-22T11:00:00+08:00</updated><author><name>40423228</name></author><id>tag:,2017-02-22:./W2.html</id><summary type="html">&lt;h2&gt;20170301W2上課內容&lt;/h2&gt;
+
+
+&lt;p&gt;&lt;span style="background-color: #00ff37"&gt;一.&lt;/span&gt;利用python找出缺課人員&lt;/p&gt;
+&lt;p&gt;程式碼可至&lt;a href="https://github.com/mdecourse/2017springcd/tree/gh-pages/data/w2"&gt;課程倉儲&lt;/a&gt;下載 "cd_w2.py"座位程式碼，"w2b_cadlab.txt"座位表&lt;/p&gt;
+&lt;p&gt;座位程式碼
+&lt;pre class="brush: python"&gt;&lt;/p&gt;
+&lt;h1&gt;import os&lt;/h1&gt;
+&lt;h1&gt;讀取w2b_cadlab.txt的檔案將其儲存為adata，並設定encoding為utf-8&lt;/h1&gt;
+&lt;p&gt;adata = open("w2b_cadlab.txt", encoding="utf-8").read()&lt;/p&gt;
+&lt;h1&gt;讀取w2b_registered.txt的檔案將其儲存為rdata，並一行一行隔開，並設定encoding為utf-8&lt;/h1&gt;
+&lt;p&gt;rdata = open("w2b_registered.txt", encoding="utf-8").read().splitlines()&lt;/p&gt;
+&lt;h1&gt;列印出adata，以便檢查結果&lt;/h1&gt;
+&lt;h1&gt;print(adata)&lt;/h1&gt;
+&lt;h1&gt;利用splitlines將adata一行一行隔開並其儲存為alist&lt;/h1&gt;
+&lt;p&gt;alist = adata.splitlines()&lt;/p&gt;
+&lt;h1&gt;列印出alist[2]，以便檢查結果&lt;/h1&gt;
+&lt;h1&gt;print(alist[2])&lt;/h1&gt;
+&lt;h1&gt;將變數n儲存為0&lt;/h1&gt;
+&lt;p&gt;n = 0&lt;/p&gt;
+&lt;h1&gt;將列從0開始算起&lt;/h1&gt;
+&lt;p&gt;row = 0&lt;/p&gt;
+&lt;h1&gt;將final_list儲存為一個空的數列&lt;/h1&gt;
+&lt;p&gt;final_list = []&lt;/p&gt;
+&lt;h1&gt;將w2_list儲存為一個空的數列&lt;/h1&gt;
+&lt;p&gt;w2_list = []&lt;/p&gt;
+&lt;h1&gt;執行一個for迴圈從第二列開始&lt;/h1&gt;
+&lt;p&gt;for stud_num in alist[2:]:
+    #每執行完一次迴圈列數+1
+    row = row + 1
+    #執行完迴圈後用\將其隔開並儲存為blist
+    blist = stud_num.split("\t")
+    #列印出blist，以便檢查結果
+    #print(blist)
+    #將行從0開始算起
+    column = 0
+    #執行一個for迴圈去取得blist裡的數列
+    for i in range(len(blist)):
+         #每執行完一次迴圈行數+1
+        column = column + 1
+        #假如blist數列裡不是空白
+        if blist[i] != "":
+            #列印出blist[i]，以便檢查結果
+            #print(blist[i])
+            #將組序有用_隔開的儲存為clist 
+            clist = blist[i].split("&lt;em&gt;")
+            #將組序+&lt;/em&gt;+學號+&lt;em&gt;+列+行的資料儲存為stud_data
+            stud_data = clist[0]+"&lt;/em&gt;"+clist[1]+"&lt;em&gt;"+str(row)+"&lt;/em&gt;"+str(column)
+             #將stud_data結果附加在final_list的資料裡
+            final_list.append(stud_data)
+            #將clist[1]結果附加在w2_list的資料裡
+            w2_list.append(clist[1])
+            #每執行完一次迴圈n+1
+            n = n +1&lt;/p&gt;
+&lt;h1&gt;根據數列前導字串排序, 目的在建立分組數列&lt;/h1&gt;
+&lt;p&gt;group_list = sorted(final_list)&lt;/p&gt;
+&lt;h1&gt;列印出分組名單&lt;/h1&gt;
+&lt;p&gt;print("分組名單:")&lt;/p&gt;
+&lt;h1&gt;執行一個for迴圈去取得group_list裡的數列&lt;/h1&gt;
+&lt;p&gt;for i in range(len(group_list)):
+    #列印出 group_list[i]的資料
+    print(group_list[i])&lt;/p&gt;
+&lt;h1&gt;列印出座位列表&lt;/h1&gt;
+&lt;p&gt;print("座位列表:")&lt;/p&gt;
+&lt;h1&gt;執行一個for迴圈去取得final_list裡的數列&lt;/h1&gt;
+&lt;p&gt;for i in range(len(final_list)):
+    #列印出 final_list[i]的資料
+    print(final_list[i])&lt;/p&gt;
+&lt;h1&gt;執行一個for迴圈去取得rdata裡的數列&lt;/h1&gt;
+&lt;p&gt;for i in range(len(rdata)):
+    #假如有在rdata裡但沒有在w2_list裡，目的在找出缺席學生
+    if rdata[i] not in w2_list:
+        #列印出 rdata[i]的資料，缺席學生
+        print("缺席學生:", rdata[i])&lt;/p&gt;
+&lt;h1&gt;列印出學生總數n個&lt;/h1&gt;
+&lt;p&gt;print("學生總數:", n)&lt;/p&gt;
+&lt;h1&gt;print(os.environ)&lt;/h1&gt;
+&lt;/pre&gt;
+
+&lt;p&gt;&lt;span style="background-color: #00ff37"&gt;二.&lt;/span&gt;利用 Solvespace 進行四連桿機構組立並轉為st檔&lt;/p&gt;
+&lt;p&gt;先至&lt;a href="https://github.com/mdecourse/2017springcd/tree/gh-pages/data/w2"&gt;課程倉儲&lt;/a&gt;下載"fourbarlinkage"
+開啟SolveSpace畫
+&lt;img src="./../data/w2/step1.png" width="560" /&gt;
+然後開啟fourbarlinkage裡的link_30、link_50、link_60
+並依序組裝形成四連桿
+&lt;img src="./../data/w2/finish.png" width="560" /&gt;&lt;/p&gt;
+&lt;h2&gt;第二週影片&lt;/h2&gt;
+&lt;p&gt;&lt;iframe src="https://player.vimeo.com/video/206935307" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href="https://vimeo.com/206935307"&gt;四連桿機構&lt;/a&gt; from &lt;a href="https://vimeo.com/user47600730"&gt;40423228&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+&lt;p&gt;40423228機械設計工程系-協同產品設計實習課程-W1&lt;/a&gt; from &lt;a href="https://vimeo.com/user47600730/videos"&gt;40423228&lt;/a&gt; on &lt;a href="https://vimeo.com/home/myvideos"&gt;vimeo&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;</summary><category term="w2上課內容"></category></entry></feed>

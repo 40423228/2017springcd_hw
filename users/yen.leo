@@ -27,7 +27,7 @@
 <v t="yen.20170215103332.1"><vh>@edit base.html</vh></v>
 </v>
 </v>
-<v t="yen.20170120110024.1" a="E"><vh>@clean index.html</vh>
+<v t="yen.20170120110024.1"><vh>@clean index.html</vh>
 <v t="yen.20170120110024.2" a="E"><vh>html</vh>
 <v t="yen.20170120110024.3"><vh>head</vh></v>
 <v t="yen.20170120110024.4" a="E"><vh>body</vh>
@@ -61,7 +61,7 @@
 <v t="leo.20170301074427.1"><vh>二-1</vh>
 <v t="leo.20170301074427.2"><vh>開啟Leo</vh></v>
 </v>
-<v t="leo.20170301074629.1"><vh>(4)圖片</vh>
+<v t="leo.20170301074629.1" a="E"><vh>(4)圖片</vh>
 <v t="leo.20170301074629.2"><vh>圖片</vh></v>
 </v>
 <v t="leo.20170301074630.1"><vh>(5)圖片</vh>
@@ -90,29 +90,35 @@
 <v t="leo.20170301113115.2" a="E"><vh>上課內容</vh>
 <v t="leo.20170301113115.3"><vh>上課大綱</vh></v>
 </v>
-<v t="leo.20170301113115.4" a="E"><vh>一-1</vh>
-<v t="leo.20170301113115.5"><vh>Ethercalc</vh></v>
+<v t="leo.20170301113115.4"><vh>一-1</vh>
+<v t="leo.20170301113115.5"><vh>整理分組</vh></v>
 </v>
-<v t="leo.20170301113115.6"><vh>(1)圖片</vh>
-<v t="leo.20170301113115.7"><vh>圖片</vh></v>
+<v t="leo.20170305213123.1"><vh>一-2</vh>
+<v t="leo.20170305213123.2"><vh>檔案資料</vh></v>
 </v>
-<v t="leo.20170301113115.8"><vh>一-2</vh>
-<v t="leo.20170301113115.9"><vh>了解如何使用stunnel</vh></v>
+<v t="leo.20170301113115.8" a="E"><vh>一-3</vh>
+<v t="leo.20170301113115.9"><vh>座位程式碼</vh></v>
 </v>
-<v t="leo.20170301113115.10"><vh>一-2</vh>
-<v t="leo.20170301113115.11"><vh>修改IP</vh></v>
+<v t="leo.20170301113115.16" a="E"><vh>二-1</vh>
+<v t="leo.20170301113115.17"><vh>利用 Solvespace 進行四連桿機構</vh></v>
 </v>
-<v t="leo.20170301113115.16"><vh>二-1</vh>
-<v t="leo.20170301113115.17"><vh>開啟Leo</vh></v>
-</v>
-<v t="leo.20170301113115.22"><vh>三-1</vh>
-<v t="leo.20170301113115.23"><vh>python程式碼控制Vrep</vh></v>
+<v t="leo.20170301113115.22"><vh>二-2</vh>
+<v t="leo.20170301113115.23"><vh>下載</vh></v>
 </v>
 <v t="leo.20170301113115.28"><vh>三-2</vh>
-<v t="leo.20170301113115.29"><vh>python程式碼控制Vrep</vh></v>
+<v t="leo.20170301113115.29"><vh>繪圖</vh></v>
 </v>
-<v t="leo.20170301113115.32"><vh>影片</vh>
-<v t="leo.20170301113115.33"><vh>第一週影片</vh></v>
+<v t="leo.20170305213504.1" a="E"><vh>圖片一</vh>
+<v t="leo.20170305213504.2"><vh>圖片</vh></v>
+</v>
+<v t="leo.20170305213503.1"><vh>三-3</vh>
+<v t="leo.20170305213503.2"><vh>開啟</vh></v>
+</v>
+<v t="leo.20170305213546.1" a="E"><vh>圖片二</vh>
+<v t="leo.20170305213546.2"><vh>圖片</vh></v>
+</v>
+<v t="leo.20170301113115.32" a="E"><vh>影片</vh>
+<v t="leo.20170301113115.33"><vh>第二週影片</vh></v>
 </v>
 </v>
 </v>
@@ -467,21 +473,6 @@ example
 <t tx="leo.20170301113115.1">&lt;section&gt;
 @others
 &lt;/section&gt;</t>
-<t tx="leo.20170301113115.10">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-&lt;!-- 請注意, @others 不可以內縮 --&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-
-						
-</t>
-<t tx="leo.20170301113115.11">###修改IP
-可至cmd打ipconfig/all的指令，找到電腦的ip位置並將其複製、貼到styunnel.conf裡
-
-</t>
 <t tx="leo.20170301113115.16">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
@@ -493,8 +484,7 @@ example
 
 						
 </t>
-<t tx="leo.20170301113115.17">###開啟Leo
-使用Scite編輯start.bat</t>
+<t tx="leo.20170301113115.17">###利用 Solvespace 進行四連桿機構組立並轉為st檔</t>
 <t tx="leo.20170301113115.2">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
@@ -517,11 +507,9 @@ example
 
 						
 </t>
-<t tx="leo.20170301113115.23">###三.利用python程式碼控制Vrep裡的單連桿作動。
+<t tx="leo.20170301113115.23">###利用 Solvespace 進行四連桿機構組立並轉為st檔
 
-####可至課程倉儲的data裡下載fourbar_eightbar_solvespace_vrep.7z以及onelink_vrep_remoteapi_pos_vel.7z並解壓縮，分別是單連桿、四連桿及八連桿三個檔案，可試著在solvespace及Vrep裡開啟。
-
-</t>
+####先至&lt;a href="https://github.com/mdecourse/2017springcd/tree/gh-pages/data/w2"&gt;課程倉儲&lt;/a&gt;下載"fourbarlinkage"</t>
 <t tx="leo.20170301113115.28">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
@@ -533,13 +521,15 @@ example
 
 						
 </t>
-<t tx="leo.20170301113115.29">###在Vrep裡開啟one_link_robot_remoteAPI.ttt的檔案(ttt是Vrep檔案的副檔名)，在SciTE裡開啟one_link_robot_remoteAPI_joint_target_vel.py的檔案，按下Tool裡的Go即可開始控制單連桿，按Enter會旋轉，按P會暫停。</t>
+<t tx="leo.20170301113115.29">###利用 Solvespace 進行四連桿機構組立並轉為st檔
+
+開啟SolveSpace繪出四連桿的圖</t>
 <t tx="leo.20170301113115.3">#第二週上課筆記
 
 ##一.20170301的上課內容
 
 ##二.利用 Ethercalc取得各學員座號與組別，
-以 Python3 程式整理成分組數列與座位
+以 Python3 程式整理成分組數列與座位並找出缺課人員
 
 ##三.利用 Solvespace 進行四連桿機構組立</t>
 <t tx="leo.20170301113115.32">&lt;section data-markdown&gt;
@@ -551,13 +541,12 @@ example
 
 						
 </t>
-<t tx="leo.20170301113115.33">##stunnel修改影片
+<t tx="leo.20170301113115.33">##四連桿機構
 
-&lt;iframe src="https://player.vimeo.com/video/206084321" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
-&lt;p&gt;&lt;a href="https://vimeo.com/206084321"&gt;stunnel設定&lt;/a&gt; from &lt;a href="https://vimeo.com/user47600730"&gt;40423228&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
+&lt;iframe src="https://player.vimeo.com/video/206935307" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href="https://vimeo.com/206935307"&gt;四連桿機構&lt;/a&gt; from &lt;a href="https://vimeo.com/user47600730"&gt;40423228&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
 
 40423228機械設計工程系-協同產品設計實習課程-W1&lt;/a&gt; from &lt;a href="https://vimeo.com/user47600730/videos"&gt;40423228&lt;/a&gt; on &lt;a href="https://vimeo.com/home/myvideos"&gt;vimeo&lt;/a&gt;.&lt;/p&gt;
-
 </t>
 <t tx="leo.20170301113115.4">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
@@ -570,24 +559,7 @@ example
 
 						
 </t>
-<t tx="leo.20170301113115.5">###利用 Ethercalc取得各學員座號與組別，
-以 Python3 程式整理成分組數列與座位
-
-</t>
-<t tx="leo.20170301113115.6">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-&lt;!-- 請注意, @others 不可以內縮 --&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-
-						
-</t>
-<t tx="leo.20170301113115.7">&lt;/span&gt;&lt;img src="data/W1/stunnel Error.png" width="640" /&gt;
-
-</t>
+<t tx="leo.20170301113115.5">###利用Python程式整理成分組數列與座位並找出缺課成員</t>
 <t tx="leo.20170301113115.8">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
@@ -599,7 +571,129 @@ example
 
 						
 </t>
-<t tx="leo.20170301113115.9">###這是因為stunnel資料夾裡的config/styunnel.conf裡的ip與電腦的ip不同</t>
+<t tx="leo.20170301113115.9">###座位程式碼
+
+```
+@language python
+#import os
+#讀取w2b_cadlab.txt的檔案將其儲存為adata，並設定encoding為utf-8
+adata = open("w2b_cadlab.txt", encoding="utf-8").read()
+#讀取w2b_registered.txt的檔案將其儲存為rdata，並一行一行隔開，並設定encoding為utf-8
+rdata = open("w2b_registered.txt", encoding="utf-8").read().splitlines()
+#print(adata)
+#利用splitlines將adata一行一行隔開並其儲存為alist
+alist = adata.splitlines()
+#print(alist[2])
+#將變數n儲存為0
+n = 0
+#將列從0開始算起
+row = 0
+#將final_list儲存為一個空的數列
+final_list = []
+#將w2_list儲存為一個空的數列
+w2_list = []
+#執行一個for迴圈從第二列開始
+for stud_num in alist[2:]:
+    #每執行完一次迴圈列數+1
+    row = row + 1
+    #執行完迴圈後用\將其隔開並儲存為blist
+    blist = stud_num.split("\t")
+    #print(blist)
+    #將行從0開始算起
+    column = 0
+    #執行一個for迴圈去取得blist裡的數列
+    for i in range(len(blist)):
+         #每執行完一次迴圈行數+1
+        column = column + 1
+        #假如blist數列裡不是空白
+        if blist[i] != "":
+            #print(blist[i])
+            #將組序有用_隔開的儲存為clist 
+            clist = blist[i].split("_")
+            #將組序+_+學號+_+列+行的資料儲存為stud_data
+            stud_data = clist[0]+"_"+clist[1]+"_"+str(row)+"_"+str(column)
+             #將stud_data結果附加在final_list的資料裡
+            final_list.append(stud_data)
+            #將clist[1]結果附加在w2_list的資料裡
+            w2_list.append(clist[1])
+            #每執行完一次迴圈n+1
+            n = n +1
+# 根據數列前導字串排序, 目的在建立分組數列
+group_list = sorted(final_list)
+#列印出分組名單
+print("分組名單:")
+#執行一個for迴圈去取得group_list裡的數列
+for i in range(len(group_list)):
+    #列印出 group_list[i]的資料
+    print(group_list[i])
+#列印出座位列表
+print("座位列表:")
+#執行一個for迴圈去取得final_list裡的數列
+for i in range(len(final_list)):
+    #列印出 final_list[i]的資料
+    print(final_list[i])
+#執行一個for迴圈去取得rdata裡的數列
+for i in range(len(rdata)):
+    #假如有在rdata裡但沒有在w2_list裡，目的在找出缺席學生
+    if rdata[i] not in w2_list:
+        #列印出 rdata[i]的資料，缺席學生
+        print("缺席學生:", rdata[i])
+#列印出學生總數n個
+print("學生總數:", n)
+#print(os.environ)
+
+```</t>
+<t tx="leo.20170305213123.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170305213123.2">程式碼可至&lt;a href="https://github.com/mdecourse/2017springcd/tree/gh-pages/data/w2"&gt;課程倉儲&lt;/a&gt;下載 "cd_w2.py"座位程式碼，"w2b_cadlab.txt"座位表</t>
+<t tx="leo.20170305213503.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170305213503.2">###利用 Solvespace 進行四連桿機構組立並轉為st檔
+
+然後開啟fourbarlinkage裡的link_30、link_50、link_60
+並依序組裝形成四連桿</t>
+<t tx="leo.20170305213504.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170305213504.2">&lt;/span&gt;&lt;img src="data/w2/step1.png" width="560" /&gt;</t>
+<t tx="leo.20170305213546.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170305213546.2">&lt;/span&gt;&lt;img src="data/w2/finish.png" width="560" /&gt;</t>
 <t tx="yen.20170108171605.1"></t>
 <t tx="yen.20170108171605.2">QTreeWidget {
     /* These apply to the selected item, but not to editing items.*/
