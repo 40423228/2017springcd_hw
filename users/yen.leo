@@ -160,6 +160,12 @@
 </v>
 </v>
 <v t="yen.20170209024032.1"><vh>reference</vh></v>
+<v t="leo.20170305215212.2" a="E"><vh>Recovered Nodes</vh>
+<v t="leo.20170305215212.3"><vh>Recovered node "開啟" from @clean index.html</vh>
+<v t="leo.20170305215212.4"><vh>old:開啟</vh></v>
+<v t="leo.20170305215212.5"><vh>new:開啟</vh></v>
+</v>
+</v>
 </vnodes>
 <tnodes>
 <t tx="leo.20170226155017.1"></t>
@@ -400,7 +406,8 @@ example
 
 						
 </t>
-<t tx="leo.20170226173320.2">###這是因為stunnel資料夾裡的config/styunnel.conf裡的ip與電腦的ip不同</t>
+<t tx="leo.20170226173320.2">###這是因為stunnel資料夾裡的config/styunnel.conf裡的ip與電腦的ip不同
+</t>
 <t tx="leo.20170226173834.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
@@ -412,7 +419,8 @@ example
 
 						
 </t>
-<t tx="leo.20170226173834.2">###在Vrep裡開啟one_link_robot_remoteAPI.ttt的檔案(ttt是Vrep檔案的副檔名)，在SciTE裡開啟one_link_robot_remoteAPI_joint_target_vel.py的檔案，按下Tool裡的Go即可開始控制單連桿，按Enter會旋轉，按P會暫停。</t>
+<t tx="leo.20170226173834.2">###在Vrep裡開啟one_link_robot_remoteAPI.ttt的檔案(ttt是Vrep檔案的副檔名)，在SciTE裡開啟one_link_robot_remoteAPI_joint_target_vel.py的檔案，按下Tool裡的Go即可開始控制單連桿，按Enter會旋轉，按P會暫停。
+</t>
 <t tx="leo.20170301001458.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
@@ -440,7 +448,8 @@ example
 						
 </t>
 <t tx="leo.20170301074427.2">###開啟Leo
-使用Scite編輯start.bat</t>
+使用Scite編輯start.bat
+</t>
 <t tx="leo.20170301074629.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
@@ -472,7 +481,8 @@ example
 </t>
 <t tx="leo.20170301113115.1">&lt;section&gt;
 @others
-&lt;/section&gt;</t>
+&lt;/section&gt;
+</t>
 <t tx="leo.20170301113115.16">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
@@ -484,7 +494,8 @@ example
 
 						
 </t>
-<t tx="leo.20170301113115.17">###利用 Solvespace 進行四連桿機構組立並轉為st檔</t>
+<t tx="leo.20170301113115.17">###利用 Solvespace 進行四連桿機構組立並轉為st檔
+</t>
 <t tx="leo.20170301113115.2">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
@@ -509,7 +520,8 @@ example
 </t>
 <t tx="leo.20170301113115.23">###利用 Solvespace 進行四連桿機構組立並轉為st檔
 
-####先至&lt;a href="https://github.com/mdecourse/2017springcd/tree/gh-pages/data/w2"&gt;課程倉儲&lt;/a&gt;下載"fourbarlinkage"</t>
+####先至&lt;a href="https://github.com/mdecourse/2017springcd/tree/gh-pages/data/w2"&gt;課程倉儲&lt;/a&gt;下載"fourbarlinkage"
+</t>
 <t tx="leo.20170301113115.28">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
@@ -523,7 +535,8 @@ example
 </t>
 <t tx="leo.20170301113115.29">###利用 Solvespace 進行四連桿機構組立並轉為st檔
 
-開啟SolveSpace繪出四連桿的圖</t>
+開啟SolveSpace繪出四連桿的圖
+</t>
 <t tx="leo.20170301113115.3">#第二週上課筆記
 
 ##一.20170301的上課內容
@@ -531,7 +544,8 @@ example
 ##二.利用 Ethercalc取得各學員座號與組別，
 以 Python3 程式整理成分組數列與座位並找出缺課人員
 
-##三.利用 Solvespace 進行四連桿機構組立</t>
+##三.利用 Solvespace 進行四連桿機構組立
+</t>
 <t tx="leo.20170301113115.32">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -559,7 +573,8 @@ example
 
 						
 </t>
-<t tx="leo.20170301113115.5">###利用Python程式整理成分組數列與座位並找出缺課成員</t>
+<t tx="leo.20170301113115.5">###利用Python程式整理成分組數列與座位並找出缺課成員
+</t>
 <t tx="leo.20170301113115.8">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
@@ -642,7 +657,8 @@ for i in range(len(rdata)):
 print("學生總數:", n)
 #print(os.environ)
 
-```</t>
+```
+</t>
 <t tx="leo.20170305213123.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
@@ -654,7 +670,8 @@ print("學生總數:", n)
 
 						
 </t>
-<t tx="leo.20170305213123.2">程式碼可至&lt;a href="https://github.com/mdecourse/2017springcd/tree/gh-pages/data/w2"&gt;課程倉儲&lt;/a&gt;下載 "cd_w2.py"座位程式碼，"w2b_cadlab.txt"座位表</t>
+<t tx="leo.20170305213123.2">程式碼可至&lt;a href="https://github.com/mdecourse/2017springcd/tree/gh-pages/data/w2"&gt;課程倉儲&lt;/a&gt;下載 "cd_w2.py"座位程式碼，"w2b_cadlab.txt"座位表
+</t>
 <t tx="leo.20170305213503.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
@@ -668,8 +685,11 @@ print("學生總數:", n)
 </t>
 <t tx="leo.20170305213503.2">###利用 Solvespace 進行四連桿機構組立並轉為st檔
 
-然後開啟fourbarlinkage裡的link_30、link_50、link_60
-並依序組裝形成四連桿</t>
+然後開啟fourbarlinkage裡的
+
+link_30、link_50、link_60
+並依序組裝形成四連桿
+</t>
 <t tx="leo.20170305213504.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
@@ -681,7 +701,8 @@ print("學生總數:", n)
 
 						
 </t>
-<t tx="leo.20170305213504.2">&lt;/span&gt;&lt;img src="data/w2/step1.png" width="560" /&gt;</t>
+<t tx="leo.20170305213504.2">&lt;/span&gt;&lt;img src="data/w2/step1.png" width="560" /&gt;
+</t>
 <t tx="leo.20170305213546.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
@@ -693,7 +714,31 @@ print("學生總數:", n)
 
 						
 </t>
-<t tx="leo.20170305213546.2">&lt;/span&gt;&lt;img src="data/w2/finish.png" width="560" /&gt;</t>
+<t tx="leo.20170305213546.2">&lt;/span&gt;&lt;img src="data/w2/finish.png" width="560" /&gt;
+</t>
+<t tx="leo.20170305215212.2"></t>
+<t tx="leo.20170305215212.3">(uncached) leo.20170305213503.2
+Diff...
+  ###利用 Solvespace 進行四連桿機構組立並轉為st檔
+  
++ 然後開啟fourbarlinkage裡的  link_30、link_50、link_60
+- 然後開啟fourbarlinkage裡的- 
+- - 
+- link_30、link_50、link_60
+- 並依序組裝形成四連桿
+?           -
++ 並依序組裝形成四連桿</t>
+<t tx="leo.20170305215212.4">###利用 Solvespace 進行四連桿機構組立並轉為st檔
+
+然後開啟fourbarlinkage裡的  link_30、link_50、link_60
+並依序組裝形成四連桿</t>
+<t tx="leo.20170305215212.5">###利用 Solvespace 進行四連桿機構組立並轉為st檔
+
+然後開啟fourbarlinkage裡的
+
+link_30、link_50、link_60
+並依序組裝形成四連桿
+</t>
 <t tx="yen.20170108171605.1"></t>
 <t tx="yen.20170108171605.2">QTreeWidget {
     /* These apply to the selected item, but not to editing items.*/
@@ -849,7 +894,8 @@ make.start()</t>
 </t>
 <t tx="yen.20170120110024.11">&lt;section&gt;
 @others
-&lt;/section&gt;</t>
+&lt;/section&gt;
+</t>
 <t tx="yen.20170120110024.12">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
@@ -867,7 +913,8 @@ make.start()</t>
 
 ##二.了解如何使用stunnel
 
-##三.利用python程式碼控制Vrep裡的單連桿作動。</t>
+##三.利用python程式碼控制Vrep裡的單連桿作動。
+</t>
 <t tx="yen.20170120110024.16">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
