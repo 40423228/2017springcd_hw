@@ -27,7 +27,7 @@
 <v t="yen.20170215103332.1"><vh>@edit base.html</vh></v>
 </v>
 </v>
-<v t="yen.20170120110024.1"><vh>@clean index.html</vh>
+<v t="yen.20170120110024.1" a="E"><vh>@clean index.html</vh>
 <v t="yen.20170120110024.2" a="E"><vh>html</vh>
 <v t="yen.20170120110024.3"><vh>head</vh></v>
 <v t="yen.20170120110024.4" a="E"><vh>body</vh>
@@ -36,7 +36,7 @@
 <v t="yen.20170120110024.7" a="E"><vh>封面投影片</vh>
 <v t="yen.20170120110024.8"><vh>封面投影片內容</vh></v>
 </v>
-<v t="yen.20170120110024.11" a="E"><vh>20170222W1</vh>
+<v t="yen.20170120110024.11"><vh>20170222W1</vh>
 <v t="yen.20170120110024.12"><vh>上課內容</vh>
 <v t="yen.20170120110024.13"><vh>上課大綱</vh></v>
 </v>
@@ -87,7 +87,7 @@
 </v>
 </v>
 <v t="leo.20170301113115.1" a="E"><vh>20170222W2</vh>
-<v t="leo.20170301113115.2" a="E"><vh>上課內容</vh>
+<v t="leo.20170301113115.2"><vh>上課內容</vh>
 <v t="leo.20170301113115.3"><vh>上課大綱</vh></v>
 </v>
 <v t="leo.20170301113115.4"><vh>一-1</vh>
@@ -701,7 +701,7 @@ link_30、link_50、link_60
 
 						
 </t>
-<t tx="leo.20170305213504.2">&lt;/span&gt;&lt;img src="data/w2/step1.png" width="560" /&gt;
+<t tx="leo.20170305213504.2">&lt;/span&gt;&lt;img src="data/w1/step1.png" width="560" /&gt;
 </t>
 <t tx="leo.20170305213546.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
@@ -714,7 +714,7 @@ link_30、link_50、link_60
 
 						
 </t>
-<t tx="leo.20170305213546.2">&lt;/span&gt;&lt;img src="data/w2/finish.png" width="560" /&gt;
+<t tx="leo.20170305213546.2">&lt;/span&gt;&lt;img src="data/w1/finish.png" width="560" /&gt;
 </t>
 <t tx="leo.20170305215212.2"></t>
 <t tx="leo.20170305215212.3">(uncached) leo.20170305213503.2
