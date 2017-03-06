@@ -161,6 +161,12 @@
 </v>
 </v>
 <v t="yen.20170209024032.1"><vh>reference</vh></v>
+<v t="leo.20170306210959.2" a="E"><vh>Recovered Nodes</vh>
+<v t="leo.20170306210959.3"><vh>Recovered node "開啟" from @clean index.html</vh>
+<v t="leo.20170306210959.4"><vh>old:開啟</vh></v>
+<v t="leo.20170306210959.5"><vh>new:開啟</vh></v>
+</v>
+</v>
 </vnodes>
 <tnodes>
 <t tx="leo.20170226155017.1"></t>
@@ -682,7 +688,9 @@ print("學生總數:", n)
 
 然後開啟fourbarlinkage裡的
 
+
 
+
 
 link_30、link_50、link_60
 並依序組裝形成四連桿
@@ -712,6 +720,44 @@ link_30、link_50、link_60
 						
 </t>
 <t tx="leo.20170305213546.2">&lt;/span&gt;&lt;img src="data/w1/finish.png" width="560" /&gt;
+</t>
+<t tx="leo.20170306210959.2"></t>
+<t tx="leo.20170306210959.3">(uncached) leo.20170305213503.2
+Diff...
+  ###利用 Solvespace 進行四連桿機構組立並轉為st檔
+  
+- 然後開啟fourbarlinkage裡的?                     ^
++ 然後開啟fourbarlinkage裡的 
+?                     ^^
+  
++  
+- 
+- 
+- - 
+- 
+  
+  link_30、link_50、link_60
+  並依序組裝形成四連桿
+</t>
+<t tx="leo.20170306210959.4">###利用 Solvespace 進行四連桿機構組立並轉為st檔
+
+然後開啟fourbarlinkage裡的 
+
+ 
+
+link_30、link_50、link_60
+並依序組裝形成四連桿
+</t>
+<t tx="leo.20170306210959.5">###利用 Solvespace 進行四連桿機構組立並轉為st檔
+
+然後開啟fourbarlinkage裡的
+
+
+
+
+
+link_30、link_50、link_60
+並依序組裝形成四連桿
 </t>
 <t tx="yen.20170108171605.1"></t>
 <t tx="yen.20170108171605.2">QTreeWidget {
