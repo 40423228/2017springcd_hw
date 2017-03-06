@@ -86,7 +86,7 @@
 <v t="yen.20170120110024.17"><vh>第一週影片</vh></v>
 </v>
 </v>
-<v t="leo.20170301113115.1" a="E"><vh>20170222W2</vh>
+<v t="leo.20170301113115.1"><vh>20170301W2</vh>
 <v t="leo.20170301113115.2"><vh>上課內容</vh>
 <v t="leo.20170301113115.3"><vh>上課大綱</vh></v>
 </v>
@@ -130,6 +130,7 @@
 <v t="leo.20170226155017.1" a="E"><vh>201702</vh>
 <v t="yen.20170123225841.1"><vh>@edit 0222W1.md</vh></v>
 <v t="leo.20170301113054.1"><vh>@edit 0301W2.md</vh></v>
+<v t="leo.20170306203414.1"><vh>@edit 0308W3.md</vh></v>
 </v>
 <v t="yen.20170108171733.81"><vh>@path pages</vh>
 <v t="yen.20170108171733.82"><vh>@edit pages_1.md</vh></v>
@@ -164,6 +165,12 @@
 <v t="leo.20170305215212.3"><vh>Recovered node "開啟" from @clean index.html</vh>
 <v t="leo.20170305215212.4"><vh>old:開啟</vh></v>
 <v t="leo.20170305215212.5"><vh>new:開啟</vh></v>
+</v>
+</v>
+<v t="leo.20170306203309.2" a="E"><vh>Recovered Nodes</vh>
+<v t="leo.20170306203309.3"><vh>Recovered node "開啟" from @clean index.html</vh>
+<v t="leo.20170306203309.4"><vh>old:開啟</vh></v>
+<v t="leo.20170306203309.5"><vh>new:開啟</vh></v>
 </v>
 </v>
 </vnodes>
@@ -686,7 +693,9 @@ print("學生總數:", n)
 <t tx="leo.20170305213503.2">###利用 Solvespace 進行四連桿機構組立並轉為st檔
 
 然後開啟fourbarlinkage裡的
+
 
+
 link_30、link_50、link_60
 並依序組裝形成四連桿
 </t>
@@ -722,8 +731,8 @@ Diff...
   ###利用 Solvespace 進行四連桿機構組立並轉為st檔
   
 + 然後開啟fourbarlinkage裡的  link_30、link_50、link_60
-- 然後開啟fourbarlinkage裡的- 
-- - 
+- 然後開啟fourbarlinkage裡的 - 
+-  - 
 - link_30、link_50、link_60
 - 並依序組裝形成四連桿
 ?           -
@@ -734,8 +743,40 @@ Diff...
 並依序組裝形成四連桿</t>
 <t tx="leo.20170305215212.5">###利用 Solvespace 進行四連桿機構組立並轉為st檔
 
+然後開啟fourbarlinkage裡的 
+ 
+link_30、link_50、link_60
+並依序組裝形成四連桿
+</t>
+<t tx="leo.20170306203309.2"></t>
+<t tx="leo.20170306203309.3">(uncached) leo.20170305213503.2
+Diff...
+  ###利用 Solvespace 進行四連桿機構組立並轉為st檔
+  
+- 然後開啟fourbarlinkage裡的?                     ^
++ 然後開啟fourbarlinkage裡的 
+?                     ^^
++  
+- 
+- 
+- - 
+- 
+  link_30、link_50、link_60
+  並依序組裝形成四連桿
+</t>
+<t tx="leo.20170306203309.4">###利用 Solvespace 進行四連桿機構組立並轉為st檔
+
+然後開啟fourbarlinkage裡的 
+ 
+link_30、link_50、link_60
+並依序組裝形成四連桿
+</t>
+<t tx="leo.20170306203309.5">###利用 Solvespace 進行四連桿機構組立並轉為st檔
+
 然後開啟fourbarlinkage裡的
+
 
+
 link_30、link_50、link_60
 並依序組裝形成四連桿
 </t>
