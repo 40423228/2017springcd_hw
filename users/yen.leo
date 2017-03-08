@@ -161,18 +161,6 @@
 </v>
 </v>
 <v t="yen.20170209024032.1"><vh>reference</vh></v>
-<v t="leo.20170306210959.2" a="E"><vh>Recovered Nodes</vh>
-<v t="leo.20170306210959.3"><vh>Recovered node "開啟" from @clean index.html</vh>
-<v t="leo.20170306210959.4"><vh>old:開啟</vh></v>
-<v t="leo.20170306210959.5"><vh>new:開啟</vh></v>
-</v>
-</v>
-<v t="leo.20170306211832.2" a="E"><vh>Recovered Nodes</vh>
-<v t="leo.20170306211832.3"><vh>Recovered node "開啟" from @clean index.html</vh>
-<v t="leo.20170306211832.4"><vh>old:開啟</vh></v>
-<v t="leo.20170306211832.5"><vh>new:開啟</vh></v>
-</v>
-</v>
 </vnodes>
 <tnodes>
 <t tx="leo.20170226155017.1"></t>
@@ -693,8 +681,10 @@ print("學生總數:", n)
 <t tx="leo.20170305213503.2">###利用 Solvespace 進行四連桿機構組立並轉為st檔
 
 開啟fourbarlinkage裡的
+
 link_30、link_50、link_60
-並依序組裝形成四連桿</t>
+並依序組裝形成四連桿
+</t>
 <t tx="leo.20170305213504.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
@@ -720,88 +710,6 @@ link_30、link_50、link_60
 						
 </t>
 <t tx="leo.20170305213546.2">&lt;a href="http://imgur.com/KBdUUpv"&gt;&lt;img src="http://i.imgur.com/KBdUUpv.png" title="source: imgur.com" /&gt;&lt;/a&gt;
-</t>
-<t tx="leo.20170306210959.2"></t>
-<t tx="leo.20170306210959.3">(uncached) leo.20170305213503.2
-Diff...
-  ###利用 Solvespace 進行四連桿機構組立並轉為st檔
-  
-- 然後開啟fourbarlinkage裡的 ?                     ^
-+ 然後開啟fourbarlinkage裡的 
-?                     ^^
-  
-+  
-- 
-- 
--  - 
-- 
-  
-  link_30、link_50、link_60
-  並依序組裝形成四連桿
-</t>
-<t tx="leo.20170306210959.4">###利用 Solvespace 進行四連桿機構組立並轉為st檔
-
-然後開啟fourbarlinkage裡的 
-
- 
-
-link_30、link_50、link_60
-並依序組裝形成四連桿
-</t>
-<t tx="leo.20170306210959.5">###利用 Solvespace 進行四連桿機構組立並轉為st檔
-
-然後開啟fourbarlinkage裡的 
-
-
- 
-
-
-link_30、link_50、link_60
-並依序組裝形成四連桿
-</t>
-<t tx="leo.20170306211832.2"></t>
-<t tx="leo.20170306211832.3">(uncached) leo.20170305213503.2
-Diff...
-  ###利用 Solvespace 進行四連桿機構組立並轉為st檔
-  
-- 然後開啟fourbarlinkage裡的?                     ^
-+ 然後開啟fourbarlinkage裡的 
-?                     ^^
-  
-  
-+  
-- 
-- 
-- - 
-- 
-  
-  
-  link_30、link_50、link_60
-  並依序組裝形成四連桿
-</t>
-<t tx="leo.20170306211832.4">###利用 Solvespace 進行四連桿機構組立並轉為st檔
-
-然後開啟fourbarlinkage裡的 
-
-
- 
-
-
-link_30、link_50、link_60
-並依序組裝形成四連桿
-</t>
-<t tx="leo.20170306211832.5">###利用 Solvespace 進行四連桿機構組立並轉為st檔
-
-然後開啟fourbarlinkage裡的
-
-
-
-
-
-
-
-link_30、link_50、link_60
-並依序組裝形成四連桿
 </t>
 <t tx="yen.20170108171605.1"></t>
 <t tx="yen.20170108171605.2">QTreeWidget {

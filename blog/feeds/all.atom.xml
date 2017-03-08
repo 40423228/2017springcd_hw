@@ -2,7 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom"><title>2017Spring 協同產品設計實習 (虎尾科大MDE)</title><link href="./" rel="alternate"></link><link href="./feeds/all.atom.xml" rel="self"></link><id>./</id><updated>2017-03-08T11:00:00+08:00</updated><entry><title>2017/03/08 W3</title><link href="./W3.html" rel="alternate"></link><published>2017-03-08T11:00:00+08:00</published><updated>2017-03-08T11:00:00+08:00</updated><author><name>40423228</name></author><id>tag:,2017-03-08:./W3.html</id><summary type="html">&lt;h2&gt;20170308W3上課內容&lt;/h2&gt;
 
 
-&lt;p&gt;&lt;span style="background-color: #00ff37"&gt;一.&lt;/span&gt;待更新&lt;/p&gt;</summary><category term="w3上課內容"></category></entry><entry><title>2017/03/01 W2</title><link href="./W2.html" rel="alternate"></link><published>2017-03-01T11:00:00+08:00</published><updated>2017-03-01T11:00:00+08:00</updated><author><name>40423228</name></author><id>tag:,2017-03-01:./W2.html</id><summary type="html">&lt;h2&gt;20170301W2上課內容&lt;/h2&gt;
+&lt;p&gt;&lt;span style="background-color: #00ff37"&gt;一.&lt;/span&gt;至&lt;a href="https://github.com/mdecourse/2017springcd/tree/gh-pages/data/w2"&gt;課程網頁&lt;/a&gt;w3 Hyperworks 處瀏覽 10 個影片, 選兩個影片, 寫出該影片的英文逐字稿&lt;/p&gt;
+&lt;p&gt;&lt;span style="background-color: #00ff37"&gt;二.&lt;/span&gt; Solvespace 30-50-60 cm 比例的四連桿組立，並轉出 stl 檔案，以 import 方式轉入 V-rep&lt;/p&gt;
+&lt;p&gt;&lt;span style="background-color: #00ff37"&gt;三.&lt;/span&gt;Onshape 完成與第二點相同尺寸之四連桿機構, 以 stl 轉出 (或其他格式) 後, 再轉入 V-rep&lt;/p&gt;
+&lt;p&gt;&lt;span style="background-color: #00ff37"&gt;四.&lt;/span&gt;在 50 連桿上加上 50-50-50 正三角形, 以 Solvespace 輸入該三角形頂點運動軌跡&lt;/p&gt;
+&lt;p&gt;&lt;span style="background-color: #00ff37"&gt;五.&lt;/span&gt;驗證上述四連桿運動軌跡, 是否正確, 並在分組網頁中執行該四連桿機構的運動模擬&lt;/p&gt;</summary><category term="w3上課內容"></category></entry><entry><title>2017/03/01 W2</title><link href="./W2.html" rel="alternate"></link><published>2017-03-01T11:00:00+08:00</published><updated>2017-03-01T11:00:00+08:00</updated><author><name>40423228</name></author><id>tag:,2017-03-01:./W2.html</id><summary type="html">&lt;h2&gt;20170301W2上課內容&lt;/h2&gt;
 
 
 &lt;p&gt;&lt;span style="background-color: #00ff37"&gt;一.&lt;/span&gt;利用python找出缺課人員&lt;/p&gt;
