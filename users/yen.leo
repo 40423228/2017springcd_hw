@@ -36,7 +36,7 @@
 <v t="yen.20170120110024.7"><vh>封面投影片</vh>
 <v t="yen.20170120110024.8"><vh>封面投影片內容</vh></v>
 </v>
-<v t="yen.20170120110024.11" a="E"><vh>20170222W1</vh>
+<v t="yen.20170120110024.11"><vh>20170222W1</vh>
 <v t="yen.20170120110024.12"><vh>上課內容</vh>
 <v t="yen.20170120110024.13"><vh>上課大綱</vh></v>
 </v>
@@ -49,7 +49,7 @@
 <v t="leo.20170226173320.1"><vh>一-2</vh>
 <v t="leo.20170226173320.2"><vh>了解如何使用stunnel</vh></v>
 </v>
-<v t="leo.20170301001458.1"><vh>一-2</vh>
+<v t="leo.20170301001458.1"><vh>一-3</vh>
 <v t="leo.20170301001458.2"><vh>修改IP</vh></v>
 </v>
 <v t="leo.20170226172938.1"><vh>(2)圖片</vh>
@@ -61,7 +61,7 @@
 <v t="leo.20170301074427.1"><vh>二-1</vh>
 <v t="leo.20170301074427.2"><vh>開啟Leo</vh></v>
 </v>
-<v t="leo.20170301074629.1" a="E"><vh>(4)圖片</vh>
+<v t="leo.20170301074629.1"><vh>(4)圖片</vh>
 <v t="leo.20170301074629.2"><vh>圖片</vh></v>
 </v>
 <v t="leo.20170301074630.1"><vh>(5)圖片</vh>
@@ -86,39 +86,36 @@
 <v t="yen.20170120110024.17"><vh>第一週影片</vh></v>
 </v>
 </v>
-<v t="leo.20170301113115.1" a="E"><vh>20170301W2</vh>
-<v t="leo.20170301113115.2"><vh>上課內容</vh>
-<v t="leo.20170301113115.3"><vh>上課大綱</vh></v>
+<v t="leo.20170308101403.1" a="E"><vh>20170301W2</vh>
+<v t="leo.20170308101403.2"><vh>上課內容</vh>
+<v t="leo.20170308101403.3"><vh>上課大綱</vh></v>
 </v>
-<v t="leo.20170301113115.4"><vh>一-1</vh>
-<v t="leo.20170301113115.5"><vh>整理分組</vh></v>
+<v t="leo.20170308101403.4"><vh>一-1</vh>
+<v t="leo.20170308101403.5"><vh>分組</vh></v>
 </v>
-<v t="leo.20170305213123.1"><vh>一-2</vh>
-<v t="leo.20170305213123.2"><vh>檔案資料</vh></v>
+<v t="leo.20170308101418.1"><vh>一-2</vh>
+<v t="leo.20170308101418.2"><vh>程式碼</vh></v>
 </v>
-<v t="leo.20170301113115.8" a="E"><vh>一-3</vh>
-<v t="leo.20170301113115.9"><vh>座位程式碼</vh></v>
+<v t="leo.20170308101403.8"><vh>二-1</vh>
+<v t="leo.20170308101403.9"><vh>四連桿</vh></v>
 </v>
-<v t="leo.20170301113115.16" a="E"><vh>二-1</vh>
-<v t="leo.20170301113115.17"><vh>利用 Solvespace 進行四連桿機構</vh></v>
+<v t="leo.20170308101403.10"><vh>二-2</vh>
+<v t="leo.20170308101403.11"><vh>四連桿下載</vh></v>
 </v>
-<v t="leo.20170301113115.22"><vh>二-2</vh>
-<v t="leo.20170301113115.23"><vh>下載</vh></v>
+<v t="leo.20170308101649.1"><vh>二-3</vh>
+<v t="leo.20170308101649.2"><vh>繪圖</vh></v>
 </v>
-<v t="leo.20170301113115.28" a="E"><vh>三-2</vh>
-<v t="leo.20170301113115.29"><vh>繪圖</vh></v>
+<v t="leo.20170308101403.12"><vh>(1)圖片</vh>
+<v t="leo.20170308101403.13"><vh>圖片</vh></v>
 </v>
-<v t="leo.20170305213504.1" a="E"><vh>圖片一</vh>
-<v t="leo.20170305213504.2"><vh>圖片</vh></v>
+<v t="leo.20170308102027.1" a="E"><vh>二-4</vh>
+<v t="leo.20170308102027.2"><vh>開啟檔案</vh></v>
 </v>
-<v t="leo.20170305213503.1" a="E"><vh>三-3</vh>
-<v t="leo.20170305213503.2"><vh>開啟</vh></v>
+<v t="leo.20170308101403.14"><vh>(2)圖片</vh>
+<v t="leo.20170308101403.15"><vh>圖片</vh></v>
 </v>
-<v t="leo.20170305213546.1" a="E"><vh>圖片二</vh>
-<v t="leo.20170305213546.2"><vh>圖片</vh></v>
-</v>
-<v t="leo.20170301113115.32" a="E"><vh>影片</vh>
-<v t="leo.20170301113115.33"><vh>第二週影片</vh></v>
+<v t="leo.20170308101403.32"><vh>影片</vh>
+<v t="leo.20170308101403.33"><vh>第一週影片</vh></v>
 </v>
 </v>
 </v>
@@ -474,11 +471,11 @@ example
 <t tx="leo.20170301074630.2">&lt;/span&gt;&lt;img src="data/W1/after.jpg" width="640" /&gt;
 
 </t>
-<t tx="leo.20170301113115.1">&lt;section&gt;
+<t tx="leo.20170308101403.1">&lt;section&gt;
 @others
 &lt;/section&gt;
 </t>
-<t tx="leo.20170301113115.16">&lt;section data-markdown&gt;
+<t tx="leo.20170308101403.10">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
 @others
@@ -489,9 +486,11 @@ example
 
 						
 </t>
-<t tx="leo.20170301113115.17">###利用 Solvespace 進行四連桿機構組立並轉為st檔
+<t tx="leo.20170308101403.11">###進行四連桿機構組下載
+
+至&lt;a href="https://github.com/mdecourse/2017springcd/tree/gh-pages/data/w2"&gt;課程倉儲&lt;/a&gt;下載"fourbarlinkage"
 </t>
-<t tx="leo.20170301113115.2">&lt;section data-markdown&gt;
+<t tx="leo.20170308101403.12">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
 @others
@@ -502,7 +501,10 @@ example
 
 						
 </t>
-<t tx="leo.20170301113115.22">&lt;section data-markdown&gt;
+<t tx="leo.20170308101403.13">&lt;a href="http://imgur.com/as4FlBV"&gt;&lt;img src="http://i.imgur.com/as4FlBV.png" title="source: imgur.com" /&gt;&lt;/a&gt;
+
+</t>
+<t tx="leo.20170308101403.14">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
 @others
@@ -513,11 +515,9 @@ example
 
 						
 </t>
-<t tx="leo.20170301113115.23">###利用 Solvespace 進行四連桿機構組立並轉為st檔
-
-####先至&lt;a href="https://github.com/mdecourse/2017springcd/tree/gh-pages/data/w2"&gt;課程倉儲&lt;/a&gt;下載"fourbarlinkage"
+<t tx="leo.20170308101403.15">&lt;a href="http://imgur.com/KBdUUpv"&gt;&lt;img src="http://i.imgur.com/KBdUUpv.png" title="source: imgur.com" /&gt;&lt;/a&gt;
 </t>
-<t tx="leo.20170301113115.28">&lt;section data-markdown&gt;
+<t tx="leo.20170308101403.2">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
 @others
@@ -528,11 +528,7 @@ example
 
 						
 </t>
-<t tx="leo.20170301113115.29">###利用 Solvespace 進行四連桿機構組立並轉為st檔
-
-開啟SolveSpace繪出四連桿的圖
-</t>
-<t tx="leo.20170301113115.3">#第二週上課筆記
+<t tx="leo.20170308101403.3">#第二週上課筆記
 
 ##一.20170301的上課內容
 
@@ -541,7 +537,7 @@ example
 
 ##三.利用 Solvespace 進行四連桿機構組立
 </t>
-<t tx="leo.20170301113115.32">&lt;section data-markdown&gt;
+<t tx="leo.20170308101403.32">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
     &lt;/script&gt;
@@ -550,14 +546,14 @@ example
 
 						
 </t>
-<t tx="leo.20170301113115.33">##四連桿機構
+<t tx="leo.20170308101403.33">##四連桿機構
 
 &lt;iframe src="https://player.vimeo.com/video/206935307" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 &lt;p&gt;&lt;a href="https://vimeo.com/206935307"&gt;四連桿機構&lt;/a&gt; from &lt;a href="https://vimeo.com/user47600730"&gt;40423228&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
 
 40423228機械設計工程系-協同產品設計實習課程-W1&lt;/a&gt; from &lt;a href="https://vimeo.com/user47600730/videos"&gt;40423228&lt;/a&gt; on &lt;a href="https://vimeo.com/home/myvideos"&gt;vimeo&lt;/a&gt;.&lt;/p&gt;
 </t>
-<t tx="leo.20170301113115.4">&lt;section data-markdown&gt;
+<t tx="leo.20170308101403.4">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
 @others
@@ -568,9 +564,9 @@ example
 
 						
 </t>
-<t tx="leo.20170301113115.5">###利用Python程式整理成分組數列與座位並找出缺課成員
+<t tx="leo.20170308101403.5">###利用Python程式整理成分組數列與座位並找出缺課成員
 </t>
-<t tx="leo.20170301113115.8">&lt;section data-markdown&gt;
+<t tx="leo.20170308101403.8">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
 @others
@@ -581,7 +577,20 @@ example
 
 						
 </t>
-<t tx="leo.20170301113115.9">###座位程式碼
+<t tx="leo.20170308101403.9">###利用 Solvespace 進行四連桿機構組立並轉為st檔
+</t>
+<t tx="leo.20170308101418.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170308101418.2">###座位程式碼
 
 ```
 @language python
@@ -654,7 +663,7 @@ print("學生總數:", n)
 
 ```
 </t>
-<t tx="leo.20170305213123.1">&lt;section data-markdown&gt;
+<t tx="leo.20170308101649.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
 @others
@@ -665,9 +674,11 @@ print("學生總數:", n)
 
 						
 </t>
-<t tx="leo.20170305213123.2">程式碼可至&lt;a href="https://github.com/mdecourse/2017springcd/tree/gh-pages/data/w2"&gt;課程倉儲&lt;/a&gt;下載 "cd_w2.py"座位程式碼，"w2b_cadlab.txt"座位表
+<t tx="leo.20170308101649.2">###繪製四連桿機構組圖
+
+開啟SolveSpace繪出四連桿的圖
 </t>
-<t tx="leo.20170305213503.1">&lt;section data-markdown&gt;
+<t tx="leo.20170308102027.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
 @others
@@ -678,39 +689,10 @@ print("學生總數:", n)
 
 						
 </t>
-<t tx="leo.20170305213503.2">###利用 Solvespace 進行四連桿機構組立並轉為st檔
-
-開啟fourbarlinkage裡的
-
+<t tx="leo.20170308102027.2">###開啟四連桿機構檔案
+開啟fourbarlinkage裡的
 link_30、link_50、link_60
-並依序組裝形成四連桿
-</t>
-<t tx="leo.20170305213504.1">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-&lt;!-- 請注意, @others 不可以內縮 --&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-
-						
-</t>
-<t tx="leo.20170305213504.2">&lt;a href="http://imgur.com/as4FlBV"&gt;&lt;img src="http://i.imgur.com/as4FlBV.png" title="source: imgur.com" /&gt;&lt;/a&gt;
-</t>
-<t tx="leo.20170305213546.1">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-&lt;!-- 請注意, @others 不可以內縮 --&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-
-						
-</t>
-<t tx="leo.20170305213546.2">&lt;a href="http://imgur.com/KBdUUpv"&gt;&lt;img src="http://i.imgur.com/KBdUUpv.png" title="source: imgur.com" /&gt;&lt;/a&gt;
-</t>
+並依序組裝形成四連桿</t>
 <t tx="yen.20170108171605.1"></t>
 <t tx="yen.20170108171605.2">QTreeWidget {
     /* These apply to the selected item, but not to editing items.*/
