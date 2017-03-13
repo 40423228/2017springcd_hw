@@ -9,20 +9,19 @@
 &lt;p&gt;&lt;a href="https://vimeo.com/206935307"&gt;四連桿機構&lt;/a&gt; from &lt;a href="https://vimeo.com/user47600730"&gt;40423228&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;span style="background-color: #00ff37"&gt;三.&lt;/span&gt;Onshape 完成與第二點相同尺寸之四連桿機構, 以 stl 轉出 (或其他格式) 後, 再轉入 V-rep&lt;/p&gt;
-&lt;iframe src="https://player.vimeo.com/video/207404520" width="640" height="503" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;iframe src="https://player.vimeo.com/video/207928838" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 
-&lt;p&gt;&lt;a href="https://vimeo.com/207404520"&gt;四連桿機構 part30&lt;/a&gt; from &lt;a href="https://vimeo.com/user47600730"&gt;40423228&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
-
-&lt;iframe src="https://player.vimeo.com/video/207404544" width="640" height="503" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
-
-&lt;p&gt;&lt;a href="https://vimeo.com/207404544"&gt;四連桿機構 part50&lt;/a&gt; from &lt;a href="https://vimeo.com/user47600730"&gt;40423228&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
-
-&lt;iframe src="https://player.vimeo.com/video/207404550" width="640" height="503" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
-
-&lt;p&gt;&lt;a href="https://vimeo.com/207404550"&gt;四連桿機構 part60&lt;/a&gt; from &lt;a href="https://vimeo.com/user47600730"&gt;40423228&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://vimeo.com/207928838"&gt;四連桿in onshape&lt;/a&gt; from &lt;a href="https://vimeo.com/user47600730"&gt;40423228&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;span style="background-color: #00ff37"&gt;四.&lt;/span&gt;在 50 連桿上加上 50-50-50 正三角形, 以 Solvespace 輸入該三角形頂點運動軌跡&lt;/p&gt;
-&lt;p&gt;&lt;span style="background-color: #00ff37"&gt;五.&lt;/span&gt;驗證上述四連桿運動軌跡, 是否正確, 並在分組網頁中執行該四連桿機構的運動模擬&lt;/p&gt;</summary><category term="w3上課內容"></category></entry><entry><title>2017/03/01 W2</title><link href="./W2.html" rel="alternate"></link><published>2017-03-01T11:00:00+08:00</published><updated>2017-03-01T11:00:00+08:00</updated><author><name>40423228</name></author><id>tag:,2017-03-01:./W2.html</id><summary type="html">&lt;h2&gt;20170301W2上課內容&lt;/h2&gt;
+&lt;p&gt;&lt;a href="http://imgur.com/RImkLbD"&gt;&lt;img src="http://i.imgur.com/RImkLbD.png" title="source: imgur.com" /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;iframe src="https://player.vimeo.com/video/208069152" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;a href="https://vimeo.com/208069152"&gt;四連桿軌跡圖&lt;/a&gt; from &lt;a href="https://vimeo.com/user47600730"&gt;40423228&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;span style="background-color: #00ff37"&gt;五.&lt;/span&gt;驗證上述四連桿運動軌跡, 是否正確, 並在分組網頁中執行該四連桿機構的運動模擬&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://imgur.com/n57fgqp"&gt;&lt;img src="http://i.imgur.com/n57fgqp.png" title="source: imgur.com" /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://imgur.com/j0QgLYk"&gt;&lt;img src="http://i.imgur.com/j0QgLYk.png" title="source: imgur.com" /&gt;&lt;/a&gt;&lt;/p&gt;</summary><category term="w3上課內容"></category></entry><entry><title>2017/03/01 W2</title><link href="./W2.html" rel="alternate"></link><published>2017-03-01T11:00:00+08:00</published><updated>2017-03-01T11:00:00+08:00</updated><author><name>40423228</name></author><id>tag:,2017-03-01:./W2.html</id><summary type="html">&lt;h2&gt;20170301W2上課內容&lt;/h2&gt;
 
 
 &lt;p&gt;&lt;span style="background-color: #00ff37"&gt;一.&lt;/span&gt;利用python找出缺課人員&lt;/p&gt;
