@@ -27,7 +27,7 @@
 <v t="yen.20170215103332.1"><vh>@edit base.html</vh></v>
 </v>
 </v>
-<v t="yen.20170120110024.1" a="E"><vh>@clean index.html</vh>
+<v t="yen.20170120110024.1"><vh>@clean index.html</vh>
 <v t="yen.20170120110024.2" a="E"><vh>html</vh>
 <v t="yen.20170120110024.3"><vh>head</vh></v>
 <v t="yen.20170120110024.4" a="E"><vh>body</vh>
@@ -195,8 +195,8 @@
 <v t="leo.20170315101743.2"><vh>第三週影片</vh></v>
 </v>
 </v>
-<v t="leo.20170315120100.1" a="E"><vh>20170314W4</vh>
-<v t="leo.20170315120100.2" a="E"><vh>上課內容</vh>
+<v t="leo.20170315120100.1"><vh>20170314W4</vh>
+<v t="leo.20170315120100.2"><vh>上課內容</vh>
 <v t="leo.20170315120100.3"><vh>上課大綱</vh></v>
 </v>
 <v t="leo.20170315120100.6"><vh>一-1</vh>
@@ -263,7 +263,8 @@
 </v>
 </v>
 <v t="yen.20170108171733.71" a="E"><vh>@path content</vh>
-<v t="leo.20170226155017.1" a="E"><vh>201702</vh>
+<v t="leo.20170226155017.1" a="E"><vh>2017</vh>
+<v t="leo.20170315122107.1"><vh>@edit group.md</vh></v>
 <v t="yen.20170123225841.1"><vh>@edit 0222W1.md</vh></v>
 <v t="leo.20170301113054.1"><vh>@edit 0301W2.md</vh></v>
 <v t="leo.20170306203414.1"><vh>@edit 0308W3.md</vh></v>
@@ -275,13 +276,8 @@
 <v t="leo.20170226155149.1"><vh></vh>
 <v t="leo.20170226155042.1"><vh>@@edit 20170108.md</vh></v>
 </v>
-</v>
-<v t="yen.20170108171733.83"><vh>產生 .key 與 .crt</vh></v>
-</v>
-<v t="yen.20170108171930.1"><vh>@button https server</vh></v>
-<v t="yen.20170108171939.1"><vh>@button ipv6 https server</vh></v>
 <v t="yen.20170120212350.1"><vh>programs</vh>
-<v t="yen.20170210153828.1" a="E"><vh>v-rep rempte api</vh>
+<v t="yen.20170210153828.1"><vh>v-rep rempte api</vh>
 <v t="yen.20170210202015.1"><vh>Python remote API</vh></v>
 <v t="yen.20170210170248.1"><vh>line tracer</vh></v>
 <v t="yen.20170210222733.1"><vh>line tracer2</vh></v>
@@ -297,6 +293,11 @@
 <v t="yen.20170124102433.1"><vh>index.html</vh></v>
 </v>
 </v>
+</v>
+<v t="yen.20170108171733.83"><vh>產生 .key 與 .crt</vh></v>
+</v>
+<v t="yen.20170108171930.1"><vh>@button https server</vh></v>
+<v t="yen.20170108171939.1"><vh>@button ipv6 https server</vh></v>
 <v t="yen.20170209024032.1"><vh>reference</vh></v>
 </vnodes>
 <tnodes>
