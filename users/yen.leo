@@ -82,8 +82,11 @@
 <v t="leo.20170226173023.1"><vh>(8)圖片</vh>
 <v t="leo.20170226173023.2"><vh>圖片</vh></v>
 </v>
-<v t="yen.20170120110024.16"><vh>影片</vh>
+<v t="yen.20170120110024.16"><vh>(1)影片</vh>
 <v t="yen.20170120110024.17"><vh>第一週影片</vh></v>
+</v>
+<v t="leo.20170315102125.1"><vh>(2)影片</vh>
+<v t="leo.20170315102125.2"><vh>第一週影片</vh></v>
 </v>
 </v>
 <v t="leo.20170308101403.1"><vh>20170301W2</vh>
@@ -114,8 +117,11 @@
 <v t="leo.20170308101403.14"><vh>(2)圖片</vh>
 <v t="leo.20170308101403.15"><vh>圖片</vh></v>
 </v>
-<v t="leo.20170308101403.32"><vh>影片</vh>
-<v t="leo.20170308101403.33"><vh>第一週影片</vh></v>
+<v t="leo.20170308101403.32"><vh>(1)影片</vh>
+<v t="leo.20170308101403.33"><vh>第二週影片</vh></v>
+</v>
+<v t="leo.20170315101626.1"><vh>(2)影片</vh>
+<v t="leo.20170315101626.2"><vh>第二週影片</vh></v>
 </v>
 </v>
 <v t="leo.20170313100813.1"><vh>20170308W3</vh>
@@ -155,10 +161,10 @@
 <v t="leo.20170313101639.1"><vh>(4)圖片</vh>
 <v t="leo.20170313101639.2"><vh>圖片</vh></v>
 </v>
-<v t="leo.20170313101945.1" a="E"><vh>四-1</vh>
+<v t="leo.20170313101945.1"><vh>四-1</vh>
 <v t="leo.20170313101945.2"><vh>檢驗</vh></v>
 </v>
-<v t="leo.20170313101947.1" a="E"><vh>四-2</vh>
+<v t="leo.20170313101947.1"><vh>四-2</vh>
 <v t="leo.20170313101947.2"><vh>程式碼</vh></v>
 </v>
 <v t="leo.20170313101950.1"><vh>(5)圖片</vh>
@@ -168,13 +174,16 @@
 <v t="leo.20170313101952.2"><vh>圖片</vh></v>
 </v>
 <v t="leo.20170313100813.20"><vh>(1)影片</vh>
-<v t="leo.20170313100813.21"><vh>第一週影片</vh></v>
+<v t="leo.20170313100813.21"><vh>第三週影片</vh></v>
 </v>
 <v t="leo.20170313102612.1"><vh>(2)影片</vh>
-<v t="leo.20170313102612.2"><vh>第一週影片</vh></v>
+<v t="leo.20170313102612.2"><vh>第三週影片</vh></v>
 </v>
-<v t="leo.20170313102648.1" a="E"><vh>(3)影片</vh>
-<v t="leo.20170313102648.2"><vh>第一週影片</vh></v>
+<v t="leo.20170313102648.1"><vh>(3)影片</vh>
+<v t="leo.20170313102648.2"><vh>第三週影片</vh></v>
+</v>
+<v t="leo.20170315101743.1" a="E"><vh>(4)影片</vh>
+<v t="leo.20170315101743.2"><vh>第三週影片</vh></v>
 </v>
 </v>
 </v>
@@ -587,14 +596,14 @@ example
 
 						
 </t>
-<t tx="leo.20170308101403.3">#第二週上課筆記
+<t tx="leo.20170308101403.3">##第二週上課筆記
 
-##一.20170301的上課內容
+####一.20170301的上課內容
 
-##二.利用 Ethercalc取得各學員座號與組別，
+####二.利用 Ethercalc取得各學員座號與組別，
 以 Python3 程式整理成分組數列與座位並找出缺課人員
 
-##三.利用 Solvespace 進行四連桿機構組立
+####三.利用 Solvespace 進行四連桿機構組立
 </t>
 <t tx="leo.20170308101403.32">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
@@ -607,10 +616,8 @@ example
 </t>
 <t tx="leo.20170308101403.33">##四連桿機構
 
-&lt;iframe src="https://player.vimeo.com/video/206935307" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
-&lt;p&gt;&lt;a href="https://vimeo.com/206935307"&gt;四連桿機構&lt;/a&gt; from &lt;a href="https://vimeo.com/user47600730"&gt;40423228&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
-
-40423228機械設計工程系-協同產品設計實習課程-W1&lt;/a&gt; from &lt;a href="https://vimeo.com/user47600730/videos"&gt;40423228&lt;/a&gt; on &lt;a href="https://vimeo.com/home/myvideos"&gt;vimeo&lt;/a&gt;.&lt;/p&gt;
+&lt;iframe src="https://player.vimeo.com/video/208413780" width="640" height="512" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href="https://vimeo.com/208413780"&gt;Solvespace 30-50-60 cm 比例的四連桿組立&lt;/a&gt; from &lt;a href="https://vimeo.com/user47600730"&gt;40423228&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
 </t>
 <t tx="leo.20170308101403.4">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
@@ -776,15 +783,13 @@ link_30、link_50、link_60
 
 						
 </t>
-<t tx="leo.20170313100813.21">##四連桿機構
+<t tx="leo.20170313100813.21">###Solvespace 30-50-60 cm 比例的四連桿組立
 
-&lt;iframe src="https://player.vimeo.com/video/206935307" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
-&lt;p&gt;&lt;a href="https://vimeo.com/206935307"&gt;四連桿機構&lt;/a&gt; from &lt;a href="https://vimeo.com/user47600730"&gt;40423228&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
-
-40423228機械設計工程系-協同產品設計實習課程-W1&lt;/a&gt; from &lt;a href="https://vimeo.com/user47600730/videos"&gt;40423228&lt;/a&gt; on &lt;a href="https://vimeo.com/home/myvideos"&gt;vimeo&lt;/a&gt;.&lt;/p&gt;
+&lt;iframe src="https://player.vimeo.com/video/208413780" width="480" height="300" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href="https://vimeo.com/208413780"&gt;Solvespace 30-50-60 cm 比例的四連桿組立&lt;/a&gt; from &lt;a href="https://vimeo.com/user47600730"&gt;40423228&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
 
 </t>
-<t tx="leo.20170313100813.3">#第三週上課筆記
+<t tx="leo.20170313100813.3">##第三週上課筆記
 
 ####一.Hyperworks 處瀏覽 10 個影片, 選兩個影片, 
 寫出該影片的英文逐字稿
@@ -1047,10 +1052,11 @@ print("ex=", ex, "ey=", ey)
 
 						
 </t>
-<t tx="leo.20170313102612.2">##四連桿機構in onshape
+<t tx="leo.20170313102612.2">###Onshape 完成與第二點相同尺寸之四連桿機構
 
-&lt;iframe src="https://player.vimeo.com/video/207928838" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
-&lt;p&gt;&lt;a href="https://vimeo.com/207928838"&gt;四連桿in onshape&lt;/a&gt; from &lt;a href="https://vimeo.com/user47600730"&gt;40423228&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;</t>
+&lt;iframe src="https://player.vimeo.com/video/208415265" width="480" height="300" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href="https://vimeo.com/208415265"&gt;Onshape 完成與第二點相同尺寸之四連桿機構&lt;/a&gt; from &lt;a href="https://vimeo.com/user47600730"&gt;40423228&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
+</t>
 <t tx="leo.20170313102648.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -1060,10 +1066,49 @@ print("ex=", ex, "ey=", ey)
 
 						
 </t>
-<t tx="leo.20170313102648.2">##四連桿機構軌跡圖
+<t tx="leo.20170313102648.2">###四連桿機構軌跡圖
 
-&lt;iframe src="https://player.vimeo.com/video/208069152" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
-&lt;p&gt;&lt;a href="https://vimeo.com/208069152"&gt;四連桿軌跡圖&lt;/a&gt; from &lt;a href="https://vimeo.com/user47600730"&gt;40423228&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;</t>
+&lt;iframe src="https://player.vimeo.com/video/208415790" width="480" height="300" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href="https://vimeo.com/208415790"&gt;四連桿軌跡圖&lt;/a&gt; from &lt;a href="https://vimeo.com/user47600730"&gt;40423228&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;</t>
+<t tx="leo.20170315101626.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20170315101626.2">###40423228機械設計工程系-協同產品設計實習課程-W2
+
+40423228機械設計工程系-協同產品設計實習課程-W2&lt;/a&gt; from &lt;a href="https://vimeo.com/user47600730/videos"&gt;40423228&lt;/a&gt; on &lt;a href="https://vimeo.com/home/myvideos"&gt;vimeo&lt;/a&gt;.&lt;/p&gt;
+</t>
+<t tx="leo.20170315101743.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20170315101743.2">###40423228機械設計工程系-協同產品設計實習課程-W3
+
+40423228機械設計工程系-協同產品設計實習課程-W3&lt;/a&gt; from &lt;a href="https://vimeo.com/user47600730/videos"&gt;40423228&lt;/a&gt; on &lt;a href="https://vimeo.com/home/myvideos"&gt;vimeo&lt;/a&gt;.&lt;/p&gt;</t>
+<t tx="leo.20170315102125.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20170315102125.2">###40423228機械設計工程系-協同產品設計實習課程-W1
+
+40423228機械設計工程系-協同產品設計實習課程-W1&lt;/a&gt; from &lt;a href="https://vimeo.com/user47600730/videos"&gt;40423228&lt;/a&gt; on &lt;a href="https://vimeo.com/home/myvideos"&gt;vimeo&lt;/a&gt;.&lt;/p&gt;
+
+</t>
 <t tx="yen.20170108171605.1"></t>
 <t tx="yen.20170108171605.2">QTreeWidget {
     /* These apply to the selected item, but not to editing items.*/
@@ -1232,13 +1277,13 @@ make.start()</t>
 
 						
 </t>
-<t tx="yen.20170120110024.13">#第一週上課筆記
+<t tx="yen.20170120110024.13">##第一週上課筆記
 
-##一.20170222的上課內容
+####一.20170222的上課內容
 
-##二.了解如何使用stunnel
+####二.了解如何使用stunnel
 
-##三.利用python程式碼控制Vrep裡的單連桿作動。
+####三.利用python程式碼控制Vrep裡的單連桿作動。
 </t>
 <t tx="yen.20170120110024.16">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
@@ -1253,9 +1298,6 @@ make.start()</t>
 
 &lt;iframe src="https://player.vimeo.com/video/206084321" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 &lt;p&gt;&lt;a href="https://vimeo.com/206084321"&gt;stunnel設定&lt;/a&gt; from &lt;a href="https://vimeo.com/user47600730"&gt;40423228&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
-
-40423228機械設計工程系-協同產品設計實習課程-W1&lt;/a&gt; from &lt;a href="https://vimeo.com/user47600730/videos"&gt;40423228&lt;/a&gt; on &lt;a href="https://vimeo.com/home/myvideos"&gt;vimeo&lt;/a&gt;.&lt;/p&gt;
-
 </t>
 <t tx="yen.20170120110024.2">&lt;!doctype html&gt;
 &lt;html lang="en"&gt;
