@@ -5,28 +5,28 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>./</loc>
-<lastmod>2017-03-15T11:58:57-00:00</lastmod>
+<lastmod>2017-03-15T12:01:31-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./archives.html</loc>
-<lastmod>2017-03-15T11:58:57-00:00</lastmod>
+<lastmod>2017-03-15T12:01:31-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./tags.html</loc>
-<lastmod>2017-03-15T11:58:57-00:00</lastmod>
+<lastmod>2017-03-15T12:01:31-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./categories.html</loc>
-<lastmod>2017-03-15T11:58:57-00:00</lastmod>
+<lastmod>2017-03-15T12:01:31-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -74,6 +74,13 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
+<loc>./tag/w4shang-ke-nei-rong.html</loc>
+<lastmod>2017-03-15T11:00:00+08:06</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
 <loc>./tag/w2shang-ke-nei-rong.html</loc>
 <lastmod>2017-03-01T11:00:00+08:06</lastmod>
 <changefreq>daily</changefreq>
@@ -83,13 +90,6 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>./tag/w3shang-ke-nei-rong.html</loc>
 <lastmod>2017-03-08T11:00:00+08:06</lastmod>
-<changefreq>daily</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>./tag/w4shang-ke-nei-rong.html</loc>
-<lastmod>2017-03-15T11:00:00+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
