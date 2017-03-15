@@ -27,7 +27,7 @@
 <v t="yen.20170215103332.1"><vh>@edit base.html</vh></v>
 </v>
 </v>
-<v t="yen.20170120110024.1"><vh>@clean index.html</vh>
+<v t="yen.20170120110024.1" a="E"><vh>@clean index.html</vh>
 <v t="yen.20170120110024.2" a="E"><vh>html</vh>
 <v t="yen.20170120110024.3"><vh>head</vh></v>
 <v t="yen.20170120110024.4" a="E"><vh>body</vh>
@@ -36,7 +36,15 @@
 <v t="yen.20170120110024.7"><vh>封面投影片</vh>
 <v t="yen.20170120110024.8"><vh>封面投影片內容</vh></v>
 </v>
-<v t="yen.20170120110024.11"><vh>20170222W1</vh>
+<v t="leo.20170315155846.1" a="E"><vh>2017springcd_bg7</vh>
+<v t="leo.20170315160415.1"><vh>bg7成員</vh>
+<v t="leo.20170315160415.2"><vh>bg7成員</vh></v>
+</v>
+<v t="leo.20170315155846.2" a="E"><vh>連結</vh>
+<v t="leo.20170315155909.1"><vh>連結</vh></v>
+</v>
+</v>
+<v t="yen.20170120110024.11" a="E"><vh>20170222W1</vh>
 <v t="yen.20170120110024.12"><vh>上課內容</vh>
 <v t="yen.20170120110024.13"><vh>上課大綱</vh></v>
 </v>
@@ -1544,6 +1552,35 @@ print("ex=", ex, "ey=", ey)
 						
 </t>
 <t tx="leo.20170315120100.9">&lt;a href="http://imgur.com/y1pHxwR"&gt;&lt;img src="http://i.imgur.com/y1pHxwR.png" title="source: imgur.com" /&gt;&lt;/a&gt;</t>
+<t tx="leo.20170315155846.1">&lt;section&gt;
+@others
+&lt;/section&gt;</t>
+<t tx="leo.20170315155846.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;</t>
+<t tx="leo.20170315155909.1">####40423202&lt;a href="https://40423202.github.io/2017springcd_hw/blog/"&gt;網誌&lt;/a&gt;、&lt;a href="https://40423202.github.io/2017springcd_hw/#/"&gt;投影片&lt;/a&gt;
+
+####40423221&lt;a href="https://40423221.github.io/2017springcd_hw/blog/"&gt;網誌&lt;/a&gt;、&lt;a href="https://40423221.github.io/2017springcd_hw/#/"&gt;投影片&lt;/a&gt;
+
+####40423222&lt;a href="https://40423222.github.io/2017springcd_hw/blog/"&gt;網誌&lt;/a&gt;、&lt;a href="https://40423222.github.io/2017springcd_hw/#/"&gt;投影片&lt;/a&gt;
+
+####40423228&lt;a href="https://40423228.github.io/2017springcd_hw/blog/"&gt;網誌&lt;/a&gt;、&lt;a href="https://40423228.github.io/2017springcd_hw/#/"&gt;投影片&lt;/a&gt;
+
+####40423245&lt;a href="https://40423245.github.io/2017springcd_hw/blog/"&gt;網誌&lt;/a&gt;、&lt;a href="https://40423245.github.io/2017springcd_hw/#/"&gt;投影片&lt;/a&gt;
+
+####40423248&lt;a href="https://40423248.github.io/2017springcd_hw/blog/"&gt;網誌&lt;/a&gt;、&lt;a href="https://40423248.github.io/2017springcd_hw/#/"&gt;投影片&lt;/a&gt;
+
+####40423251&lt;a href="https://40423251.github.io/2017springcd_hw/blog/"&gt;網誌&lt;/a&gt;、&lt;a href="https://40423251.github.io/2017springcd_hw/#/"&gt;投影片&lt;/a&gt;</t>
+<t tx="leo.20170315160415.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;</t>
+<t tx="leo.20170315160415.2">##bg7成員網誌、投影片</t>
 <t tx="yen.20170108171605.1"></t>
 <t tx="yen.20170108171605.2">QTreeWidget {
     /* These apply to the selected item, but not to editing items.*/
