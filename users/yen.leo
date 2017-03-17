@@ -33,18 +33,21 @@
 <v t="yen.20170120110024.4" a="E"><vh>body</vh>
 <v t="yen.20170120110024.5" a="E"><vh>reveal div</vh>
 <v t="yen.20170120110024.6" a="E"><vh>slides div</vh>
-<v t="yen.20170120110024.7"><vh>封面投影片</vh>
+<v t="yen.20170120110024.7" a="E"><vh>封面投影片</vh>
 <v t="yen.20170120110024.8"><vh>封面投影片內容</vh></v>
 </v>
-<v t="leo.20170315155846.1" a="E"><vh>2017springcd_bg7</vh>
+<v t="leo.20170317163035.1" a="E"><vh>投影片快捷鍵</vh>
+<v t="leo.20170317163035.2"><vh>投影片快捷鍵</vh></v>
+</v>
+<v t="leo.20170315155846.1"><vh>2017springcd_bg7</vh>
 <v t="leo.20170315160415.1"><vh>bg7成員</vh>
 <v t="leo.20170315160415.2"><vh>bg7成員</vh></v>
 </v>
-<v t="leo.20170315155846.2" a="E"><vh>連結</vh>
+<v t="leo.20170315155846.2"><vh>連結</vh>
 <v t="leo.20170315155909.1"><vh>連結</vh></v>
 </v>
 </v>
-<v t="yen.20170120110024.11" a="E"><vh>20170222W1</vh>
+<v t="yen.20170120110024.11"><vh>20170222W1</vh>
 <v t="yen.20170120110024.12"><vh>上課內容</vh>
 <v t="yen.20170120110024.13"><vh>上課大綱</vh></v>
 </v>
@@ -1581,6 +1584,21 @@ print("ex=", ex, "ey=", ey)
     &lt;/script&gt;
 &lt;/section&gt;</t>
 <t tx="leo.20170315160415.2">##bg7成員網誌、投影片</t>
+<t tx="leo.20170317163035.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;</t>
+<t tx="leo.20170317163035.2"># 投影片快捷鍵
+
+* 利用箭頭上下前後換頁
+* 按 f 鍵進入全螢幕模式 (full screen)
+* 按 s 鍵可以顯示投影片筆記 (show)
+* 按 o 鍵可以切換單張或全域檢視 (overview)
+* 按 b 或 . 鍵可以切換螢幕黑屏 (black)
+* 按 Esc 可以退出全螢幕或全域檢視 (Escape)
+
+</t>
 <t tx="yen.20170108171605.1"></t>
 <t tx="yen.20170108171605.2">QTreeWidget {
     /* These apply to the selected item, but not to editing items.*/
