@@ -5,6 +5,7 @@ Tags: bg7 group
 Slug: group
 Author: 40423228
 
+<!-- PELICAN_END_SUMMARY -->
 #group7<a href="https://40423222.github.io/2017springcd_bg7/blog/">網誌</a>、<a href="https://40423222.github.io/2017springcd_bg7/#/">投影片</a>、<a href="https://github.com/40423222/2017springcd_bg7">倉儲</a>
 
 #40423202<a href="https://40423202.github.io/2017springcd_hw/blog/">網誌</a>、<a href="https://40423202.github.io/2017springcd_hw/#/">投影片</a>、<a href="https://github.com/40423202/2017springcd_hw">倉儲</a>
