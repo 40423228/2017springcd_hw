@@ -1246,19 +1246,19 @@ print("ex=", ex, "ey=", ey)
 &lt;/section&gt;</t>
 <t tx="leo.20170315155909.1">####group7&lt;a href="https://40423222.github.io/2017springcd_bg7/blog/"&gt;網誌&lt;/a&gt;、&lt;a href="https://40423222.github.io/2017springcd_bg7/#/"&gt;投影片&lt;/a&gt;、&lt;a href="https://github.com/40423222/2017springcd_bg7"&gt;倉儲&lt;/a&gt;
 
-####40423202&lt;a href="https://40423202.github.io/2017springcd_hw/blog/"&gt;網誌&lt;/a&gt;、&lt;a href="https://40423202.github.io/2017springcd_hw/#/"&gt;投影片&lt;/a&gt;
+####40423202&lt;a href="https://40423202.github.io/2017springcd_hw/blog/"&gt;網誌&lt;/a&gt;、&lt;a href="https://40423202.github.io/2017springcd_hw/#/"&gt;投影片&lt;/a&gt;、&lt;a href="https://github.com/40423202/2017springcd_bg7"&gt;倉儲&lt;/a&gt;
 
-####40423221&lt;a href="https://40423221.github.io/2017springcd_hw/blog/"&gt;網誌&lt;/a&gt;、&lt;a href="https://40423221.github.io/2017springcd_hw/#/"&gt;投影片&lt;/a&gt;
+####40423221&lt;a href="https://40423221.github.io/2017springcd_hw/blog/"&gt;網誌&lt;/a&gt;、&lt;a href="https://40423221.github.io/2017springcd_hw/#/"&gt;投影片&lt;/a&gt;、&lt;a href="https://github.com/40423221/2017springcd_bg7"&gt;倉儲&lt;/a&gt;
 
-####40423222&lt;a href="https://40423222.github.io/2017springcd_hw/blog/"&gt;網誌&lt;/a&gt;、&lt;a href="https://40423222.github.io/2017springcd_hw/#/"&gt;投影片&lt;/a&gt;
+####40423222&lt;a href="https://40423222.github.io/2017springcd_hw/blog/"&gt;網誌&lt;/a&gt;、&lt;a href="https://40423222.github.io/2017springcd_hw/#/"&gt;投影片&lt;/a&gt;、&lt;a href="https://github.com/40423222/2017springcd_bg7"&gt;倉儲&lt;/a&gt;
 
-####40423228&lt;a href="https://40423228.github.io/2017springcd_hw/blog/"&gt;網誌&lt;/a&gt;、&lt;a href="https://40423228.github.io/2017springcd_hw/#/"&gt;投影片&lt;/a&gt;
+####40423228&lt;a href="https://40423228.github.io/2017springcd_hw/blog/"&gt;網誌&lt;/a&gt;、&lt;a href="https://40423228.github.io/2017springcd_hw/#/"&gt;投影片&lt;/a&gt;、&lt;a href="https://github.com/40423228/2017springcd_bg7"&gt;倉儲&lt;/a&gt;
 
-####40423245&lt;a href="https://40423245.github.io/2017springcd_hw/blog/"&gt;網誌&lt;/a&gt;、&lt;a href="https://40423245.github.io/2017springcd_hw/#/"&gt;投影片&lt;/a&gt;
+####40423245&lt;a href="https://40423245.github.io/2017springcd_hw/blog/"&gt;網誌&lt;/a&gt;、&lt;a href="https://40423245.github.io/2017springcd_hw/#/"&gt;投影片&lt;/a&gt;、&lt;a href="https://github.com/40423245/2017springcd_bg7"&gt;倉儲&lt;/a&gt;
 
-####40423248&lt;a href="https://40423248.github.io/2017springcd_hw/blog/"&gt;網誌&lt;/a&gt;、&lt;a href="https://40423248.github.io/2017springcd_hw/#/"&gt;投影片&lt;/a&gt;
+####40423248&lt;a href="https://40423248.github.io/2017springcd_hw/blog/"&gt;網誌&lt;/a&gt;、&lt;a href="https://40423248.github.io/2017springcd_hw/#/"&gt;投影片&lt;/a&gt;、&lt;a href="https://github.com/40423248/2017springcd_bg7"&gt;倉儲&lt;/a&gt;
 
-####40423251&lt;a href="https://40423251.github.io/2017springcd_hw/blog/"&gt;網誌&lt;/a&gt;、&lt;a href="https://40423251.github.io/2017springcd_hw/#/"&gt;投影片&lt;/a&gt;</t>
+####40423251&lt;a href="https://40423251.github.io/2017springcd_hw/blog/"&gt;網誌&lt;/a&gt;、&lt;a href="https://40423251.github.io/2017springcd_hw/#/"&gt;投影片&lt;/a&gt;、&lt;a href="https://github.com/40423251/2017springcd_bg7"&gt;倉儲&lt;/a&gt;</t>
 <t tx="leo.20170315160415.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
