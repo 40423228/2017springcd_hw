@@ -36,14 +36,14 @@
 <v t="yen.20170120110024.7"><vh>封面投影片</vh>
 <v t="yen.20170120110024.8"><vh>封面投影片內容</vh></v>
 </v>
-<v t="leo.20170317163035.1" a="E"><vh>投影片快捷鍵</vh>
+<v t="leo.20170317163035.1"><vh>投影片快捷鍵</vh>
 <v t="leo.20170317163035.2"><vh>投影片快捷鍵</vh></v>
 </v>
-<v t="leo.20170315155846.1"><vh>2017springcd_bg7</vh>
+<v t="leo.20170315155846.1" a="E"><vh>2017springcd_bg7</vh>
 <v t="leo.20170315160415.1"><vh>bg7成員</vh>
 <v t="leo.20170315160415.2"><vh>bg7成員</vh></v>
 </v>
-<v t="leo.20170315155846.2"><vh>連結</vh>
+<v t="leo.20170315155846.2" a="E"><vh>連結</vh>
 <v t="leo.20170315155909.1"><vh>連結</vh></v>
 </v>
 </v>
@@ -1244,7 +1244,9 @@ print("ex=", ex, "ey=", ey)
 @others
     &lt;/script&gt;
 &lt;/section&gt;</t>
-<t tx="leo.20170315155909.1">####40423202&lt;a href="https://40423202.github.io/2017springcd_hw/blog/"&gt;網誌&lt;/a&gt;、&lt;a href="https://40423202.github.io/2017springcd_hw/#/"&gt;投影片&lt;/a&gt;
+<t tx="leo.20170315155909.1">####group7&lt;a href="https://40423222.github.io/2017springcd_bg7/blog/"&gt;網誌&lt;/a&gt;、&lt;a href="https://40423222.github.io/2017springcd_bg7/#/"&gt;投影片&lt;/a&gt;、&lt;a href="https://github.com/40423222/2017springcd_bg7"&gt;倉儲&lt;/a&gt;
+
+####40423202&lt;a href="https://40423202.github.io/2017springcd_hw/blog/"&gt;網誌&lt;/a&gt;、&lt;a href="https://40423202.github.io/2017springcd_hw/#/"&gt;投影片&lt;/a&gt;
 
 ####40423221&lt;a href="https://40423221.github.io/2017springcd_hw/blog/"&gt;網誌&lt;/a&gt;、&lt;a href="https://40423221.github.io/2017springcd_hw/#/"&gt;投影片&lt;/a&gt;
 
