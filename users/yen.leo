@@ -33,7 +33,7 @@
 <v t="yen.20170120110024.4" a="E"><vh>body</vh>
 <v t="yen.20170120110024.5" a="E"><vh>reveal div</vh>
 <v t="yen.20170120110024.6" a="E"><vh>slides div</vh>
-<v t="yen.20170120110024.7" a="E"><vh>封面投影片</vh>
+<v t="yen.20170120110024.7"><vh>封面投影片</vh>
 <v t="yen.20170120110024.8"><vh>封面投影片內容</vh></v>
 </v>
 <v t="leo.20170317163035.1" a="E"><vh>投影片快捷鍵</vh>
@@ -206,66 +206,15 @@
 <v t="leo.20170315101743.2"><vh>第三週影片</vh></v>
 </v>
 </v>
-<v t="leo.20170315120100.1"><vh>20170314W4</vh>
-<v t="leo.20170315120100.2"><vh>上課內容</vh>
+<v t="leo.20170315120100.1"><vh>20170315W4</vh>
+<v t="leo.20170315120100.2" a="E"><vh>上課內容</vh>
 <v t="leo.20170315120100.3"><vh>上課大綱</vh></v>
-</v>
-<v t="leo.20170315120100.6"><vh>一-1</vh>
-<v t="leo.20170315120100.7"><vh>繪圖</vh></v>
-</v>
-<v t="leo.20170315120100.8"><vh>(1)圖片</vh>
-<v t="leo.20170315120100.9"><vh>圖片</vh></v>
-</v>
-<v t="leo.20170315120100.10"><vh>二-1</vh>
-<v t="leo.20170315120100.11"><vh>四連桿</vh></v>
-</v>
-<v t="leo.20170315120100.12"><vh>二-2</vh>
-<v t="leo.20170315120100.13"><vh>四連桿下載</vh></v>
-</v>
-<v t="leo.20170315120100.14"><vh>二-3</vh>
-<v t="leo.20170315120100.15"><vh>繪圖</vh></v>
-</v>
-<v t="leo.20170315120100.16"><vh>(2)圖片</vh>
-<v t="leo.20170315120100.17"><vh>圖片</vh></v>
-</v>
-<v t="leo.20170315120100.18"><vh>二-4</vh>
-<v t="leo.20170315120100.19"><vh>開啟檔案</vh></v>
-</v>
-<v t="leo.20170315120100.20"><vh>(3)圖片</vh>
-<v t="leo.20170315120100.21"><vh>圖片</vh></v>
-</v>
-<v t="leo.20170315120100.22"><vh>三-1</vh>
-<v t="leo.20170315120100.23"><vh>三角形</vh></v>
-</v>
-<v t="leo.20170315120100.24"><vh>(4)圖片</vh>
-<v t="leo.20170315120100.25"><vh>圖片</vh></v>
-</v>
-<v t="leo.20170315120100.26"><vh>四-1</vh>
-<v t="leo.20170315120100.27"><vh>檢驗</vh></v>
-</v>
-<v t="leo.20170315120100.28"><vh>四-2</vh>
-<v t="leo.20170315120100.29"><vh>程式碼</vh></v>
 </v>
 <v t="leo.20170315120100.30"><vh>心得</vh>
 <v t="leo.20170315120100.31"><vh>心得</vh></v>
 </v>
-<v t="leo.20170315120100.32"><vh>(5)圖片</vh>
-<v t="leo.20170315120100.33"><vh>圖片</vh></v>
-</v>
-<v t="leo.20170315120100.34"><vh>(6)圖片</vh>
-<v t="leo.20170315120100.35"><vh>圖片</vh></v>
-</v>
 <v t="leo.20170315120100.36"><vh>(1)影片</vh>
 <v t="leo.20170315120100.37"><vh>第三週影片</vh></v>
-</v>
-<v t="leo.20170315120100.38"><vh>(2)影片</vh>
-<v t="leo.20170315120100.39"><vh>第三週影片</vh></v>
-</v>
-<v t="leo.20170315120100.40"><vh>(3)影片</vh>
-<v t="leo.20170315120100.41"><vh>第三週影片</vh></v>
-</v>
-<v t="leo.20170315120100.42"><vh>(4)影片</vh>
-<v t="leo.20170315120100.43"><vh>第三週影片</vh></v>
 </v>
 </v>
 </v>
@@ -1242,78 +1191,6 @@ print("ex=", ex, "ey=", ey)
 @others
 &lt;/section&gt;
 </t>
-<t tx="leo.20170315120100.10">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-&lt;!-- 請注意, @others 不可以內縮 --&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-
-						
-</t>
-<t tx="leo.20170315120100.11">###利用 Solvespace 進行四連桿機構組立並轉為st檔
-</t>
-<t tx="leo.20170315120100.12">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-&lt;!-- 請注意, @others 不可以內縮 --&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-
-						
-</t>
-<t tx="leo.20170315120100.13">###進行四連桿機構組下載
-
-至&lt;a href="https://github.com/mdecourse/2017springcd/tree/gh-pages/data/w2"&gt;課程倉儲&lt;/a&gt;下載"fourbarlinkage"
-</t>
-<t tx="leo.20170315120100.14">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-&lt;!-- 請注意, @others 不可以內縮 --&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-
-						
-</t>
-<t tx="leo.20170315120100.15">###繪製四連桿機構組圖
-
-開啟SolveSpace繪出四連桿的圖
-</t>
-<t tx="leo.20170315120100.16">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-&lt;!-- 請注意, @others 不可以內縮 --&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-
-						
-</t>
-<t tx="leo.20170315120100.17">&lt;a href="http://imgur.com/as4FlBV"&gt;&lt;img src="http://i.imgur.com/as4FlBV.png" title="source: imgur.com" /&gt;&lt;/a&gt;
-
-</t>
-<t tx="leo.20170315120100.18">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-&lt;!-- 請注意, @others 不可以內縮 --&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-
-						
-</t>
-<t tx="leo.20170315120100.19">###開啟四連桿機構檔案
-開啟fourbarlinkage裡的
-link_30、link_50、link_60
-並依序組裝形成四連桿</t>
 <t tx="leo.20170315120100.2">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
@@ -1324,116 +1201,6 @@ link_30、link_50、link_60
 
 
 						
-</t>
-<t tx="leo.20170315120100.20">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-&lt;!-- 請注意, @others 不可以內縮 --&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-
-						
-</t>
-<t tx="leo.20170315120100.21">&lt;a href="http://imgur.com/KBdUUpv"&gt;&lt;img src="http://i.imgur.com/KBdUUpv.png" title="source: imgur.com" /&gt;&lt;/a&gt;
-</t>
-<t tx="leo.20170315120100.22">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-&lt;!-- 請注意, @others 不可以內縮 --&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-
-						
-</t>
-<t tx="leo.20170315120100.23">###在 50 連桿上加上 50-50-50 正三角形, 
-以 Solvespace 輸入該三角形頂點運動軌跡</t>
-<t tx="leo.20170315120100.24">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-&lt;!-- 請注意, @others 不可以內縮 --&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-
-						
-</t>
-<t tx="leo.20170315120100.25">&lt;a href="http://imgur.com/RImkLbD"&gt;&lt;img src="http://i.imgur.com/RImkLbD.png" title="source: imgur.com" /&gt;&lt;/a&gt;</t>
-<t tx="leo.20170315120100.26">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-&lt;!-- 請注意, @others 不可以內縮 --&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-
-						
-</t>
-<t tx="leo.20170315120100.27">###驗證上述四連桿運動軌跡, 是否正確, 
-並在分組網頁中執行該四連桿機構的運動模擬</t>
-<t tx="leo.20170315120100.28">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-&lt;!-- 請注意, @others 不可以內縮 --&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-
-						
-</t>
-<t tx="leo.20170315120100.29">###程式碼
-
-```
-@language python
-from math import pi, cos, sin, sqrt, acos
- 
-radian = 180/pi
-degree = pi/180
- 
-#PLAP
-def plap(ax, ay, ac, bac, bx, by, pos):
-    if pos == 0:
-        cx= ac*cos(bac - acos((ax**2 - 2*ax*bx + ay**2 - 2*ay*by + bx**2 + by**2 + abs(ax - bx)**2 - abs(ay - by)**2)/(2*sqrt(ax**2 - 2*ax*bx + ay**2 - 2*ay*by + bx**2 + by**2)*abs(ax - bx)))) + ax 
-        cy= ac*sin(bac - acos((ax**2 - 2*ax*bx + ay**2 - 2*ay*by + bx**2 + by**2 + abs(ax - bx)**2 - abs(ay - by)**2)/(2*sqrt(ax**2 - 2*ax*bx + ay**2 - 2*ay*by + bx**2 + by**2)*abs(ax - bx)))) + ay
-    else:
-        cx= ac*cos(bac + acos((ax**2 - 2*ax*bx + ay**2 - 2*ay*by + bx**2 + by**2 + abs(ax - bx)**2 - abs(ay - by)**2)/(2*sqrt(ax**2 - 2*ax*bx + ay**2 - 2*ay*by + bx**2 + by**2)*abs(ax - bx)))) + ax 
-        cy= ac*sin(bac + acos((ax**2 - 2*ax*bx + ay**2 - 2*ay*by + bx**2 + by**2 + abs(ax - bx)**2 - abs(ay - by)**2)/(2*sqrt(ax**2 - 2*ax*bx + ay**2 - 2*ay*by + bx**2 + by**2)*abs(ax - bx)))) + ay
-    return cx, cy
- 
-#PLLP
-def pllp(ax, ay, ac, cb, bx, by, pos):
-    if pos == 0:
-        cx =  -((ay - by)*(-ac**2*ay + ac**2*by + ax**2*ay + ax**2*by - 2*ax*ay*bx - 2*ax*bx*by + ay**3 - ay**2*by + ay*bx**2 - ay*by**2 + ay*cb**2 + bx**2*by + by**3 - by*cb**2 - sqrt((-ac**2 + 2*ac*cb + ax**2 - 2*ax*bx + ay**2 - 2*ay*by + bx**2 + by**2 - cb**2)*(ac**2 + 2*ac*cb - ax**2 + 2*ax*bx - ay**2 + 2*ay*by - bx**2 - by**2 + cb**2))*(ax - bx)) + (ac**2 - ax**2 - ay**2 + bx**2 + by**2 - cb**2)*(ax**2 - 2*ax*bx + ay**2 - 2*ay*by + bx**2 + by**2))/(2*(ax - bx)*(ax**2 - 2*ax*bx + ay**2 - 2*ay*by + bx**2 + by**2))
-        cy =  (-ac**2*ay + ac**2*by + ax**2*ay + ax**2*by - 2*ax*ay*bx - 2*ax*bx*by + ay**3 - ay**2*by + ay*bx**2 - ay*by**2 + ay*cb**2 + bx**2*by + by**3 - by*cb**2 + sqrt((-ac**2 + 2*ac*cb + ax**2 - 2*ax*bx + ay**2 - 2*ay*by + bx**2 + by**2 - cb**2)*(ac**2 + 2*ac*cb - ax**2 + 2*ax*bx - ay**2 + 2*ay*by - bx**2 - by**2 + cb**2))*(-ax + bx))/(2*(ax**2 - 2*ax*bx + ay**2 - 2*ay*by + bx**2 + by**2))
-    else:
-        cx =  -((ay - by)*(-ac**2*ay + ac**2*by + ax**2*ay + ax**2*by - 2*ax*ay*bx - 2*ax*bx*by + ay**3 - ay**2*by + ay*bx**2 - ay*by**2 + ay*cb**2 + bx**2*by + by**3 - by*cb**2 + sqrt((-ac**2 + 2*ac*cb + ax**2 - 2*ax*bx + ay**2 - 2*ay*by + bx**2 + by**2 - cb**2)*(ac**2 + 2*ac*cb - ax**2 + 2*ax*bx - ay**2 + 2*ay*by - bx**2 - by**2 + cb**2))*(ax - bx)) + (ac**2 - ax**2 - ay**2 + bx**2 + by**2 - cb**2)*(ax**2 - 2*ax*bx + ay**2 - 2*ay*by + bx**2 + by**2))/(2*(ax - bx)*(ax**2 - 2*ax*bx + ay**2 - 2*ay*by + bx**2 + by**2))
-        cy =  (-ac**2*ay + ac**2*by + ax**2*ay + ax**2*by - 2*ax*ay*bx - 2*ax*bx*by + ay**3 - ay**2*by + ay*bx**2 - ay*by**2 + ay*cb**2 + bx**2*by + by**3 - by*cb**2 + sqrt((-ac**2 + 2*ac*cb + ax**2 - 2*ax*bx + ay**2 - 2*ay*by + bx**2 + by**2 - cb**2)*(ac**2 + 2*ac*cb - ax**2 + 2*ax*bx - ay**2 + 2*ay*by - bx**2 - by**2 + cb**2))*(ax - bx))/(2*(ax**2 - 2*ax*bx + ay**2 - 2*ay*by + bx**2 + by**2))
-    return cx, cy
- 
-ax = -60
-ay = 0
-bx = 0
-by = 0
-bac = 50*degree
-ac = 30
-cd = 50
-db = 60
-ce = 50
-ed = 50
-cx, cy = plap(ax, ay, ac, bac, bx, by, 0)
-print("cx=", cx, "cy=", cy)
-dx, dy = pllp(cx, cy, cd, db, bx, by, 0)
-print("dx=", dx, "dy=", dy)
-ex, ey = pllp(cx, cy, ce, ed, dx, dy, 0)
-print("ex=", ex, "ey=", ey)
-
-```
 </t>
 <t tx="leo.20170315120100.3">##第四週上課筆記
 
@@ -1453,30 +1220,6 @@ print("ex=", ex, "ey=", ey)
 
 ####這周各組要從10部影片裡找出兩部翻譯，才發現自己英文的聽力十分不足，幾乎每句都聽不懂，希望能盡快補足英文聽力的能力。
 </t>
-<t tx="leo.20170315120100.32">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-&lt;!-- 請注意, @others 不可以內縮 --&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-
-						
-</t>
-<t tx="leo.20170315120100.33">&lt;a href="http://imgur.com/n57fgqp"&gt;&lt;img src="http://i.imgur.com/n57fgqp.png" title="source: imgur.com" /&gt;&lt;/a&gt;</t>
-<t tx="leo.20170315120100.34">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-&lt;!-- 請注意, @others 不可以內縮 --&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-
-						
-</t>
-<t tx="leo.20170315120100.35">&lt;a href="http://imgur.com/j0QgLYk"&gt;&lt;img src="http://i.imgur.com/j0QgLYk.png" title="source: imgur.com" /&gt;&lt;/a&gt;</t>
 <t tx="leo.20170315120100.36">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -1492,69 +1235,6 @@ print("ex=", ex, "ey=", ey)
 &lt;p&gt;&lt;a href="https://vimeo.com/208413780"&gt;Solvespace 30-50-60 cm 比例的四連桿組立&lt;/a&gt; from &lt;a href="https://vimeo.com/user47600730"&gt;40423228&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
 
 </t>
-<t tx="leo.20170315120100.38">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-						
-</t>
-<t tx="leo.20170315120100.39">###Onshape 完成與第二點相同尺寸之四連桿機構
-
-&lt;iframe src="https://player.vimeo.com/video/208415265" width="480" height="300" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
-&lt;p&gt;&lt;a href="https://vimeo.com/208415265"&gt;Onshape 完成與第二點相同尺寸之四連桿機構&lt;/a&gt; from &lt;a href="https://vimeo.com/user47600730"&gt;40423228&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
-</t>
-<t tx="leo.20170315120100.40">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-						
-</t>
-<t tx="leo.20170315120100.41">###四連桿機構軌跡圖
-
-&lt;iframe src="https://player.vimeo.com/video/208415790" width="480" height="300" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
-&lt;p&gt;&lt;a href="https://vimeo.com/208415790"&gt;四連桿軌跡圖&lt;/a&gt; from &lt;a href="https://vimeo.com/user47600730"&gt;40423228&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;</t>
-<t tx="leo.20170315120100.42">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-						
-</t>
-<t tx="leo.20170315120100.43">###40423228機械設計工程系-協同產品設計實習課程-W3
-
-40423228機械設計工程系-協同產品設計實習課程-W3&lt;/a&gt; from &lt;a href="https://vimeo.com/user47600730/videos"&gt;40423228&lt;/a&gt; on &lt;a href="https://vimeo.com/home/myvideos"&gt;vimeo&lt;/a&gt;.&lt;/p&gt;</t>
-<t tx="leo.20170315120100.6">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-&lt;!-- 請注意, @others 不可以內縮 --&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-
-						
-</t>
-<t tx="leo.20170315120100.7">###Onshape 完成與第二點相同尺寸之四連桿機構</t>
-<t tx="leo.20170315120100.8">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-&lt;!-- 請注意, @others 不可以內縮 --&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-
-						
-</t>
-<t tx="leo.20170315120100.9">&lt;a href="http://imgur.com/y1pHxwR"&gt;&lt;img src="http://i.imgur.com/y1pHxwR.png" title="source: imgur.com" /&gt;&lt;/a&gt;</t>
 <t tx="leo.20170315155846.1">&lt;section&gt;
 @others
 &lt;/section&gt;</t>
