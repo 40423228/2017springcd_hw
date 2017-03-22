@@ -28,11 +28,11 @@
 </v>
 </v>
 <v t="yen.20170120110024.1" a="E"><vh>@clean index.html</vh>
-<v t="yen.20170120110024.2"><vh>html</vh>
+<v t="yen.20170120110024.2" a="E"><vh>html</vh>
 <v t="yen.20170120110024.3"><vh>head</vh></v>
-<v t="yen.20170120110024.4"><vh>body</vh>
-<v t="yen.20170120110024.5"><vh>reveal div</vh>
-<v t="yen.20170120110024.6"><vh>slides div</vh>
+<v t="yen.20170120110024.4" a="E"><vh>body</vh>
+<v t="yen.20170120110024.5" a="E"><vh>reveal div</vh>
+<v t="yen.20170120110024.6" a="E"><vh>slides div</vh>
 <v t="yen.20170120110024.7"><vh>封面投影片</vh>
 <v t="yen.20170120110024.8"><vh>封面投影片內容</vh></v>
 </v>
@@ -1155,7 +1155,7 @@ print("ex=", ex, "ey=", ey)
 </t>
 <t tx="leo.20170315104239.2">###心得
 
-####經過上學期的學習以後發現這學期學的課程變得有點難，每周還要有組別上台報告自己組的該周進度，希望這學期可以早點進入狀況。
+####這學期開始每周還要有組上台報告該周進度、利用python控制vrep裡的單連桿機構，期望能早點弄懂vrep以方便之後的多連桿的組裝。
 </t>
 <t tx="leo.20170315104323.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
@@ -1185,7 +1185,7 @@ print("ex=", ex, "ey=", ey)
 </t>
 <t tx="leo.20170315104335.2">###心得
 
-####這周學到了使用程式碼來解決資料的方便，也開始學習使用Vrep。
+####這周學到了使用程式碼來解決資料的方便，也開始學習了解如何使用Vrep。
 </t>
 <t tx="leo.20170315120100.1">&lt;section&gt;
 @others
