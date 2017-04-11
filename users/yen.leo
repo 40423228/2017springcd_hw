@@ -287,7 +287,7 @@
 <v t="leo.20170412004018.17"><vh>第六週影片</vh></v>
 </v>
 </v>
-<v t="leo.20170412010724.1"><vh>20170405W7</vh>
+<v t="leo.20170412010724.1" a="E"><vh>20170405W7</vh>
 <v t="leo.20170412010724.2"><vh>上課內容</vh>
 <v t="leo.20170412010724.3"><vh>上課大綱</vh></v>
 </v>
@@ -300,13 +300,40 @@
 <v t="leo.20170412010724.8"><vh>二-1</vh>
 <v t="leo.20170412010724.9"><vh>標題</vh></v>
 </v>
+<v t="leo.20170412032211.1"><vh>二-2</vh>
+<v t="leo.20170412032211.2"><vh>圖片</vh></v>
+</v>
+<v t="leo.20170412032243.1"><vh>二-3</vh>
+<v t="leo.20170412032243.2"><vh>圖片</vh></v>
+</v>
+<v t="leo.20170412032244.1"><vh>二-4</vh>
+<v t="leo.20170412032244.2"><vh>圖片</vh></v>
+</v>
+<v t="leo.20170412032245.1"><vh>二-5</vh>
+<v t="leo.20170412032245.2"><vh>圖片</vh></v>
+</v>
+<v t="leo.20170412032246.1"><vh>二-6</vh>
+<v t="leo.20170412032246.2"><vh>圖片</vh></v>
+</v>
+<v t="leo.20170412032248.1"><vh>二-7</vh>
+<v t="leo.20170412032248.2"><vh>圖片</vh></v>
+</v>
 <v t="leo.20170412010724.10"><vh>三-1</vh>
 <v t="leo.20170412010724.11"><vh>標題</vh></v>
 </v>
-<v t="leo.20170412010724.20"><vh>(1)影片</vh>
+<v t="leo.20170412010724.20" a="E"><vh>(1)影片</vh>
 <v t="leo.20170412010724.21"><vh>第七週影片</vh></v>
 </v>
-<v t="leo.20170412011034.1"><vh>(2)影片</vh>
+<v t="leo.20170412032515.1" a="E"><vh>(2)影片</vh>
+<v t="leo.20170412032515.2"><vh>第七週影片</vh></v>
+</v>
+<v t="leo.20170412032516.1" a="E"><vh>(3)影片</vh>
+<v t="leo.20170412032516.2"><vh>第七週影片</vh></v>
+</v>
+<v t="leo.20170412032517.1" a="E"><vh>(4)影片</vh>
+<v t="leo.20170412032517.2"><vh>第七週影片</vh></v>
+</v>
+<v t="leo.20170412011034.1"><vh>(5)影片</vh>
 <v t="leo.20170412011034.2"><vh>第七週影片</vh></v>
 </v>
 </v>
@@ -1622,7 +1649,9 @@ print("ex=", ex, "ey=", ey)
 </t>
 <t tx="leo.20170412010724.21">###利用Onshape繪製八連桿
 
-待補</t>
+#(1).零件
+&lt;iframe src="https://player.vimeo.com/video/212793254" width="640" height="359" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href="https://vimeo.com/212793254"&gt;20170405 part1&lt;/a&gt; from &lt;a href="https://vimeo.com/user47600730"&gt;40423228&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;</t>
 <t tx="leo.20170412010724.3">##第七週上課筆記
 
 ####一.利用fossil對倉儲進行管理
@@ -1765,6 +1794,117 @@ fossil add . </t>
 						
 </t>
 <t tx="leo.20170412011739.9">####二. 將單連桿轉入V-rep並使其作動</t>
+<t tx="leo.20170412032211.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170412032211.2">&lt;a href="http://imgur.com/zqrCEdW"&gt;&lt;img src="http://i.imgur.com/zqrCEdW.jpg" title="source: imgur.com" /&gt;&lt;/a&gt;</t>
+<t tx="leo.20170412032243.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170412032243.2">&lt;a href="http://imgur.com/n3AhQxS"&gt;&lt;img src="http://i.imgur.com/n3AhQxS.jpg" title="source: imgur.com" /&gt;&lt;/a&gt;</t>
+<t tx="leo.20170412032244.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170412032244.2">&lt;a href="http://imgur.com/4yps6DI"&gt;&lt;img src="http://i.imgur.com/4yps6DI.jpg" title="source: imgur.com" /&gt;&lt;/a&gt;</t>
+<t tx="leo.20170412032245.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170412032245.2">&lt;a href="http://imgur.com/RYnVFSd"&gt;&lt;img src="http://i.imgur.com/RYnVFSd.jpg" title="source: imgur.com" /&gt;&lt;/a&gt;</t>
+<t tx="leo.20170412032246.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170412032246.2">&lt;a href="http://imgur.com/sZ46yqv"&gt;&lt;img src="http://i.imgur.com/sZ46yqv.jpg" title="source: imgur.com" /&gt;&lt;/a&gt;</t>
+<t tx="leo.20170412032248.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170412032248.2">&lt;a href="http://imgur.com/hb3p9Jp"&gt;&lt;img src="http://i.imgur.com/hb3p9Jp.gif" title="source: imgur.com" /&gt;&lt;/a&gt;</t>
+<t tx="leo.20170412032515.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20170412032515.2">###利用Onshape繪製八連桿
+
+#(2).零件
+&lt;iframe src="https://player.vimeo.com/video/212793288" width="640" height="359" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href="https://vimeo.com/212793288"&gt;20170405 part2&lt;/a&gt; from &lt;a href="https://vimeo.com/user47600730"&gt;40423228&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;</t>
+<t tx="leo.20170412032516.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20170412032516.2">#(3).組合
+
+&lt;iframe src="https://player.vimeo.com/video/212797143" width="640" height="359" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href="https://vimeo.com/212797143"&gt;20170405 part3&lt;/a&gt; from &lt;a href="https://vimeo.com/user47600730"&gt;40423228&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;</t>
+<t tx="leo.20170412032517.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20170412032517.2">#(4).組合
+&lt;iframe src="https://player.vimeo.com/video/212802593" width="640" height="359" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href="https://vimeo.com/212802593"&gt;20170405 part4&lt;/a&gt; from &lt;a href="https://vimeo.com/user47600730"&gt;40423228&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;</t>
 <t tx="yen.20170108171605.1"></t>
 <t tx="yen.20170108171605.2">QTreeWidget {
     /* These apply to the selected item, but not to editing items.*/
@@ -1853,10 +1993,7 @@ vertical: body pane on the botton</t>
 import os
 #os.system("pelican content -o output -s local_publishconf.py -t theme/pelican-bootstrap3")
 os.system("pelican content -o blog -s local_publishconf.py")
-g.es("admin pelican 近端執行完畢")
-
-
-</t>
+g.es("admin pelican 近端執行完畢")</t>
 <t tx="yen.20170108171733.5"></t>
 <t tx="yen.20170108171733.71"></t>
 <t tx="yen.20170108171733.81"></t>
