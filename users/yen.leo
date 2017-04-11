@@ -207,14 +207,32 @@
 </v>
 </v>
 <v t="leo.20170315120100.1" a="E"><vh>20170315W4</vh>
-<v t="leo.20170315120100.2" a="E"><vh>上課內容</vh>
+<v t="leo.20170315120100.2"><vh>上課內容</vh>
 <v t="leo.20170315120100.3"><vh>上課大綱</vh></v>
 </v>
-<v t="leo.20170315120100.30"><vh>心得</vh>
-<v t="leo.20170315120100.31"><vh>心得</vh></v>
+<v t="leo.20170412000340.1"><vh>一-1</vh>
+<v t="leo.20170412000340.2"><vh>建立各組協同主機</vh></v>
 </v>
-<v t="leo.20170315120100.36"><vh>(1)影片</vh>
-<v t="leo.20170315120100.37"><vh>第三週影片</vh></v>
+<v t="leo.20170412000417.1"><vh>一-2</vh>
+<v t="leo.20170412000417.2"><vh>網址</vh></v>
+</v>
+<v t="leo.20170412000509.1"><vh>二-1</vh>
+<v t="leo.20170412000509.2"><vh>標題</vh></v>
+</v>
+<v t="leo.20170412000754.1"><vh>二-2</vh>
+<v t="leo.20170412000754.2"><vh>連結</vh></v>
+</v>
+<v t="leo.20170412000830.1"><vh>三-1</vh>
+<v t="leo.20170412000830.2"><vh>標題</vh></v>
+</v>
+<v t="leo.20170412000833.1"><vh>三-2</vh>
+<v t="leo.20170412000833.2"><vh>圖片</vh></v>
+</v>
+<v t="leo.20170315120100.36" a="E"><vh>(1)影片</vh>
+<v t="leo.20170315120100.37"><vh>第四週影片</vh></v>
+</v>
+<v t="leo.20170412001018.1" a="E"><vh>(2)影片</vh>
+<v t="leo.20170412001018.2"><vh>第四週影片</vh></v>
 </v>
 </v>
 </v>
@@ -1209,21 +1227,6 @@ print("ex=", ex, "ey=", ey)
 ####二. 在OnShape繪出單連桿機構並轉成STL
 
 ####三.在SolveSpace繪出單連桿機構並轉成STL</t>
-<t tx="leo.20170315120100.30">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-&lt;!-- 請注意, @others 不可以內縮 --&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-
-						
-</t>
-<t tx="leo.20170315120100.31">###心得
-
-####這周各組要從10部影片裡找出兩部翻譯，才發現自己英文的聽力十分不足，幾乎每句都聽不懂，希望能盡快補足英文聽力的能力。
-</t>
 <t tx="leo.20170315120100.36">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -1233,10 +1236,10 @@ print("ex=", ex, "ey=", ey)
 
 						
 </t>
-<t tx="leo.20170315120100.37">###Solvespace 30-50-60 cm 比例的四連桿組立
+<t tx="leo.20170315120100.37">###在OnShape繪出單連桿機構並轉成STL
 
-&lt;iframe src="https://player.vimeo.com/video/208413780" width="480" height="300" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
-&lt;p&gt;&lt;a href="https://vimeo.com/208413780"&gt;Solvespace 30-50-60 cm 比例的四連桿組立&lt;/a&gt; from &lt;a href="https://vimeo.com/user47600730"&gt;40423228&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
+&lt;iframe src="https://player.vimeo.com/video/212759861" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href="https://vimeo.com/212759861"&gt;0315單連桿-OnShape&lt;/a&gt; from &lt;a href="https://vimeo.com/user47600730"&gt;40423228&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
 
 </t>
 <t tx="leo.20170315155846.1">&lt;section&gt;
@@ -1283,6 +1286,96 @@ print("ex=", ex, "ey=", ey)
 * 按 o 鍵可以切換單張或全域檢視 (overview)
 * 按 b 或 . 鍵可以切換螢幕黑屏 (black)
 * 按 Esc 可以退出全螢幕或全域檢視 (Escape)
+
+</t>
+<t tx="leo.20170412000340.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170412000340.2">####建立各組協同主機</t>
+<t tx="leo.20170412000417.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170412000417.2">####建立各組協同主機
+
+###2017springcd_bg7：&lt;a href="https://mde2a2.kmol.info/cdbg7/"&gt;bg7&lt;/a&gt;</t>
+<t tx="leo.20170412000509.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170412000509.2">####在OnShape繪出單連桿機構並轉成STL</t>
+<t tx="leo.20170412000754.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170412000754.2">&lt;a href="https://cad.onshape.com/documents/fc099af9033f5153aaa470e2/w/e7065f224e406c26ec8cdb62/e/b47f34e8c29862fb20b70236"&gt;Onshape單連桿機構&lt;/a&gt;
+</t>
+<t tx="leo.20170412000830.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170412000830.2">####在SolveSpace繪出單連桿機構並轉成STL</t>
+<t tx="leo.20170412000833.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170412000833.2">&lt;a href="http://imgur.com/K4ewRW0"&gt;&lt;img src="http://i.imgur.com/K4ewRW0.jpg" title="source: imgur.com" /&gt;&lt;/a&gt;</t>
+<t tx="leo.20170412001018.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20170412001018.2">###在SolveSpace繪出單連桿機構並轉成STL
+
+&lt;iframe src="https://player.vimeo.com/video/212771293" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href="https://vimeo.com/212771293"&gt;0315單連桿-SolveSpace&lt;/a&gt; from &lt;a href="https://vimeo.com/user47600730"&gt;40423228&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt; 
 
 </t>
 <t tx="yen.20170108171605.1"></t>
