@@ -235,6 +235,26 @@
 <v t="leo.20170412001018.2"><vh>第四週影片</vh></v>
 </v>
 </v>
+<v t="leo.20170412011739.1"><vh>20170322W5</vh>
+<v t="leo.20170412011739.2"><vh>上課內容</vh>
+<v t="leo.20170412011739.3"><vh>上課大綱</vh></v>
+</v>
+<v t="leo.20170412011739.4"><vh>一-1</vh>
+<v t="leo.20170412011739.5"><vh>標題</vh></v>
+</v>
+<v t="leo.20170412011739.6"><vh>一-2</vh>
+<v t="leo.20170412011739.7"><vh>內容</vh></v>
+</v>
+<v t="leo.20170412011739.8"><vh>二-1</vh>
+<v t="leo.20170412011739.9"><vh>標題</vh></v>
+</v>
+<v t="leo.20170412011739.10"><vh>二-2</vh>
+<v t="leo.20170412011739.11"><vh>內容</vh></v>
+</v>
+<v t="leo.20170412011739.16" a="E"><vh>(1)影片</vh>
+<v t="leo.20170412011739.17"><vh>第五週影片</vh></v>
+</v>
+</v>
 <v t="leo.20170412004018.1"><vh>20170329W6</vh>
 <v t="leo.20170412004018.2"><vh>上課內容</vh>
 <v t="leo.20170412004018.3"><vh>上課大綱</vh></v>
@@ -1603,7 +1623,7 @@ print("ex=", ex, "ey=", ey)
 <t tx="leo.20170412010724.21">###利用Onshape繪製八連桿
 
 待補</t>
-<t tx="leo.20170412010724.3">##第六週上課筆記
+<t tx="leo.20170412010724.3">##第七週上課筆記
 
 ####一.利用fossil對倉儲進行管理
 
@@ -1664,6 +1684,87 @@ fossil add . </t>
 <t tx="leo.20170412011034.2">###將八連桿匯入V-rep並使其作動
 
 待補</t>
+<t tx="leo.20170412011739.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+</t>
+<t tx="leo.20170412011739.10">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170412011739.11">待補</t>
+<t tx="leo.20170412011739.16">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20170412011739.17">####二. 將單連桿轉入V-rep並使其作動
+
+待補
+</t>
+<t tx="leo.20170412011739.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170412011739.3">##第五週上課筆記
+
+####一.fossil筆記倉儲主頁顯示作業
+
+####二. 將單連桿轉入V-rep並使其作動</t>
+<t tx="leo.20170412011739.4">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170412011739.5">####一.fossil筆記倉儲主頁顯示作業</t>
+<t tx="leo.20170412011739.6">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170412011739.7">待補</t>
+<t tx="leo.20170412011739.8">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170412011739.9">####二. 將單連桿轉入V-rep並使其作動</t>
 <t tx="yen.20170108171605.1"></t>
 <t tx="yen.20170108171605.2">QTreeWidget {
     /* These apply to the selected item, but not to editing items.*/
