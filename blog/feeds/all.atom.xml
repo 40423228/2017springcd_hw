@@ -1,5 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>2017Spring 協同產品設計實習 (虎尾科大MDE)</title><link href="./" rel="alternate"></link><link href="./feeds/all.atom.xml" rel="self"></link><id>./</id><updated>2017-03-29T11:00:00+08:00</updated><entry><title>2017/03/29 W5</title><link href="./W6.html" rel="alternate"></link><published>2017-03-29T11:00:00+08:00</published><updated>2017-03-29T11:00:00+08:00</updated><author><name>40423228</name></author><id>tag:,2017-03-29:./W6.html</id><summary type="html">&lt;h3&gt;20170329W4上課內容&lt;/h3&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>2017Spring 協同產品設計實習 (虎尾科大MDE)</title><link href="./" rel="alternate"></link><link href="./feeds/all.atom.xml" rel="self"></link><id>./</id><updated>2017-04-05T11:00:00+08:00</updated><entry><title>2017/04/05 W7</title><link href="./W7.html" rel="alternate"></link><published>2017-04-05T11:00:00+08:00</published><updated>2017-04-05T11:00:00+08:00</updated><author><name>40423228</name></author><id>tag:,2017-04-05:./W7.html</id><summary type="html">&lt;h3&gt;20170405W7上課內容&lt;/h3&gt;
+
+
+&lt;h2&gt;&lt;span style="background-color: #00ff37"&gt;一.&lt;/span&gt;利用fossil對倉儲進行管理&lt;/h2&gt;
+&lt;p&gt;對fossil管理的指令:
+fossil clone uri foo.fossil&lt;/p&gt;
+&lt;p&gt;fossil open ./../../foo.fossil (開啟)&lt;/p&gt;
+&lt;p&gt;fossil add . &lt;/p&gt;
+&lt;p&gt;fossil remote-url off (將自動推送改為手動，這是與git不同之處，fossil會自動推送)&lt;/p&gt;
+&lt;p&gt;fossil push https://user@192.168.X.XX (IP可用ipconfig/all找到)&lt;/p&gt;
+&lt;h2&gt;&lt;span style="background-color: #00ff37"&gt;二.&lt;/span&gt;利用Onshape繪製八連桿&lt;/h2&gt;
+&lt;p&gt;待補&lt;/p&gt;
+&lt;h2&gt;&lt;span style="background-color: #00ff37"&gt;三.&lt;/span&gt;將八連桿匯入V-rep並使其作動&lt;/h2&gt;
+&lt;p&gt;待補&lt;/p&gt;
+&lt;p&gt;影片:&lt;/p&gt;
+&lt;p&gt;待補&lt;/p&gt;</summary><category term="w7上課內容"></category></entry><entry><title>2017/03/29 W6</title><link href="./W6.html" rel="alternate"></link><published>2017-03-29T11:00:00+08:00</published><updated>2017-03-29T11:00:00+08:00</updated><author><name>40423228</name></author><id>tag:,2017-03-29:./W6.html</id><summary type="html">&lt;h3&gt;20170329W6上課內容&lt;/h3&gt;
 
 
 &lt;h2&gt;&lt;span style="background-color: #00ff37"&gt;一.&lt;/span&gt;利用Onshape的變數指令繪製四連桿並匯入V-rep&lt;/h2&gt;
