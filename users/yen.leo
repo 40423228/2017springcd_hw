@@ -235,6 +235,38 @@
 <v t="leo.20170412001018.2"><vh>第四週影片</vh></v>
 </v>
 </v>
+<v t="leo.20170412004018.1" a="E"><vh>20170329W6</vh>
+<v t="leo.20170412004018.2"><vh>上課內容</vh>
+<v t="leo.20170412004018.3"><vh>上課大綱</vh></v>
+</v>
+<v t="leo.20170412004018.4"><vh>一-1</vh>
+<v t="leo.20170412004018.5"><vh>標題</vh></v>
+</v>
+<v t="leo.20170412004100.1"><vh>一-2</vh>
+<v t="leo.20170412004100.2"><vh>圖片</vh></v>
+</v>
+<v t="leo.20170412004122.1"><vh>一-3</vh>
+<v t="leo.20170412004122.2"><vh>圖片</vh></v>
+</v>
+<v t="leo.20170412004123.1"><vh>一-4</vh>
+<v t="leo.20170412004123.2"><vh>圖片</vh></v>
+</v>
+<v t="leo.20170412004125.1"><vh>一-5</vh>
+<v t="leo.20170412004125.2"><vh>圖片</vh></v>
+</v>
+<v t="leo.20170412004127.1"><vh>一-6</vh>
+<v t="leo.20170412004127.2"><vh>圖片</vh></v>
+</v>
+<v t="leo.20170412004145.1"><vh>一-7</vh>
+<v t="leo.20170412004145.2"><vh>圖片</vh></v>
+</v>
+<v t="leo.20170412004146.1"><vh>一-8</vh>
+<v t="leo.20170412004146.2"><vh>圖片</vh></v>
+</v>
+<v t="leo.20170412004018.16" a="E"><vh>(1)影片</vh>
+<v t="leo.20170412004018.17"><vh>第六週影片</vh></v>
+</v>
+</v>
 </v>
 </v>
 </v>
@@ -1379,6 +1411,134 @@ print("ex=", ex, "ey=", ey)
 &lt;p&gt;&lt;a href="https://vimeo.com/212771293"&gt;0315單連桿-SolveSpace&lt;/a&gt; from &lt;a href="https://vimeo.com/user47600730"&gt;40423228&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt; 
 
 </t>
+<t tx="leo.20170412004018.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+</t>
+<t tx="leo.20170412004018.16">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20170412004018.17">###在OnShape繪出四連桿機構並轉成STL
+
+&lt;iframe src="https://player.vimeo.com/video/212777111" width="640" height="359" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href="https://vimeo.com/212777111"&gt;20170329四連桿&lt;/a&gt; from &lt;a href="https://vimeo.com/user47600730"&gt;40423228&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
+</t>
+<t tx="leo.20170412004018.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170412004018.3">##第六週上課筆記
+
+####一.利用Onshape的變數指令繪製四連桿並匯入V-rep</t>
+<t tx="leo.20170412004018.4">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170412004018.5">####利用Onshape的變數指令繪製四連桿並匯入V-rep</t>
+<t tx="leo.20170412004100.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170412004100.2">&lt;a href="http://imgur.com/GGQdQ9z"&gt;&lt;img src="http://i.imgur.com/GGQdQ9z.jpg" title="source: imgur.com" /&gt;&lt;/a&gt;</t>
+<t tx="leo.20170412004122.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170412004122.2">&lt;a href="http://imgur.com/d1gcqmB"&gt;&lt;img src="http://i.imgur.com/d1gcqmB.jpg" title="source: imgur.com" /&gt;&lt;/a&gt;</t>
+<t tx="leo.20170412004123.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170412004123.2">&lt;a href="http://imgur.com/TnAmeun"&gt;&lt;img src="http://i.imgur.com/TnAmeun.jpg" title="source: imgur.com" /&gt;&lt;/a&gt;</t>
+<t tx="leo.20170412004125.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170412004125.2">&lt;a href="http://imgur.com/LUdeqrD"&gt;&lt;img src="http://i.imgur.com/LUdeqrD.jpg" title="source: imgur.com" /&gt;&lt;/a&gt;</t>
+<t tx="leo.20170412004127.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170412004127.2">&lt;a href="http://imgur.com/1UaRp1q"&gt;&lt;img src="http://i.imgur.com/1UaRp1q.jpg" title="source: imgur.com" /&gt;&lt;/a&gt;</t>
+<t tx="leo.20170412004145.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170412004145.2">&lt;a href="http://imgur.com/3EaW8zW"&gt;&lt;img src="http://i.imgur.com/3EaW8zW.jpg" title="source: imgur.com" /&gt;&lt;/a&gt;</t>
+<t tx="leo.20170412004146.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170412004146.2">&lt;a href="http://imgur.com/D0DzEKM"&gt;&lt;img src="http://i.imgur.com/D0DzEKM.gif" title="source: imgur.com" /&gt;&lt;/a&gt;</t>
 <t tx="yen.20170108171605.1"></t>
 <t tx="yen.20170108171605.2">QTreeWidget {
     /* These apply to the selected item, but not to editing items.*/
