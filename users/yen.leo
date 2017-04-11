@@ -267,6 +267,29 @@
 <v t="leo.20170412004018.17"><vh>第六週影片</vh></v>
 </v>
 </v>
+<v t="leo.20170412010724.1" a="E"><vh>20170405W7</vh>
+<v t="leo.20170412010724.2" a="E"><vh>上課內容</vh>
+<v t="leo.20170412010724.3"><vh>上課大綱</vh></v>
+</v>
+<v t="leo.20170412010724.4"><vh>一-1</vh>
+<v t="leo.20170412010724.5"><vh>標題</vh></v>
+</v>
+<v t="leo.20170412010724.6"><vh>一-2</vh>
+<v t="leo.20170412010724.7"><vh>內容</vh></v>
+</v>
+<v t="leo.20170412010724.8"><vh>二-1</vh>
+<v t="leo.20170412010724.9"><vh>標題</vh></v>
+</v>
+<v t="leo.20170412010724.10"><vh>三-1</vh>
+<v t="leo.20170412010724.11"><vh>標題</vh></v>
+</v>
+<v t="leo.20170412010724.20"><vh>(1)影片</vh>
+<v t="leo.20170412010724.21"><vh>第七週影片</vh></v>
+</v>
+<v t="leo.20170412011034.1"><vh>(2)影片</vh>
+<v t="leo.20170412011034.2"><vh>第七週影片</vh></v>
+</v>
+</v>
 </v>
 </v>
 </v>
@@ -1540,6 +1563,106 @@ print("ex=", ex, "ey=", ey)
 						
 </t>
 <t tx="leo.20170412004146.2">&lt;a href="http://imgur.com/D0DzEKM"&gt;&lt;img src="http://i.imgur.com/D0DzEKM.gif" title="source: imgur.com" /&gt;&lt;/a&gt;</t>
+<t tx="leo.20170412010724.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+</t>
+<t tx="leo.20170412010724.10">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170412010724.11">####三.將八連桿匯入V-rep並使其作動</t>
+<t tx="leo.20170412010724.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170412010724.20">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20170412010724.21">###利用Onshape繪製八連桿
+
+待補</t>
+<t tx="leo.20170412010724.3">##第六週上課筆記
+
+####一.利用fossil對倉儲進行管理
+
+####二.利用Onshape繪製八連桿
+
+####三.將八連桿匯入V-rep並使其作動</t>
+<t tx="leo.20170412010724.4">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170412010724.5">####利用fossil對倉儲進行管理</t>
+<t tx="leo.20170412010724.6">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170412010724.7">對fossil管理的指令:
+
+fossil clone uri foo.fossil
+
+fossil open ./../../foo.fossil (開啟)
+
+fossil add . </t>
+<t tx="leo.20170412010724.8">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170412010724.9">####二.利用Onshape繪製八連桿</t>
+<t tx="leo.20170412011034.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20170412011034.2">###將八連桿匯入V-rep並使其作動
+
+待補</t>
 <t tx="yen.20170108171605.1"></t>
 <t tx="yen.20170108171605.2">QTreeWidget {
     /* These apply to the selected item, but not to editing items.*/
