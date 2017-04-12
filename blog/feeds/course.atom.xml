@@ -56,8 +56,30 @@ fossil clone uri foo.fossil&lt;/p&gt;
 
 &lt;h2&gt;&lt;span style="background-color: #00ff37"&gt;一.&lt;/span&gt;fossil筆記倉儲主頁顯示作業&lt;/h2&gt;
 &lt;h2&gt;&lt;span style="background-color: #00ff37"&gt;二.&lt;/span&gt;將單連桿轉入V-rep並使其作動&lt;/h2&gt;
-&lt;p&gt;影片:&lt;/p&gt;
-&lt;p&gt;待補&lt;/p&gt;</summary><category term="w5上課內容"></category></entry><entry><title>2017/03/15 W4</title><link href="./W4.html" rel="alternate"></link><published>2017-03-15T11:00:00+08:00</published><updated>2017-03-15T11:00:00+08:00</updated><author><name>40423228</name></author><id>tag:,2017-03-15:./W4.html</id><summary type="html">&lt;h3&gt;20170315W4上課內容&lt;/h3&gt;
+&lt;h1&gt;(1).把零件拆開&lt;/h1&gt;
+&lt;p&gt;&lt;a href="http://imgur.com/u4sNhl8"&gt;&lt;img src="http://i.imgur.com/u4sNhl8.png" title="source: imgur.com" /&gt;&lt;/a&gt;
+&lt;a href="http://imgur.com/jl1MgJj"&gt;&lt;img src="http://i.imgur.com/jl1MgJj.png" title="source: imgur.com" /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h1&gt;(2).加入旋轉軸，並設定尺寸&lt;/h1&gt;
+&lt;p&gt;&lt;a href="http://imgur.com/QMCT5ZV"&gt;&lt;img src="http://i.imgur.com/QMCT5ZV.png" title="source: imgur.com" /&gt;&lt;/a&gt;
+&lt;a href="http://imgur.com/M8gawzF"&gt;&lt;img src="http://i.imgur.com/M8gawzF.png" title="source: imgur.com" /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h1&gt;(3).將旋轉軸與軸定位在同一位子&lt;/h1&gt;
+&lt;p&gt;&lt;a href="http://imgur.com/mucZw12"&gt;&lt;img src="http://i.imgur.com/mucZw12.png" title="source: imgur.com" /&gt;&lt;/a&gt;
+&lt;a href="http://imgur.com/buNXe5P"&gt;&lt;img src="http://i.imgur.com/buNXe5P.png" title="source: imgur.com" /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h1&gt;(4).設定從屬關係&lt;/h1&gt;
+&lt;h1&gt;→將旋轉軸拉到底座下&lt;/h1&gt;
+&lt;h1&gt;→將上方桿子拉至旋轉軸下&lt;/h1&gt;
+&lt;p&gt;&lt;a href="http://imgur.com/buNXe5P"&gt;&lt;img src="http://i.imgur.com/buNXe5P.png" title="source: imgur.com" /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h1&gt;(5).設定旋轉軸素質&lt;/h1&gt;
+&lt;h1&gt;→設定角速度&lt;/h1&gt;
+&lt;p&gt;&lt;a href="http://imgur.com/Cz23NHE"&gt;&lt;img src="http://i.imgur.com/Cz23NHE.png" title="source: imgur.com" /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h1&gt;→將上方的桿子設定為動態物件&lt;/h1&gt;
+&lt;p&gt;&lt;a href="http://imgur.com/yAxDWyj"&gt;&lt;img src="http://i.imgur.com/yAxDWyj.png" title="source: imgur.com" /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h1&gt;(6).讓我們繪製的軸不要顯示於頁面&lt;/h1&gt;
+&lt;p&gt;&lt;a href="http://imgur.com/isFLPna"&gt;&lt;img src="http://i.imgur.com/isFLPna.png" title="source: imgur.com" /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h1&gt;影片:&lt;/h1&gt;
+&lt;iframe src="https://player.vimeo.com/video/212847283" width="640" height="512" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;a href="https://vimeo.com/212847283"&gt;20170322 單連桿vrep作動&lt;/a&gt; from &lt;a href="https://vimeo.com/user47600730"&gt;40423228&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;</summary><category term="w5上課內容"></category></entry><entry><title>2017/03/15 W4</title><link href="./W4.html" rel="alternate"></link><published>2017-03-15T11:00:00+08:00</published><updated>2017-03-15T11:00:00+08:00</updated><author><name>40423228</name></author><id>tag:,2017-03-15:./W4.html</id><summary type="html">&lt;h3&gt;20170315W4上課內容&lt;/h3&gt;
 
 
 &lt;h2&gt;&lt;span style="background-color: #00ff37"&gt;一.&lt;/span&gt;建立各組協同主機&lt;/h2&gt;
