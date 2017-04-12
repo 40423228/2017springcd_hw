@@ -242,17 +242,71 @@
 <v t="leo.20170412011739.4"><vh>一-1</vh>
 <v t="leo.20170412011739.5"><vh>標題</vh></v>
 </v>
-<v t="leo.20170412011739.6"><vh>一-2</vh>
-<v t="leo.20170412011739.7"><vh>內容</vh></v>
-</v>
 <v t="leo.20170412011739.8"><vh>二-1</vh>
 <v t="leo.20170412011739.9"><vh>標題</vh></v>
 </v>
 <v t="leo.20170412011739.10"><vh>二-2</vh>
 <v t="leo.20170412011739.11"><vh>內容</vh></v>
 </v>
-<v t="leo.20170412011739.16" a="E"><vh>(1)影片</vh>
+<v t="leo.20170412115008.1"><vh>二-3</vh>
+<v t="leo.20170412115008.2"><vh>圖片</vh></v>
+</v>
+<v t="leo.20170412115023.1"><vh>二-4</vh>
+<v t="leo.20170412115023.2"><vh>圖片</vh></v>
+</v>
+<v t="leo.20170412115050.1"><vh>二-5</vh>
+<v t="leo.20170412115050.2"><vh>內容</vh></v>
+</v>
+<v t="leo.20170412115051.1"><vh>二-6</vh>
+<v t="leo.20170412115051.2"><vh>圖片</vh></v>
+</v>
+<v t="leo.20170412115052.1"><vh>二-7</vh>
+<v t="leo.20170412115052.2"><vh>圖片</vh></v>
+</v>
+<v t="leo.20170412115054.1"><vh>二-8</vh>
+<v t="leo.20170412115054.2"><vh>內容</vh></v>
+</v>
+<v t="leo.20170412115057.1"><vh>二-9</vh>
+<v t="leo.20170412115057.2"><vh>圖片</vh></v>
+</v>
+<v t="leo.20170412115058.1"><vh>二-10</vh>
+<v t="leo.20170412115058.2"><vh>圖片</vh></v>
+</v>
+<v t="leo.20170412115659.1"><vh>二-11</vh>
+<v t="leo.20170412115659.2"><vh>內容</vh></v>
+</v>
+<v t="leo.20170412115702.1"><vh>二-12</vh>
+<v t="leo.20170412115702.2"><vh>圖片</vh></v>
+</v>
+<v t="leo.20170412115704.1"><vh>二-13</vh>
+<v t="leo.20170412115704.2"><vh>內容</vh></v>
+</v>
+<v t="leo.20170412115705.1"><vh>二-14</vh>
+<v t="leo.20170412115705.2"><vh>圖片</vh></v>
+</v>
+<v t="leo.20170412115706.1"><vh>二-15</vh>
+<v t="leo.20170412115706.2"><vh>圖片</vh></v>
+</v>
+<v t="leo.20170412115928.1"><vh>二-16</vh>
+<v t="leo.20170412115928.2"><vh>內容</vh></v>
+</v>
+<v t="leo.20170412115929.1"><vh>二-17</vh>
+<v t="leo.20170412115929.2"><vh>圖片</vh></v>
+</v>
+<v t="leo.20170412120009.1"><vh>三-1</vh>
+<v t="leo.20170412120009.2"><vh>內容</vh></v>
+</v>
+<v t="leo.20170412120055.1"><vh>三-2</vh>
+<v t="leo.20170412120055.2"><vh>內容</vh></v>
+</v>
+<v t="leo.20170412011739.16"><vh>(1)影片</vh>
 <v t="leo.20170412011739.17"><vh>第五週影片</vh></v>
+</v>
+<v t="leo.20170412120113.1"><vh>(2)影片</vh>
+<v t="leo.20170412120113.2"><vh>第五週影片</vh></v>
+</v>
+<v t="leo.20170412120114.1"><vh>(3)影片</vh>
+<v t="leo.20170412120114.2"><vh>第五週影片</vh></v>
 </v>
 </v>
 <v t="leo.20170412004018.1"><vh>20170329W6</vh>
@@ -1728,7 +1782,7 @@ fossil add . </t>
 
 						
 </t>
-<t tx="leo.20170412011739.11">待補</t>
+<t tx="leo.20170412011739.11">把零件拆開</t>
 <t tx="leo.20170412011739.16">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -1740,8 +1794,8 @@ fossil add . </t>
 </t>
 <t tx="leo.20170412011739.17">####二. 將單連桿轉入V-rep並使其作動
 
-待補
-</t>
+&lt;iframe src="https://player.vimeo.com/video/212847283" width="640" height="512" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href="https://vimeo.com/212847283"&gt;20170322 單連桿vrep作動&lt;/a&gt; from &lt;a href="https://vimeo.com/user47600730"&gt;40423228&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;</t>
 <t tx="leo.20170412011739.2">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
@@ -1757,7 +1811,9 @@ fossil add . </t>
 
 ####一.fossil筆記倉儲主頁顯示作業
 
-####二. 將單連桿轉入V-rep並使其作動</t>
+####二. 將單連桿轉入V-rep並使其作動
+
+####三.將四連桿轉入V-rep並使其作動</t>
 <t tx="leo.20170412011739.4">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
@@ -1770,18 +1826,6 @@ fossil add . </t>
 						
 </t>
 <t tx="leo.20170412011739.5">####一.fossil筆記倉儲主頁顯示作業</t>
-<t tx="leo.20170412011739.6">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-&lt;!-- 請注意, @others 不可以內縮 --&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-
-						
-</t>
-<t tx="leo.20170412011739.7">待補</t>
 <t tx="leo.20170412011739.8">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
@@ -1905,6 +1949,241 @@ fossil add . </t>
 <t tx="leo.20170412032517.2">#(4).組合
 &lt;iframe src="https://player.vimeo.com/video/212802593" width="640" height="359" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 &lt;p&gt;&lt;a href="https://vimeo.com/212802593"&gt;20170405 part4&lt;/a&gt; from &lt;a href="https://vimeo.com/user47600730"&gt;40423228&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;</t>
+<t tx="leo.20170412115008.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170412115008.2">&lt;a href="http://imgur.com/u4sNhl8"&gt;&lt;img src="http://i.imgur.com/u4sNhl8.png" title="source: imgur.com" /&gt;&lt;/a&gt;</t>
+<t tx="leo.20170412115023.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170412115023.2">&lt;a href="http://imgur.com/jl1MgJj"&gt;&lt;img src="http://i.imgur.com/jl1MgJj.png" title="source: imgur.com" /&gt;&lt;/a&gt;</t>
+<t tx="leo.20170412115050.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170412115050.2">加入旋轉軸，並設定尺寸</t>
+<t tx="leo.20170412115051.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170412115051.2">&lt;a href="http://imgur.com/QMCT5ZV"&gt;&lt;img src="http://i.imgur.com/QMCT5ZV.png" title="source: imgur.com" /&gt;&lt;/a&gt;</t>
+<t tx="leo.20170412115052.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170412115052.2">&lt;a href="http://imgur.com/M8gawzF"&gt;&lt;img src="http://i.imgur.com/M8gawzF.png" title="source: imgur.com" /&gt;&lt;/a&gt;
+</t>
+<t tx="leo.20170412115054.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170412115054.2">將旋轉軸與軸定位在同一位子</t>
+<t tx="leo.20170412115057.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170412115057.2">&lt;a href="http://imgur.com/mucZw12"&gt;&lt;img src="http://i.imgur.com/mucZw12.png" title="source: imgur.com" /&gt;&lt;/a&gt;</t>
+<t tx="leo.20170412115058.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170412115058.2">&lt;a href="http://imgur.com/buNXe5P"&gt;&lt;img src="http://i.imgur.com/buNXe5P.png" title="source: imgur.com" /&gt;&lt;/a&gt;</t>
+<t tx="leo.20170412115659.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170412115659.2">設定從屬關係
+→將旋轉軸拉到底座下
+→將上方桿子拉至旋轉軸下</t>
+<t tx="leo.20170412115702.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170412115702.2">&lt;a href="http://imgur.com/buNXe5P"&gt;&lt;img src="http://i.imgur.com/buNXe5P.png" title="source: imgur.com" /&gt;&lt;/a&gt;</t>
+<t tx="leo.20170412115704.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170412115704.2">設定旋轉軸素質
+→設定角速度
+→將上方的桿子設定為動態物件</t>
+<t tx="leo.20170412115705.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170412115705.2">&lt;a href="http://imgur.com/Cz23NHE"&gt;&lt;img src="http://i.imgur.com/Cz23NHE.png" title="source: imgur.com" /&gt;&lt;/a&gt;</t>
+<t tx="leo.20170412115706.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170412115706.2">&lt;a href="http://imgur.com/yAxDWyj"&gt;&lt;img src="http://i.imgur.com/yAxDWyj.png" title="source: imgur.com" /&gt;&lt;/a&gt;</t>
+<t tx="leo.20170412115928.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170412115928.2">讓我們繪製的軸不要顯示於頁面</t>
+<t tx="leo.20170412115929.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170412115929.2">&lt;a href="http://imgur.com/isFLPna"&gt;&lt;img src="http://i.imgur.com/isFLPna.png" title="source: imgur.com" /&gt;&lt;/a&gt;</t>
+<t tx="leo.20170412120009.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170412120009.2">####將四連桿轉入V-rep並使其作動</t>
+<t tx="leo.20170412120055.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170412120055.2">作法與單連桿相近，差別在於多加入了Dummy</t>
+<t tx="leo.20170412120113.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20170412120113.2">####三. 將四連桿轉入V-rep並使其作動
+
+&lt;iframe src="https://player.vimeo.com/video/212855650" width="640" height="512" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href="https://vimeo.com/212855650"&gt;0322 四連桿 part1&lt;/a&gt; from &lt;a href="https://vimeo.com/user47600730"&gt;40423228&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;</t>
+<t tx="leo.20170412120114.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20170412120114.2">####三. 將四連桿轉入V-rep並使其作動
+
+&lt;iframe src="https://player.vimeo.com/video/212855920" width="640" height="512" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href="https://vimeo.com/212855920"&gt;20170322 四連桿 part2&lt;/a&gt; from &lt;a href="https://vimeo.com/user47600730"&gt;40423228&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;</t>
 <t tx="yen.20170108171605.1"></t>
 <t tx="yen.20170108171605.2">QTreeWidget {
     /* These apply to the selected item, but not to editing items.*/
