@@ -76,10 +76,20 @@ fossil clone uri foo.fossil&lt;/p&gt;
 &lt;p&gt;&lt;a href="http://imgur.com/yAxDWyj"&gt;&lt;img src="http://i.imgur.com/yAxDWyj.png" title="source: imgur.com" /&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;h1&gt;(6).讓我們繪製的軸不要顯示於頁面&lt;/h1&gt;
 &lt;p&gt;&lt;a href="http://imgur.com/isFLPna"&gt;&lt;img src="http://i.imgur.com/isFLPna.png" title="source: imgur.com" /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;&lt;span style="background-color: #00ff37"&gt;三&lt;/span&gt;將四連桿轉入V-rep並使其作動&lt;/h2&gt;
+&lt;p&gt;作法與單連桿相近，差別在於多加入了Dummy&lt;/p&gt;
 &lt;h1&gt;影片:&lt;/h1&gt;
 &lt;iframe src="https://player.vimeo.com/video/212847283" width="640" height="512" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 
-&lt;p&gt;&lt;a href="https://vimeo.com/212847283"&gt;20170322 單連桿vrep作動&lt;/a&gt; from &lt;a href="https://vimeo.com/user47600730"&gt;40423228&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;</summary><category term="w5上課內容"></category></entry><entry><title>2017/03/15 W4</title><link href="./W4.html" rel="alternate"></link><published>2017-03-15T11:00:00+08:00</published><updated>2017-03-15T11:00:00+08:00</updated><author><name>40423228</name></author><id>tag:,2017-03-15:./W4.html</id><summary type="html">&lt;h3&gt;20170315W4上課內容&lt;/h3&gt;
+&lt;p&gt;&lt;a href="https://vimeo.com/212847283"&gt;20170322 單連桿vrep作動&lt;/a&gt; from &lt;a href="https://vimeo.com/user47600730"&gt;40423228&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
+
+&lt;iframe src="https://player.vimeo.com/video/212855650" width="640" height="512" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;a href="https://vimeo.com/212855650"&gt;0322 四連桿 part1&lt;/a&gt; from &lt;a href="https://vimeo.com/user47600730"&gt;40423228&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
+
+&lt;iframe src="https://player.vimeo.com/video/212855920" width="640" height="512" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;a href="https://vimeo.com/212855920"&gt;20170322 四連桿 part2&lt;/a&gt; from &lt;a href="https://vimeo.com/user47600730"&gt;40423228&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;</summary><category term="w5上課內容"></category></entry><entry><title>2017/03/15 W4</title><link href="./W4.html" rel="alternate"></link><published>2017-03-15T11:00:00+08:00</published><updated>2017-03-15T11:00:00+08:00</updated><author><name>40423228</name></author><id>tag:,2017-03-15:./W4.html</id><summary type="html">&lt;h3&gt;20170315W4上課內容&lt;/h3&gt;
 
 
 &lt;h2&gt;&lt;span style="background-color: #00ff37"&gt;一.&lt;/span&gt;建立各組協同主機&lt;/h2&gt;
