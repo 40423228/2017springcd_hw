@@ -372,19 +372,16 @@
 <v t="leo.20170412032248.1"><vh>二-7</vh>
 <v t="leo.20170412032248.2"><vh>圖片</vh></v>
 </v>
-<v t="leo.20170412010724.10"><vh>三-1</vh>
-<v t="leo.20170412010724.11"><vh>標題</vh></v>
-</v>
-<v t="leo.20170412010724.20" a="E"><vh>(1)影片</vh>
+<v t="leo.20170412010724.20"><vh>(1)影片</vh>
 <v t="leo.20170412010724.21"><vh>第七週影片</vh></v>
 </v>
-<v t="leo.20170412032515.1" a="E"><vh>(2)影片</vh>
+<v t="leo.20170412032515.1"><vh>(2)影片</vh>
 <v t="leo.20170412032515.2"><vh>第七週影片</vh></v>
 </v>
-<v t="leo.20170412032516.1" a="E"><vh>(3)影片</vh>
+<v t="leo.20170412032516.1"><vh>(3)影片</vh>
 <v t="leo.20170412032516.2"><vh>第七週影片</vh></v>
 </v>
-<v t="leo.20170412032517.1" a="E"><vh>(4)影片</vh>
+<v t="leo.20170412032517.1"><vh>(4)影片</vh>
 <v t="leo.20170412032517.2"><vh>第七週影片</vh></v>
 </v>
 <v t="leo.20170412011034.1"><vh>(5)影片</vh>
@@ -1669,18 +1666,6 @@ print("ex=", ex, "ey=", ey)
 @others
 &lt;/section&gt;
 </t>
-<t tx="leo.20170412010724.10">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-&lt;!-- 請注意, @others 不可以內縮 --&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-
-						
-</t>
-<t tx="leo.20170412010724.11">####三.將八連桿匯入V-rep並使其作動</t>
 <t tx="leo.20170412010724.2">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
