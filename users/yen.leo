@@ -419,11 +419,14 @@
 <v t="leo.20170419104809.20"><vh>二-7</vh>
 <v t="leo.20170419104809.21"><vh>圖片</vh></v>
 </v>
-<v t="leo.20170419104809.22"><vh>(1)影片</vh>
-<v t="leo.20170419104809.23"><vh>第七週影片</vh></v>
+<v t="leo.20170419104809.22" a="E"><vh>(1)影片</vh>
+<v t="leo.20170419104809.23"><vh>第八週影片</vh></v>
 </v>
-<v t="leo.20170419104809.24"><vh>(2)影片</vh>
-<v t="leo.20170419104809.25"><vh>第七週影片</vh></v>
+<v t="leo.20170419104809.24" a="E"><vh>(2)影片</vh>
+<v t="leo.20170419104809.25"><vh>第八週影片</vh></v>
+</v>
+<v t="leo.20170419105037.1" a="E"><vh>(3)影片</vh>
+<v t="leo.20170419105037.2"><vh>第八週影片</vh></v>
 </v>
 </v>
 </v>
@@ -2304,11 +2307,10 @@ fossil add . </t>
 
 						
 </t>
-<t tx="leo.20170419104809.23">###利用Onshape繪製八連桿
+<t tx="leo.20170419104809.23">###四連桿機構協同 Trace Point 查驗
 
-#(1).零件
-&lt;iframe src="https://player.vimeo.com/video/212793254" width="640" height="359" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
-&lt;p&gt;&lt;a href="https://vimeo.com/212793254"&gt;20170405 part1&lt;/a&gt; from &lt;a href="https://vimeo.com/user47600730"&gt;40423228&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;</t>
+&lt;iframe src="https://player.vimeo.com/video/213774978" width="500" height="400" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href="https://vimeo.com/213774978"&gt;40423228機械設計-協同產品設計課程W9-mission2 &lt;/a&gt; from &lt;a href="https://vimeo.com/user47600730"&gt;40423228&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;</t>
 <t tx="leo.20170419104809.24">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -2318,11 +2320,10 @@ fossil add . </t>
 
 						
 </t>
-<t tx="leo.20170419104809.25">###利用Onshape繪製八連桿
+<t tx="leo.20170419104809.25">###Fourbar Walker OnShape 零件協同繪圖與組立查驗
 
-#(2).零件
-&lt;iframe src="https://player.vimeo.com/video/212793288" width="640" height="359" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
-&lt;p&gt;&lt;a href="https://vimeo.com/212793288"&gt;20170405 part2&lt;/a&gt; from &lt;a href="https://vimeo.com/user47600730"&gt;40423228&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;</t>
+&lt;iframe src="https://player.vimeo.com/video/213781004" width="500" height="400" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href="https://vimeo.com/213781004"&gt;40423228機械設計-協同產品設計課程W9-mission3&lt;/a&gt; from &lt;a href="https://vimeo.com/user47600730"&gt;40423228&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;</t>
 <t tx="leo.20170419104809.3">##期中協同查驗與自評
 
 ####一.Fossil Server 實習查驗
@@ -2372,6 +2373,17 @@ fossil add . </t>
 						
 </t>
 <t tx="leo.20170419104809.9">####二.利用Onshape繪製八連桿</t>
+<t tx="leo.20170419105037.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20170419105037.2">&lt;iframe src="https://player.vimeo.com/video/213782253" width="500" height="400" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href="https://vimeo.com/213782253"&gt;40423228機械設計-協同產品設計課程W9-mission3-動畫&lt;/a&gt; from &lt;a href="https://vimeo.com/user47600730"&gt;40423228&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;</t>
 <t tx="yen.20170108171605.1"></t>
 <t tx="yen.20170108171605.2">QTreeWidget {
     /* These apply to the selected item, but not to editing items.*/
