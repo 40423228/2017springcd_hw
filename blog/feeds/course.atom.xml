@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom"><title>2017Spring 協同產品設計實習 (虎尾科大MDE)</title><link href="./" rel="alternate"></link><link href="./feeds/course.atom.xml" rel="self"></link><id>./</id><updated>2017-04-19T11:00:00+08:00</updated><entry><title>2017/04/19 W9</title><link href="./W9.html" rel="alternate"></link><published>2017-04-19T11:00:00+08:00</published><updated>2017-04-19T11:00:00+08:00</updated><author><name>40423228</name></author><id>tag:,2017-04-19:./W9.html</id><summary type="html">&lt;h3&gt;20170419W9期中協同查驗與自評&lt;/h3&gt;
+&lt;p&gt;一.Fossil Server 實習查驗&lt;/p&gt;
+&lt;p&gt;二.四連桿機構協同 Trace Point 查驗&lt;/p&gt;
+&lt;p&gt;三.Fourbar Walker OnShape 零件協同繪圖與組立查驗&lt;/p&gt;
 
 
 &lt;h2&gt;&lt;span style="background-color: #00ff37"&gt;一.&lt;/span&gt;Fossil Server 實習查驗&lt;/h2&gt;
@@ -84,34 +87,9 @@ ctx.closePath()
 
 &lt;iframe src="https://player.vimeo.com/video/213782253" width="640" height="613" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 
-&lt;p&gt;&lt;a href="https://vimeo.com/213782253"&gt;40423228機械設計-協同產品設計課程W9-mission3-動畫&lt;/a&gt; from &lt;a href="https://vimeo.com/user47600730"&gt;40423228&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;四.分組協同零件展示&lt;/p&gt;
-&lt;script&gt;
-window.onload = function(){
-    var madeleine = new Madeleine({
-      target: 'target', // target div id
-      data: './../data/spikeball.stl', // data path
-      path: './../data/madeleine/src/' // path to source directory from current html file
-    });
-}; 
-&lt;/script&gt;
-
-&lt;script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/r68/three.min.js"
-&gt;&lt;/script&gt;
-
-&lt;script src="https://rawgit.com/mrdoob/three.js/master/examples/js/controls/TrackballControls.js"
-&gt;&lt;/script&gt;
-
-&lt;script src="./../data/w9/loader.js"&gt;&lt;/script&gt;
-
-&lt;script src="./../data/w9/stl.js"&gt;&lt;/script&gt;
-
-&lt;div&gt;
-select stl file: &lt;input type="file" id="file" /&gt; or drop stl file
-&lt;/div&gt;
-
-&lt;div id="view"&gt;&lt;/div&gt;</summary><category term="w9上課內容"></category></entry><entry><title>2017/04/05 W7</title><link href="./W7.html" rel="alternate"></link><published>2017-04-05T11:00:00+08:00</published><updated>2017-04-05T11:00:00+08:00</updated><author><name>40423228</name></author><id>tag:,2017-04-05:./W7.html</id><summary type="html">&lt;h3&gt;20170405W7上課內容&lt;/h3&gt;
+&lt;p&gt;&lt;a href="https://vimeo.com/213782253"&gt;40423228機械設計-協同產品設計課程W9-mission3-動畫&lt;/a&gt; from &lt;a href="https://vimeo.com/user47600730"&gt;40423228&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;</summary><category term="w9上課內容"></category></entry><entry><title>2017/04/05 W7</title><link href="./W7.html" rel="alternate"></link><published>2017-04-05T11:00:00+08:00</published><updated>2017-04-05T11:00:00+08:00</updated><author><name>40423228</name></author><id>tag:,2017-04-05:./W7.html</id><summary type="html">&lt;h3&gt;20170405W7上課內容&lt;/h3&gt;
+&lt;p&gt;一.利用fossil對倉儲進行管理&lt;/p&gt;
+&lt;p&gt;二.利用Onshape繪製八連桿&lt;/p&gt;
 
 
 &lt;h2&gt;&lt;span style="background-color: #00ff37"&gt;一.&lt;/span&gt;利用fossil對倉儲進行管理&lt;/h2&gt;
@@ -148,6 +126,7 @@ fossil clone uri foo.fossil&lt;/p&gt;
 &lt;iframe src="https://player.vimeo.com/video/212802593" width="640" height="359" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 
 &lt;p&gt;&lt;a href="https://vimeo.com/212802593"&gt;20170405 part4&lt;/a&gt; from &lt;a href="https://vimeo.com/user47600730"&gt;40423228&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;</summary><category term="w7上課內容"></category></entry><entry><title>2017/03/29 W6</title><link href="./W6.html" rel="alternate"></link><published>2017-03-29T11:00:00+08:00</published><updated>2017-03-29T11:00:00+08:00</updated><author><name>40423228</name></author><id>tag:,2017-03-29:./W6.html</id><summary type="html">&lt;h3&gt;20170329W6上課內容&lt;/h3&gt;
+&lt;p&gt;一.利用Onshape的變數指令繪製四連桿並匯入V-rep&lt;/p&gt;
 
 
 &lt;h2&gt;&lt;span style="background-color: #00ff37"&gt;一.&lt;/span&gt;利用Onshape的變數指令繪製四連桿並匯入V-rep&lt;/h2&gt;
@@ -162,6 +141,8 @@ fossil clone uri foo.fossil&lt;/p&gt;
 &lt;iframe src="https://player.vimeo.com/video/212777111" width="640" height="359" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 
 &lt;p&gt;&lt;a href="https://vimeo.com/212777111"&gt;20170329四連桿&lt;/a&gt; from &lt;a href="https://vimeo.com/user47600730"&gt;40423228&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;</summary><category term="w6上課內容"></category></entry><entry><title>2017/03/22 W5</title><link href="./W5.html" rel="alternate"></link><published>2017-03-22T11:00:00+08:00</published><updated>2017-03-22T11:00:00+08:00</updated><author><name>40423228</name></author><id>tag:,2017-03-22:./W5.html</id><summary type="html">&lt;h3&gt;20170322W5上課內容&lt;/h3&gt;
+&lt;p&gt;一.fossil筆記倉儲主頁顯示作業&lt;/p&gt;
+&lt;p&gt;二.將單連桿轉入V-rep並使其作動&lt;/p&gt;
 
 
 &lt;h2&gt;&lt;span style="background-color: #00ff37"&gt;一.&lt;/span&gt;fossil筆記倉儲主頁顯示作業&lt;/h2&gt;
@@ -200,6 +181,9 @@ fossil clone uri foo.fossil&lt;/p&gt;
 &lt;iframe src="https://player.vimeo.com/video/212855920" width="640" height="512" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 
 &lt;p&gt;&lt;a href="https://vimeo.com/212855920"&gt;20170322 四連桿 part2&lt;/a&gt; from &lt;a href="https://vimeo.com/user47600730"&gt;40423228&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;</summary><category term="w5上課內容"></category></entry><entry><title>2017/03/15 W4</title><link href="./W4.html" rel="alternate"></link><published>2017-03-15T11:00:00+08:00</published><updated>2017-03-15T11:00:00+08:00</updated><author><name>40423228</name></author><id>tag:,2017-03-15:./W4.html</id><summary type="html">&lt;h3&gt;20170315W4上課內容&lt;/h3&gt;
+&lt;p&gt;一.建立各組協同主機&lt;/p&gt;
+&lt;p&gt;二.在OnShape繪出單連桿機構並轉成STL&lt;/p&gt;
+&lt;p&gt;三.在SolveSpace繪出單連桿機構並轉成STL&lt;/p&gt;
 
 
 &lt;h2&gt;&lt;span style="background-color: #00ff37"&gt;一.&lt;/span&gt;建立各組協同主機&lt;/h2&gt;
@@ -216,6 +200,11 @@ fossil clone uri foo.fossil&lt;/p&gt;
 &lt;iframe src="https://player.vimeo.com/video/212771293" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 
 &lt;p&gt;&lt;a href="https://vimeo.com/212771293"&gt;0315單連桿-SolveSpace&lt;/a&gt; from &lt;a href="https://vimeo.com/user47600730"&gt;40423228&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;</summary><category term="w4上課內容"></category></entry><entry><title>2017/03/08 W3</title><link href="./W3.html" rel="alternate"></link><published>2017-03-08T11:00:00+08:00</published><updated>2017-03-08T11:00:00+08:00</updated><author><name>40423228</name></author><id>tag:,2017-03-08:./W3.html</id><summary type="html">&lt;h3&gt;20170308W3上課內容&lt;/h3&gt;
+&lt;p&gt;一.寫出影片的英文逐字稿&lt;/p&gt;
+&lt;p&gt;二.Solvespace 30-50-60 cm 比例的四連桿組立，並轉出 stl 檔案，以 import 方式轉入 V-rep&lt;/p&gt;
+&lt;p&gt;三.Onshape 完成與第二點相同尺寸之四連桿機構, 以 stl 轉出 (或其他格式) 後, 再轉入 V-rep&lt;/p&gt;
+&lt;p&gt;四.在 50 連桿上加上 50-50-50 正三角形, 以 Solvespace 輸入該三角形頂點運動軌跡&lt;/p&gt;
+&lt;p&gt;五.驗證上述四連桿運動軌跡, 是否正確, 並在分組網頁中執行該四連桿機構的運動模擬&lt;/p&gt;
 
 
 &lt;h2&gt;&lt;span style="background-color: #00ff37"&gt;一.&lt;/span&gt;至&lt;a href="https://github.com/mdecourse/2017springcd/tree/gh-pages/data/w2"&gt;課程網頁&lt;/a&gt;w3 Hyperworks 處瀏覽 10 個影片, 選兩個影片, 寫出該影片的英文逐字稿&lt;/h2&gt;
@@ -301,6 +290,8 @@ fossil clone uri foo.fossil&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://vimeo.com/208415790"&gt;四連桿軌跡圖&lt;/a&gt; from &lt;a href="https://vimeo.com/user47600730"&gt;40423228&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;40423228機械設計工程系-協同產品設計實習課程-W1&lt;/a&gt; from &lt;a href="https://vimeo.com/user47600730/videos"&gt;40423228&lt;/a&gt; on &lt;a href="https://vimeo.com/home/myvideos"&gt;vimeo&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;</summary><category term="w3上課內容"></category></entry><entry><title>2017/03/01 W2</title><link href="./W2.html" rel="alternate"></link><published>2017-03-01T11:00:00+08:00</published><updated>2017-03-01T11:00:00+08:00</updated><author><name>40423228</name></author><id>tag:,2017-03-01:./W2.html</id><summary type="html">&lt;h3&gt;20170301W2上課內容&lt;/h3&gt;
+&lt;p&gt;一.利用python找出缺課人員&lt;/p&gt;
+&lt;p&gt;二.利用 Solvespace 進行四連桿機構組立並轉為st檔&lt;/p&gt;
 
 
 &lt;p&gt;&lt;span style="background-color: #00ff37"&gt;一.&lt;/span&gt;利用python找出缺課人員&lt;/p&gt;
@@ -392,6 +383,10 @@ fossil clone uri foo.fossil&lt;/p&gt;
 &lt;p&gt;&lt;iframe src="https://player.vimeo.com/video/208413780" width="640" height="512" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 &lt;p&gt;&lt;a href="https://vimeo.com/208413780"&gt;Solvespace 30-50-60 cm 比例的四連桿組立&lt;/a&gt; from &lt;a href="https://vimeo.com/user47600730"&gt;40423228&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
 &lt;p&gt;40423228機械設計工程系-協同產品設計實習課程-W1&lt;/a&gt; from &lt;a href="https://vimeo.com/user47600730/videos"&gt;40423228&lt;/a&gt; on &lt;a href="https://vimeo.com/home/myvideos"&gt;vimeo&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;</summary><category term="w2上課內容"></category></entry><entry><title>2017/02/22 W1</title><link href="./W1.html" rel="alternate"></link><published>2017-02-22T11:00:00+08:00</published><updated>2017-02-22T11:00:00+08:00</updated><author><name>40423228</name></author><id>tag:,2017-02-22:./W1.html</id><summary type="html">&lt;h3&gt;20170222W1上課內容&lt;/h3&gt;
+&lt;p&gt;一.觀看這學期的課程大綱&lt;/p&gt;
+&lt;p&gt;二.了解如何使用stunnel&lt;/p&gt;
+&lt;p&gt;三.開啟Leo利用Scite編輯Start.bat&lt;/p&gt;
+&lt;p&gt;四.利用python程式碼控制Vrep裡的單連桿作動&lt;/p&gt;
 
 
 &lt;p&gt;一.可至&lt;a href="http://mde.tw/2017springcd/blog/2017spring-cd.html"&gt;2017 Spring 協同產品設計實習&lt;/a&gt;觀看這學期的課程大綱&lt;/p&gt;
