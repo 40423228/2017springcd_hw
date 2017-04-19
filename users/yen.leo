@@ -389,7 +389,7 @@
 </v>
 </v>
 <v t="leo.20170419104809.1" a="E"><vh>20170419W9</vh>
-<v t="leo.20170419104809.2" a="E"><vh>上課內容</vh>
+<v t="leo.20170419104809.2"><vh>上課內容</vh>
 <v t="leo.20170419104809.3"><vh>上課大綱</vh></v>
 </v>
 <v t="leo.20170419104809.4"><vh>一-1</vh>
@@ -405,27 +405,27 @@
 <v t="leo.20170419104809.11"><vh>圖片</vh></v>
 </v>
 <v t="leo.20170419104809.12"><vh>二-3</vh>
-<v t="leo.20170419104809.13"><vh>圖片</vh></v>
+<v t="leo.20170419104809.13"><vh>程式</vh></v>
 </v>
-<v t="leo.20170419104809.14"><vh>二-4</vh>
-<v t="leo.20170419104809.15"><vh>圖片</vh></v>
+<v t="leo.20170419104809.14"><vh>三-1</vh>
+<v t="leo.20170419104809.15"><vh>標題</vh></v>
 </v>
-<v t="leo.20170419104809.16"><vh>二-5</vh>
+<v t="leo.20170419104809.16"><vh>三-2</vh>
 <v t="leo.20170419104809.17"><vh>圖片</vh></v>
 </v>
-<v t="leo.20170419104809.18"><vh>二-6</vh>
+<v t="leo.20170419104809.18"><vh>三-3</vh>
 <v t="leo.20170419104809.19"><vh>圖片</vh></v>
 </v>
-<v t="leo.20170419104809.20"><vh>二-7</vh>
+<v t="leo.20170419104809.20"><vh>三-4</vh>
 <v t="leo.20170419104809.21"><vh>圖片</vh></v>
 </v>
-<v t="leo.20170419104809.22" a="E"><vh>(1)影片</vh>
+<v t="leo.20170419104809.22"><vh>(1)影片</vh>
 <v t="leo.20170419104809.23"><vh>第八週影片</vh></v>
 </v>
-<v t="leo.20170419104809.24" a="E"><vh>(2)影片</vh>
+<v t="leo.20170419104809.24"><vh>(2)影片</vh>
 <v t="leo.20170419104809.25"><vh>第八週影片</vh></v>
 </v>
-<v t="leo.20170419105037.1" a="E"><vh>(3)影片</vh>
+<v t="leo.20170419105037.1"><vh>(3)影片</vh>
 <v t="leo.20170419105037.2"><vh>第八週影片</vh></v>
 </v>
 </v>
@@ -2226,7 +2226,7 @@ fossil add . </t>
 
 						
 </t>
-<t tx="leo.20170419104809.11">&lt;a href="http://imgur.com/zqrCEdW"&gt;&lt;img src="http://i.imgur.com/zqrCEdW.jpg" title="source: imgur.com" /&gt;&lt;/a&gt;</t>
+<t tx="leo.20170419104809.11">&lt;a href="http://imgur.com/sJp4cXP"&gt;&lt;img src="http://i.imgur.com/sJp4cXP.png" title="source: imgur.com" /&gt;&lt;/a&gt;</t>
 <t tx="leo.20170419104809.12">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
@@ -2238,7 +2238,66 @@ fossil add . </t>
 
 						
 </t>
-<t tx="leo.20170419104809.13">&lt;a href="http://imgur.com/n3AhQxS"&gt;&lt;img src="http://i.imgur.com/n3AhQxS.jpg" title="source: imgur.com" /&gt;&lt;/a&gt;</t>
+<t tx="leo.20170419104809.13">&lt;!-- 導入 Brython 標準程式庫 --&gt;
+ 
+&lt;script type="text/javascript" src="https://cdn.rawgit.com/brython-dev/brython/master/www/src/brython_dist.js"&gt;
+&lt;/script&gt;
+ 
+&lt;!-- 啟動 Brython --&gt;
+ 
+&lt;script&gt;
+window.onload=function(){
+brython(1);
+}
+&lt;/script&gt;
+ 
+&lt;!-- 以下實際利用  Brython 畫四連桿 trace point 路徑--&gt;
+ 
+&lt;canvas id="fourbar" width="600" height="400"&gt;&lt;/canvas&gt;
+ 
+&lt;div id="container1"&gt;&lt;/div&gt;
+ 
+&lt;script type="text/python3"&gt;
+from browser import document as doc
+from browser import html
+import math
+# 準備繪圖畫布
+canvas = doc["fourbar"]
+container1 = doc['container1']
+ctx = canvas.getContext("2d")
+ 
+fourbar_data = open("data/w9/0419-2.csv").read()
+fourbar_list = fourbar_data.splitlines()
+#container1 &lt;= fourbar_list[0]
+# 以下可以利用 ctx 物件進行畫圖
+# 先畫一條直線
+ctx.beginPath()
+# 設定線的寬度為 1 個單位
+ctx.lineWidth = 1
+# 利用 transform 將 y 座標反轉, 且 offset canvas.height
+# (X scale, X skew, Y skew, Y scale, X offset, Y offset)
+# 配合圖形位置進行座標轉換
+ctx.transform(1, 0, 0, -1, canvas.width/2+250, canvas.height/2+100)
+# 畫出 x 與 y 座標線
+# 各座標值放大 8 倍
+ratio = 3
+ctx.moveTo(0, 0)
+ctx.lineTo(-30*ratio, 0)
+start_point = fourbar_list[0].split(",")
+ctx.moveTo(float(start_point[0])*ratio, float(start_point[1])*ratio)
+count = 0
+for data in fourbar_list[1:]:
+    point = data.split(",")
+    #count = count + 1
+    #container1 &lt;= str(count) + ":" + point[0] + "," + point[1]
+    #container1 &lt;= html.BR()
+    ctx.lineTo(float(point[0])*ratio, float(point[1])*ratio)
+# 設定顏色為藍色, 也可以使用 "rgb(0, 0, 255)" 字串設定顏色值
+ctx.strokeStyle = "blue"
+# 實際執行畫線
+ctx.stroke()
+ctx.closePath()
+&lt;/script&gt;</t>
 <t tx="leo.20170419104809.14">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
@@ -2250,7 +2309,7 @@ fossil add . </t>
 
 						
 </t>
-<t tx="leo.20170419104809.15">&lt;a href="http://imgur.com/4yps6DI"&gt;&lt;img src="http://i.imgur.com/4yps6DI.jpg" title="source: imgur.com" /&gt;&lt;/a&gt;</t>
+<t tx="leo.20170419104809.15">####Fourbar Walker OnShape 零件協同繪圖與組立查驗</t>
 <t tx="leo.20170419104809.16">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
@@ -2262,7 +2321,7 @@ fossil add . </t>
 
 						
 </t>
-<t tx="leo.20170419104809.17">&lt;a href="http://imgur.com/RYnVFSd"&gt;&lt;img src="http://i.imgur.com/RYnVFSd.jpg" title="source: imgur.com" /&gt;&lt;/a&gt;</t>
+<t tx="leo.20170419104809.17">&lt;a href="http://imgur.com/nTXeTG4"&gt;&lt;img src="http://i.imgur.com/nTXeTG4.png" title="source: imgur.com" /&gt;&lt;/a&gt;</t>
 <t tx="leo.20170419104809.18">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
@@ -2274,7 +2333,8 @@ fossil add . </t>
 
 						
 </t>
-<t tx="leo.20170419104809.19">&lt;a href="http://imgur.com/sZ46yqv"&gt;&lt;img src="http://i.imgur.com/sZ46yqv.jpg" title="source: imgur.com" /&gt;&lt;/a&gt;</t>
+<t tx="leo.20170419104809.19">&lt;a href="http://imgur.com/IeRTC34"&gt;&lt;img src="http://i.imgur.com/IeRTC34.png" title="source: imgur.com" /&gt;&lt;/a&gt;
+</t>
 <t tx="leo.20170419104809.2">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
@@ -2297,7 +2357,7 @@ fossil add . </t>
 
 						
 </t>
-<t tx="leo.20170419104809.21">&lt;a href="http://imgur.com/hb3p9Jp"&gt;&lt;img src="http://i.imgur.com/hb3p9Jp.gif" title="source: imgur.com" /&gt;&lt;/a&gt;</t>
+<t tx="leo.20170419104809.21">&lt;a href="http://imgur.com/Ehv9Cns"&gt;&lt;img src="http://i.imgur.com/Ehv9Cns.png" title="source: imgur.com" /&gt;&lt;/a&gt;</t>
 <t tx="leo.20170419104809.22">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -2342,7 +2402,7 @@ fossil add . </t>
 
 						
 </t>
-<t tx="leo.20170419104809.5">####利用fossil對倉儲進行管理</t>
+<t tx="leo.20170419104809.5">####期中協同查驗與自評</t>
 <t tx="leo.20170419104809.6">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
@@ -2354,13 +2414,7 @@ fossil add . </t>
 
 						
 </t>
-<t tx="leo.20170419104809.7">對fossil管理的指令:
-
-fossil clone uri foo.fossil
-
-fossil open ./../../foo.fossil (開啟)
-
-fossil add . </t>
+<t tx="leo.20170419104809.7">&lt;a href="https://192.168.1.45/home"&gt;fossil_bg7&lt;/a&gt;</t>
 <t tx="leo.20170419104809.8">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
@@ -2372,7 +2426,7 @@ fossil add . </t>
 
 						
 </t>
-<t tx="leo.20170419104809.9">####二.利用Onshape繪製八連桿</t>
+<t tx="leo.20170419104809.9">####二.四連桿機構協同 Trace Point 查驗</t>
 <t tx="leo.20170419105037.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
