@@ -84,7 +84,34 @@ ctx.closePath()
 
 &lt;iframe src="https://player.vimeo.com/video/213782253" width="640" height="613" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 
-&lt;p&gt;&lt;a href="https://vimeo.com/213782253"&gt;40423228機械設計-協同產品設計課程W9-mission3-動畫&lt;/a&gt; from &lt;a href="https://vimeo.com/user47600730"&gt;40423228&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;</summary><category term="w9上課內容"></category></entry><entry><title>2017/04/05 W7</title><link href="./W7.html" rel="alternate"></link><published>2017-04-05T11:00:00+08:00</published><updated>2017-04-05T11:00:00+08:00</updated><author><name>40423228</name></author><id>tag:,2017-04-05:./W7.html</id><summary type="html">&lt;h3&gt;20170405W7上課內容&lt;/h3&gt;
+&lt;p&gt;&lt;a href="https://vimeo.com/213782253"&gt;40423228機械設計-協同產品設計課程W9-mission3-動畫&lt;/a&gt; from &lt;a href="https://vimeo.com/user47600730"&gt;40423228&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;四.分組協同零件展示&lt;/p&gt;
+&lt;script&gt;
+window.onload = function(){
+    var madeleine = new Madeleine({
+      target: 'target', // target div id
+      data: './../data/spikeball.stl', // data path
+      path: './../data/madeleine/src/' // path to source directory from current html file
+    });
+}; 
+&lt;/script&gt;
+
+&lt;script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/r68/three.min.js"
+&gt;&lt;/script&gt;
+
+&lt;script src="https://rawgit.com/mrdoob/three.js/master/examples/js/controls/TrackballControls.js"
+&gt;&lt;/script&gt;
+
+&lt;script src="./../data/w9/loader.js"&gt;&lt;/script&gt;
+
+&lt;script src="./../data/w9/stl.js"&gt;&lt;/script&gt;
+
+&lt;div&gt;
+select stl file: &lt;input type="file" id="file" /&gt; or drop stl file
+&lt;/div&gt;
+
+&lt;div id="view"&gt;&lt;/div&gt;</summary><category term="w9上課內容"></category></entry><entry><title>2017/04/05 W7</title><link href="./W7.html" rel="alternate"></link><published>2017-04-05T11:00:00+08:00</published><updated>2017-04-05T11:00:00+08:00</updated><author><name>40423228</name></author><id>tag:,2017-04-05:./W7.html</id><summary type="html">&lt;h3&gt;20170405W7上課內容&lt;/h3&gt;
 
 
 &lt;h2&gt;&lt;span style="background-color: #00ff37"&gt;一.&lt;/span&gt;利用fossil對倉儲進行管理&lt;/h2&gt;
