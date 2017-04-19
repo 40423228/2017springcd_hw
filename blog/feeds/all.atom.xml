@@ -5,13 +5,8 @@
 &lt;h2&gt;&lt;span style="background-color: #00ff37"&gt;一.&lt;/span&gt;Fossil Server 實習查驗&lt;/h2&gt;
 &lt;h1&gt;&lt;a href="https://192.168.1.45/home"&gt;fossil_bg7&lt;/a&gt;&lt;/h1&gt;
 &lt;h2&gt;&lt;span style="background-color: #00ff37"&gt;二.&lt;/span&gt;四連桿機構協同 Trace Point 查驗&lt;/h2&gt;
-&lt;iframe src="https://player.vimeo.com/video/213774978" width="640" height="512" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
-
-&lt;p&gt;&lt;a href="https://vimeo.com/213774978"&gt;2017-04-19_mission2四連桿機構協同 Trace Point 查驗_Length=45 &lt;/a&gt; from &lt;a href="https://vimeo.com/user47600730"&gt;40423228&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
-
 &lt;p&gt;&lt;a href="http://imgur.com/sJp4cXP"&gt;&lt;img src="http://i.imgur.com/sJp4cXP.png" title="source: imgur.com" /&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;參考的網際程式&lt;/p&gt;
-&lt;pre class="brush: python"&gt;
 &lt;!-- 導入 Brython 標準程式庫 --&gt;
 
 &lt;script type="text/javascript" src="https://cdn.rawgit.com/brython-dev/brython/master/www/src/brython_dist.js"&gt;
@@ -54,7 +49,7 @@ ctx.lineWidth = 1
 ctx.transform(1, 0, 0, -1, canvas.width/2+250, canvas.height/2+100)
 # 畫出 x 與 y 座標線
 # 各座標值放大 8 倍
-ratio = 8
+ratio = 3
 ctx.moveTo(0, 0)
 ctx.lineTo(-30*ratio, 0)
 start_point = fourbar_list[0].split(",")
@@ -72,7 +67,11 @@ ctx.strokeStyle = "blue"
 ctx.stroke()
 ctx.closePath()
 &lt;/script&gt;
-&lt;/pre&gt;</summary><category term="w9上課內容"></category></entry><entry><title>2017/04/05 W7</title><link href="./W7.html" rel="alternate"></link><published>2017-04-05T11:00:00+08:00</published><updated>2017-04-05T11:00:00+08:00</updated><author><name>40423228</name></author><id>tag:,2017-04-05:./W7.html</id><summary type="html">&lt;h3&gt;20170405W7上課內容&lt;/h3&gt;
+
+&lt;h1&gt;影片:&lt;/h1&gt;
+&lt;iframe src="https://player.vimeo.com/video/213774978" width="640" height="512" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;a href="https://vimeo.com/213774978"&gt;2017-04-19_mission2四連桿機構協同 Trace Point 查驗_Length=45 &lt;/a&gt; from &lt;a href="https://vimeo.com/user47600730"&gt;40423228&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;</summary><category term="w9上課內容"></category></entry><entry><title>2017/04/05 W7</title><link href="./W7.html" rel="alternate"></link><published>2017-04-05T11:00:00+08:00</published><updated>2017-04-05T11:00:00+08:00</updated><author><name>40423228</name></author><id>tag:,2017-04-05:./W7.html</id><summary type="html">&lt;h3&gt;20170405W7上課內容&lt;/h3&gt;
 
 
 &lt;h2&gt;&lt;span style="background-color: #00ff37"&gt;一.&lt;/span&gt;利用fossil對倉儲進行管理&lt;/h2&gt;
