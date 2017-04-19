@@ -404,9 +404,6 @@
 <v t="leo.20170419104809.10"><vh>二-2</vh>
 <v t="leo.20170419104809.11"><vh>圖片</vh></v>
 </v>
-<v t="leo.20170419104809.12"><vh>二-3</vh>
-<v t="leo.20170419104809.13"><vh>程式</vh></v>
-</v>
 <v t="leo.20170419104809.14"><vh>三-1</vh>
 <v t="leo.20170419104809.15"><vh>標題</vh></v>
 </v>
@@ -2227,77 +2224,6 @@ fossil add . </t>
 						
 </t>
 <t tx="leo.20170419104809.11">&lt;a href="http://imgur.com/sJp4cXP"&gt;&lt;img src="http://i.imgur.com/sJp4cXP.png" title="source: imgur.com" /&gt;&lt;/a&gt;</t>
-<t tx="leo.20170419104809.12">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-&lt;!-- 請注意, @others 不可以內縮 --&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-
-						
-</t>
-<t tx="leo.20170419104809.13">&lt;!-- 導入 Brython 標準程式庫 --&gt;
- 
-&lt;script type="text/javascript" src="https://cdn.rawgit.com/brython-dev/brython/master/www/src/brython_dist.js"&gt;
-&lt;/script&gt;
- 
-&lt;!-- 啟動 Brython --&gt;
- 
-&lt;script&gt;
-window.onload=function(){
-brython(1);
-}
-&lt;/script&gt;
- 
-&lt;!-- 以下實際利用  Brython 畫四連桿 trace point 路徑--&gt;
- 
-&lt;canvas id="fourbar" width="600" height="400"&gt;&lt;/canvas&gt;
- 
-&lt;div id="container1"&gt;&lt;/div&gt;
- 
-&lt;script type="text/python3"&gt;
-from browser import document as doc
-from browser import html
-import math
-# 準備繪圖畫布
-canvas = doc["fourbar"]
-container1 = doc['container1']
-ctx = canvas.getContext("2d")
- 
-fourbar_data = open("data/w9/0419-2.csv").read()
-fourbar_list = fourbar_data.splitlines()
-#container1 &lt;= fourbar_list[0]
-# 以下可以利用 ctx 物件進行畫圖
-# 先畫一條直線
-ctx.beginPath()
-# 設定線的寬度為 1 個單位
-ctx.lineWidth = 1
-# 利用 transform 將 y 座標反轉, 且 offset canvas.height
-# (X scale, X skew, Y skew, Y scale, X offset, Y offset)
-# 配合圖形位置進行座標轉換
-ctx.transform(1, 0, 0, -1, canvas.width/2+250, canvas.height/2+100)
-# 畫出 x 與 y 座標線
-# 各座標值放大 8 倍
-ratio = 3
-ctx.moveTo(0, 0)
-ctx.lineTo(-30*ratio, 0)
-start_point = fourbar_list[0].split(",")
-ctx.moveTo(float(start_point[0])*ratio, float(start_point[1])*ratio)
-count = 0
-for data in fourbar_list[1:]:
-    point = data.split(",")
-    #count = count + 1
-    #container1 &lt;= str(count) + ":" + point[0] + "," + point[1]
-    #container1 &lt;= html.BR()
-    ctx.lineTo(float(point[0])*ratio, float(point[1])*ratio)
-# 設定顏色為藍色, 也可以使用 "rgb(0, 0, 255)" 字串設定顏色值
-ctx.strokeStyle = "blue"
-# 實際執行畫線
-ctx.stroke()
-ctx.closePath()
-&lt;/script&gt;</t>
 <t tx="leo.20170419104809.14">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
