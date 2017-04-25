@@ -31,8 +31,8 @@
 <v t="yen.20170120110024.2" a="E"><vh>html</vh>
 <v t="yen.20170120110024.3"><vh>head</vh></v>
 <v t="yen.20170120110024.4" a="E"><vh>body</vh>
-<v t="yen.20170120110024.5"><vh>reveal div</vh>
-<v t="yen.20170120110024.6"><vh>slides div</vh>
+<v t="yen.20170120110024.5" a="E"><vh>reveal div</vh>
+<v t="yen.20170120110024.6" a="E"><vh>slides div</vh>
 <v t="yen.20170120110024.7"><vh>封面投影片</vh>
 <v t="yen.20170120110024.8"><vh>封面投影片內容</vh></v>
 </v>
@@ -386,6 +386,53 @@
 </v>
 <v t="leo.20170412011034.1"><vh>(5)影片</vh>
 <v t="leo.20170412011034.2"><vh>第七週影片</vh></v>
+</v>
+</v>
+<v t="leo.20170425221953.1"><vh>20170412W8</vh>
+<v t="leo.20170425221953.2"><vh>上課內容</vh>
+<v t="leo.20170425221953.3"><vh>上課大綱</vh></v>
+</v>
+<v t="leo.20170425221953.4"><vh>一-1</vh>
+<v t="leo.20170425221953.5"><vh>標題</vh></v>
+</v>
+<v t="leo.20170425221953.6"><vh>一-2</vh>
+<v t="leo.20170425221953.7"><vh>內容</vh></v>
+</v>
+<v t="leo.20170425221953.8"><vh>二-1</vh>
+<v t="leo.20170425221953.9"><vh>標題</vh></v>
+</v>
+<v t="leo.20170425221953.10"><vh>二-2</vh>
+<v t="leo.20170425221953.11"><vh>圖片</vh></v>
+</v>
+<v t="leo.20170425221953.12"><vh>二-3</vh>
+<v t="leo.20170425221953.13"><vh>圖片</vh></v>
+</v>
+<v t="leo.20170425221953.14"><vh>二-4</vh>
+<v t="leo.20170425221953.15"><vh>圖片</vh></v>
+</v>
+<v t="leo.20170425221953.16"><vh>二-5</vh>
+<v t="leo.20170425221953.17"><vh>圖片</vh></v>
+</v>
+<v t="leo.20170425221953.18"><vh>二-6</vh>
+<v t="leo.20170425221953.19"><vh>圖片</vh></v>
+</v>
+<v t="leo.20170425221953.20"><vh>二-7</vh>
+<v t="leo.20170425221953.21"><vh>圖片</vh></v>
+</v>
+<v t="leo.20170425221953.22"><vh>(1)影片</vh>
+<v t="leo.20170425221953.23"><vh>第七週影片</vh></v>
+</v>
+<v t="leo.20170425221953.24"><vh>(2)影片</vh>
+<v t="leo.20170425221953.25"><vh>第七週影片</vh></v>
+</v>
+<v t="leo.20170425221953.26"><vh>(3)影片</vh>
+<v t="leo.20170425221953.27"><vh>第七週影片</vh></v>
+</v>
+<v t="leo.20170425221953.28"><vh>(4)影片</vh>
+<v t="leo.20170425221953.29"><vh>第七週影片</vh></v>
+</v>
+<v t="leo.20170425221953.30"><vh>(5)影片</vh>
+<v t="leo.20170425221953.31"><vh>第七週影片</vh></v>
 </v>
 </v>
 <v t="leo.20170419104809.1"><vh>20170419W9</vh>
@@ -2365,6 +2412,207 @@ fossil add . </t>
 </t>
 <t tx="leo.20170419105037.2">&lt;iframe src="https://player.vimeo.com/video/213782253" width="500" height="400" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 &lt;p&gt;&lt;a href="https://vimeo.com/213782253"&gt;40423228機械設計-協同產品設計課程W9-mission3-動畫&lt;/a&gt; from &lt;a href="https://vimeo.com/user47600730"&gt;40423228&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;</t>
+<t tx="leo.20170425221953.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+</t>
+<t tx="leo.20170425221953.10">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170425221953.11">&lt;a href="http://imgur.com/zqrCEdW"&gt;&lt;img src="http://i.imgur.com/zqrCEdW.jpg" title="source: imgur.com" /&gt;&lt;/a&gt;</t>
+<t tx="leo.20170425221953.12">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170425221953.13">&lt;a href="http://imgur.com/n3AhQxS"&gt;&lt;img src="http://i.imgur.com/n3AhQxS.jpg" title="source: imgur.com" /&gt;&lt;/a&gt;</t>
+<t tx="leo.20170425221953.14">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170425221953.15">&lt;a href="http://imgur.com/4yps6DI"&gt;&lt;img src="http://i.imgur.com/4yps6DI.jpg" title="source: imgur.com" /&gt;&lt;/a&gt;</t>
+<t tx="leo.20170425221953.16">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170425221953.17">&lt;a href="http://imgur.com/RYnVFSd"&gt;&lt;img src="http://i.imgur.com/RYnVFSd.jpg" title="source: imgur.com" /&gt;&lt;/a&gt;</t>
+<t tx="leo.20170425221953.18">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170425221953.19">&lt;a href="http://imgur.com/sZ46yqv"&gt;&lt;img src="http://i.imgur.com/sZ46yqv.jpg" title="source: imgur.com" /&gt;&lt;/a&gt;</t>
+<t tx="leo.20170425221953.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170425221953.20">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170425221953.21">&lt;a href="http://imgur.com/hb3p9Jp"&gt;&lt;img src="http://i.imgur.com/hb3p9Jp.gif" title="source: imgur.com" /&gt;&lt;/a&gt;</t>
+<t tx="leo.20170425221953.22">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20170425221953.23">###利用Onshape繪製八連桿
+
+#(1).零件
+&lt;iframe src="https://player.vimeo.com/video/212793254" width="640" height="359" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href="https://vimeo.com/212793254"&gt;20170405 part1&lt;/a&gt; from &lt;a href="https://vimeo.com/user47600730"&gt;40423228&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;</t>
+<t tx="leo.20170425221953.24">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20170425221953.25">###利用Onshape繪製八連桿
+
+#(2).零件
+&lt;iframe src="https://player.vimeo.com/video/212793288" width="640" height="359" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href="https://vimeo.com/212793288"&gt;20170405 part2&lt;/a&gt; from &lt;a href="https://vimeo.com/user47600730"&gt;40423228&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;</t>
+<t tx="leo.20170425221953.26">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20170425221953.27">#(3).組合
+
+&lt;iframe src="https://player.vimeo.com/video/212797143" width="640" height="359" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href="https://vimeo.com/212797143"&gt;20170405 part3&lt;/a&gt; from &lt;a href="https://vimeo.com/user47600730"&gt;40423228&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;</t>
+<t tx="leo.20170425221953.28">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20170425221953.29">#(4).組合
+&lt;iframe src="https://player.vimeo.com/video/212802593" width="640" height="359" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href="https://vimeo.com/212802593"&gt;20170405 part4&lt;/a&gt; from &lt;a href="https://vimeo.com/user47600730"&gt;40423228&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;</t>
+<t tx="leo.20170425221953.3">##第七週上課筆記
+
+####一.利用fossil對倉儲進行管理
+
+####二.利用Onshape繪製八連桿
+
+####三.將八連桿匯入V-rep並使其作動</t>
+<t tx="leo.20170425221953.30">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20170425221953.31">###將八連桿匯入V-rep並使其作動
+
+待補</t>
+<t tx="leo.20170425221953.4">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170425221953.5">####利用fossil對倉儲進行管理</t>
+<t tx="leo.20170425221953.6">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170425221953.7">對fossil管理的指令:
+
+fossil clone uri foo.fossil
+
+fossil open ./../../foo.fossil (開啟)
+
+fossil add . </t>
+<t tx="leo.20170425221953.8">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170425221953.9">####二.利用Onshape繪製八連桿</t>
 <t tx="yen.20170108171605.1"></t>
 <t tx="yen.20170108171605.2">QTreeWidget {
     /* These apply to the selected item, but not to editing items.*/
