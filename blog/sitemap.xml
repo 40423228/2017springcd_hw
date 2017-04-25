@@ -5,28 +5,28 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>./</loc>
-<lastmod>2017-04-25T19:52:31-00:00</lastmod>
+<lastmod>2017-04-25T20:05:19-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./archives.html</loc>
-<lastmod>2017-04-25T19:52:31-00:00</lastmod>
+<lastmod>2017-04-25T20:05:19-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./tags.html</loc>
-<lastmod>2017-04-25T19:52:31-00:00</lastmod>
+<lastmod>2017-04-25T20:05:19-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./categories.html</loc>
-<lastmod>2017-04-25T19:52:31-00:00</lastmod>
+<lastmod>2017-04-25T20:05:19-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -116,8 +116,8 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
-<loc>./tag/w8shang-ke-nei-rong.html</loc>
-<lastmod>2017-04-12T11:00:00+08:06</lastmod>
+<loc>./tag/w6shang-ke-nei-rong.html</loc>
+<lastmod>2017-03-29T11:00:00+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -137,15 +137,8 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
-<loc>./tag/w1shang-ke-nei-rong.html</loc>
+<loc>./tag/bg7-group.html</loc>
 <lastmod>2017-02-22T11:00:00+08:06</lastmod>
-<changefreq>daily</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>./tag/w6shang-ke-nei-rong.html</loc>
-<lastmod>2017-03-29T11:00:00+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -158,13 +151,6 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
-<loc>./tag/w4shang-ke-nei-rong.html</loc>
-<lastmod>2017-03-15T11:00:00+08:06</lastmod>
-<changefreq>daily</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
 <loc>./tag/w9shang-ke-nei-rong.html</loc>
 <lastmod>2017-04-19T11:00:00+08:06</lastmod>
 <changefreq>daily</changefreq>
@@ -172,7 +158,14 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
-<loc>./tag/bg7-group.html</loc>
+<loc>./tag/w8shang-ke-nei-rong.html</loc>
+<lastmod>2017-04-12T11:00:00+08:06</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>./tag/w1shang-ke-nei-rong.html</loc>
 <lastmod>2017-02-22T11:00:00+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
@@ -181,6 +174,13 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>./tag/w3shang-ke-nei-rong.html</loc>
 <lastmod>2017-03-08T11:00:00+08:06</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>./tag/w4shang-ke-nei-rong.html</loc>
+<lastmod>2017-03-15T11:00:00+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>

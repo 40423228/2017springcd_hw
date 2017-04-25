@@ -91,7 +91,33 @@ ctx.closePath()
 &lt;p&gt;一.各組期中簡報 (含影片拍攝與上傳) 與評分&lt;/p&gt;
 
 
-&lt;h2&gt;&lt;span style="background-color: #00ff37"&gt;一.&lt;/span&gt;各組期中簡報 (含影片拍攝與上傳) 與評分&lt;/h2&gt;</summary><category term="w8上課內容"></category></entry><entry><title>2017/04/05 W7</title><link href="./W7.html" rel="alternate"></link><published>2017-04-05T11:00:00+08:00</published><updated>2017-04-05T11:00:00+08:00</updated><author><name>40423228</name></author><id>tag:,2017-04-05:./W7.html</id><summary type="html">&lt;h3&gt;20170405W7上課內容&lt;/h3&gt;
+&lt;h2&gt;&lt;span style="background-color: #00ff37"&gt;一.&lt;/span&gt;各組期中簡報 (含影片拍攝與上傳) 與評分&lt;/h2&gt;
+&lt;h2&gt;&lt;a href="https://40423228.github.io/2017springcd_hw/blog/W1.html"&gt;第一周連結&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;一.觀看這學期的課程大綱&lt;/p&gt;
+&lt;p&gt;二.了解如何使用stunnel&lt;/p&gt;
+&lt;p&gt;三.開啟Leo利用Scite編輯Start.bat&lt;/p&gt;
+&lt;p&gt;四.利用python程式碼控制Vrep裡的單連桿作動&lt;/p&gt;
+&lt;h2&gt;&lt;a href="https://40423228.github.io/2017springcd_hw/blog/W2.html"&gt;第二周連結&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;一.利用python找出缺課人員&lt;/p&gt;
+&lt;p&gt;二.利用 Solvespace 進行四連桿機構組立並轉為st檔&lt;/p&gt;
+&lt;h2&gt;&lt;a href="https://40423228.github.io/2017springcd_hw/blog/W3.html"&gt;第三周連結&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;一.寫出影片的英文逐字稿&lt;/p&gt;
+&lt;p&gt;二.Solvespace 30-50-60 cm 比例的四連桿組立，並轉出 stl 檔案，以 import 方式轉入 V-rep&lt;/p&gt;
+&lt;p&gt;三.Onshape 完成與第二點相同尺寸之四連桿機構, 以 stl 轉出 (或其他格式) 後, 再轉入 V-rep&lt;/p&gt;
+&lt;p&gt;四.在 50 連桿上加上 50-50-50 正三角形, 以 Solvespace 輸入該三角形頂點運動軌跡&lt;/p&gt;
+&lt;p&gt;五.驗證上述四連桿運動軌跡, 是否正確, 並在分組網頁中執行該四連桿機構的運動模擬&lt;/p&gt;
+&lt;h2&gt;&lt;a href="https://40423228.github.io/2017springcd_hw/blog/W4.html"&gt;第四周連結&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;一.建立各組協同主機&lt;/p&gt;
+&lt;p&gt;二.在OnShape繪出單連桿機構並轉成STL&lt;/p&gt;
+&lt;p&gt;三.在SolveSpace繪出單連桿機構並轉成STL&lt;/p&gt;
+&lt;h2&gt;&lt;a href="https://40423228.github.io/2017springcd_hw/blog/W5.html"&gt;第五周連結&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;一.fossil筆記倉儲主頁顯示作業&lt;/p&gt;
+&lt;p&gt;二.將單連桿轉入V-rep並使其作動&lt;/p&gt;
+&lt;h2&gt;&lt;a href="https://40423228.github.io/2017springcd_hw/blog/W6.html"&gt;第六周連結&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;一.利用Onshape的變數指令繪製四連桿並匯入V-rep&lt;/p&gt;
+&lt;h2&gt;&lt;a href="https://40423228.github.io/2017springcd_hw/blog/W7.html"&gt;第七周連結&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;一.利用fossil對倉儲進行管理&lt;/p&gt;
+&lt;p&gt;二.利用Onshape繪製八連桿&lt;/p&gt;</summary><category term="w8上課內容"></category></entry><entry><title>2017/04/05 W7</title><link href="./W7.html" rel="alternate"></link><published>2017-04-05T11:00:00+08:00</published><updated>2017-04-05T11:00:00+08:00</updated><author><name>40423228</name></author><id>tag:,2017-04-05:./W7.html</id><summary type="html">&lt;h3&gt;20170405W7上課內容&lt;/h3&gt;
 &lt;p&gt;一.利用fossil對倉儲進行管理&lt;/p&gt;
 &lt;p&gt;二.利用Onshape繪製八連桿&lt;/p&gt;
 
@@ -275,7 +301,7 @@ fossil clone uri foo.fossil&lt;/p&gt;
 
 
 &lt;p&gt;&lt;a href="http://imgur.com/obY6QBd"&gt;&lt;img src="http://i.imgur.com/obY6QBd.png" title="source: imgur.com" /&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;h2&gt;第二週心得&lt;/h2&gt;
+&lt;h2&gt;第三週心得&lt;/h2&gt;
 &lt;h1&gt;這周各組要從10部影片裡找出兩部翻譯，才發現自己英文的聽力十分不足，幾乎每句都聽不懂，希望能盡快補足英文聽力的能力。&lt;/h1&gt;
 &lt;h2&gt;第三週影片&lt;/h2&gt;
 &lt;h2&gt;任務二&lt;/h2&gt;
