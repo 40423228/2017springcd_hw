@@ -228,6 +228,9 @@
 <v t="leo.20170412000833.1"><vh>三-2</vh>
 <v t="leo.20170412000833.2"><vh>圖片</vh></v>
 </v>
+<v t="leo.20170425224049.1"><vh>心得</vh>
+<v t="leo.20170425224049.2"><vh>心得</vh></v>
+</v>
 <v t="leo.20170315120100.36"><vh>(1)影片</vh>
 <v t="leo.20170315120100.37"><vh>第四週影片</vh></v>
 </v>
@@ -235,7 +238,7 @@
 <v t="leo.20170412001018.2"><vh>第四週影片</vh></v>
 </v>
 </v>
-<v t="leo.20170412011739.1"><vh>20170322W5</vh>
+<v t="leo.20170412011739.1" a="E"><vh>20170322W5</vh>
 <v t="leo.20170412011739.2"><vh>上課內容</vh>
 <v t="leo.20170412011739.3"><vh>上課大綱</vh></v>
 </v>
@@ -298,6 +301,9 @@
 </v>
 <v t="leo.20170412120055.1"><vh>三-2</vh>
 <v t="leo.20170412120055.2"><vh>內容</vh></v>
+</v>
+<v t="leo.20170425224052.1" a="E"><vh>心得</vh>
+<v t="leo.20170425224052.2"><vh>心得</vh></v>
 </v>
 <v t="leo.20170412011739.16"><vh>(1)影片</vh>
 <v t="leo.20170412011739.17"><vh>第五週影片</vh></v>
@@ -388,7 +394,7 @@
 <v t="leo.20170412011034.2"><vh>第七週影片</vh></v>
 </v>
 </v>
-<v t="leo.20170425221953.1" a="E"><vh>20170412W8</vh>
+<v t="leo.20170425221953.1"><vh>20170412W8</vh>
 <v t="leo.20170425221953.2"><vh>上課內容</vh>
 <v t="leo.20170425221953.3"><vh>上課大綱</vh></v>
 </v>
@@ -2550,6 +2556,35 @@ fossil add . </t>
 <t tx="leo.20170425223030.2">##影片
 
 #&lt;button onClick="lity('https://vimeo.com/206084321')"&gt;&lt;span class="glyphicon glyphicon-facetime-video"&gt;&lt;/span&gt;stunnel設定&lt;/button&gt; &lt;button onClick="lity('https://vimeo.com/208413780')"&gt;&lt;span class="glyphicon glyphicon-facetime-video"&gt;&lt;/span&gt;Solvespace 30-50-60 cm 比例的四連桿組立&lt;/button&gt;  &lt;button onClick="lity('https://vimeo.com/208415265')"&gt;&lt;span class="glyphicon glyphicon-facetime-video"&gt;&lt;/span&gt;Onshape 四連桿機構&lt;/button&gt; &lt;button onClick="lity('https://vimeo.com/208415790')"&gt;&lt;span class="glyphicon glyphicon-facetime-video"&gt;&lt;/span&gt;四連桿軌跡圖&lt;/button&gt; &lt;button onClick="lity('https://vimeo.com/212759861')"&gt;&lt;span class="glyphicon glyphicon-facetime-video"&gt;&lt;/span&gt;0315單連桿-OnShape&lt;/button&gt; &lt;button onClick="lity('https://vimeo.com/212771293')"&gt;&lt;span class="glyphicon glyphicon-facetime-video"&gt;&lt;/span&gt;0315單連桿-SolveSpace&lt;/button&gt; &lt;button onClick="lity('https://vimeo.com/212847283')"&gt;&lt;span class="glyphicon glyphicon-facetime-video"&gt;&lt;/span&gt;20170322 單連桿vrep作動&lt;/button&gt; &lt;button onClick="lity('https://vimeo.com/212855650')"&gt;&lt;span class="glyphicon glyphicon-facetime-video"&gt;&lt;/span&gt;0322 fourlink part1&lt;/button&gt; &lt;button onClick="lity('https://vimeo.com/212855920')"&gt;&lt;span class="glyphicon glyphicon-facetime-video"&gt;&lt;/span&gt;20170322 fourlink part2&lt;/button&gt; &lt;button onClick="lity('https://vimeo.com/212777111')"&gt;&lt;span class="glyphicon glyphicon-facetime-video"&gt;&lt;/span&gt;20170329四連桿&lt;/button&gt; &lt;button onClick="lity('https://vimeo.com/212793254')"&gt;&lt;span class="glyphicon glyphicon-facetime-video"&gt;&lt;/span&gt;20170405 八連桿零件part1&lt;/button&gt; &lt;button onClick="lity('https://vimeo.com/212793288')"&gt;&lt;span class="glyphicon glyphicon-facetime-video"&gt;&lt;/span&gt;20170405 八連桿零件part2&lt;/button&gt; &lt;button onClick="lity('https://vimeo.com/212797143')"&gt;&lt;span class="glyphicon glyphicon-facetime-video"&gt;&lt;/span&gt;20170405 八連桿組裝part1&lt;/button&gt; &lt;button onClick="lity('https://vimeo.com/212802593')"&gt;&lt;span class="glyphicon glyphicon-facetime-video"&gt;&lt;/span&gt;20170405 八連桿組裝part2&lt;/button&gt; 
+</t>
+<t tx="leo.20170425224049.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170425224049.2">###心得
+
+####這周開始繪製單連桿機構，使用SolveSpaces組裝以後剛開始一直無法順利旋轉，後來終於知道是限制條件弄太多，經過修正後終於能順轉。</t>
+<t tx="leo.20170425224052.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170425224052.2">###心得
+
+####這周將上禮拜繪製的單連桿放入Vrep之中並設定使其旋轉，與之前不同的是又多加了一個Dummy。再組裝設定的時候一直遇到問題無法旋轉再摸索了一下後總算令其能在Vrep中旋轉了。
 </t>
 <t tx="yen.20170108171605.1"></t>
 <t tx="yen.20170108171605.2">QTreeWidget {
