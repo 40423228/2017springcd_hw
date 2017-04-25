@@ -117,7 +117,9 @@ ctx.closePath()
 &lt;p&gt;一.利用Onshape的變數指令繪製四連桿並匯入V-rep&lt;/p&gt;
 &lt;h2&gt;&lt;a href="https://40423228.github.io/2017springcd_hw/blog/W7.html"&gt;第七周連結&lt;/a&gt;&lt;/h2&gt;
 &lt;p&gt;一.利用fossil對倉儲進行管理&lt;/p&gt;
-&lt;p&gt;二.利用Onshape繪製八連桿&lt;/p&gt;</summary><category term="w8上課內容"></category></entry><entry><title>2017/04/05 W7</title><link href="./W7.html" rel="alternate"></link><published>2017-04-05T11:00:00+08:00</published><updated>2017-04-05T11:00:00+08:00</updated><author><name>40423228</name></author><id>tag:,2017-04-05:./W7.html</id><summary type="html">&lt;h3&gt;20170405W7上課內容&lt;/h3&gt;
+&lt;p&gt;二.利用Onshape繪製八連桿&lt;/p&gt;
+&lt;h2&gt;心得及自評&lt;/h2&gt;
+&lt;h1&gt;雖然中間落後了幾周但後來漸漸跟上了，之後也總算能跟著進度沒有落後，希望接下來至期末的幾周也能不落後每周跟上，能盡快搞熟fossil，自評65分。&lt;/h1&gt;</summary><category term="w8上課內容"></category></entry><entry><title>2017/04/05 W7</title><link href="./W7.html" rel="alternate"></link><published>2017-04-05T11:00:00+08:00</published><updated>2017-04-05T11:00:00+08:00</updated><author><name>40423228</name></author><id>tag:,2017-04-05:./W7.html</id><summary type="html">&lt;h3&gt;20170405W7上課內容&lt;/h3&gt;
 &lt;p&gt;一.利用fossil對倉儲進行管理&lt;/p&gt;
 &lt;p&gt;二.利用Onshape繪製八連桿&lt;/p&gt;
 
@@ -199,6 +201,8 @@ fossil clone uri foo.fossil&lt;/p&gt;
 &lt;p&gt;&lt;a href="http://imgur.com/isFLPna"&gt;&lt;img src="http://i.imgur.com/isFLPna.png" title="source: imgur.com" /&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;h2&gt;&lt;span style="background-color: #00ff37"&gt;三&lt;/span&gt;將四連桿轉入V-rep並使其作動&lt;/h2&gt;
 &lt;p&gt;作法與單連桿相近，差別在於多加入了Dummy&lt;/p&gt;
+&lt;h2&gt;第五週心得&lt;/h2&gt;
+&lt;h1&gt;這周將上禮拜繪製的單連桿放入Vrep之中並設定使其旋轉，與之前不同的是又多加了一個Dummy。再組裝設定的時候一直遇到問題無法旋轉再摸索了一下後總算令其能在Vrep中旋轉了。&lt;/h1&gt;
 &lt;h1&gt;影片:&lt;/h1&gt;
 &lt;iframe src="https://player.vimeo.com/video/212847283" width="640" height="512" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 
@@ -222,6 +226,8 @@ fossil clone uri foo.fossil&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://cad.onshape.com/documents/fc099af9033f5153aaa470e2/w/e7065f224e406c26ec8cdb62/e/b47f34e8c29862fb20b70236"&gt;Onshape單連桿機構&lt;/a&gt;&lt;/p&gt;
 &lt;h2&gt;&lt;span style="background-color: #00ff37"&gt;三.&lt;/span&gt;在SolveSpace繪出單連桿機構並轉成STL&lt;/h2&gt;
 &lt;p&gt;&lt;a href="http://imgur.com/K4ewRW0"&gt;&lt;img src="http://i.imgur.com/K4ewRW0.jpg" title="source: imgur.com" /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;第四週心得&lt;/h2&gt;
+&lt;h1&gt;這周開始繪製單連桿機構，使用SolveSpaces組裝以後剛開始一直無法順利旋轉，後來終於知道是限制條件弄太多，經過修正後終於能順轉。&lt;/h1&gt;
 &lt;p&gt;影片:&lt;/p&gt;
 &lt;iframe src="https://player.vimeo.com/video/212759861" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 
