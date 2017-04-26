@@ -4,6 +4,10 @@
 
 
 &lt;h2&gt;&lt;span style="background-color: #00ff37"&gt;一.&lt;/span&gt;Fourbar Walker Vrep&lt;/h2&gt;
+&lt;p&gt;&lt;img src="./../data/w10/0426Fourbar Walker Vrep.jpg" width="800" /&gt;&lt;/p&gt;
+&lt;p&gt;A零件固定經由轉動軸joint使B旋轉，B經由joint0、joint3帶動C、E，再分別以joint2、joint4帶動D、F，最後經由joint3、joint5連回A。&lt;/p&gt;
+&lt;p&gt;並用Dummy放再最後拘束其運動，Dummy連接Dummy0，Dummy1連接Dummy2&lt;/p&gt;
+&lt;p&gt;另一側作法亦同&lt;/p&gt;
 &lt;h1&gt;影片:&lt;/h1&gt;
 &lt;iframe src="https://player.vimeo.com/video/214781219" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 
