@@ -478,6 +478,7 @@
 <v t="leo.20170412010459.1"><vh>@edit 0405W7.md</vh></v>
 <v t="leo.20170425195100.1"><vh>@edit 0412W8.md</vh></v>
 <v t="leo.20170419091646.1"><vh>@edit 0419W9.md</vh></v>
+<v t="leo.20170426214555.1"><vh>@edit 0426W10.md</vh></v>
 </v>
 <v t="yen.20170108171733.81"><vh>@path pages</vh>
 <v t="yen.20170108171733.82"><vh>@edit pages_1.md</vh></v>
@@ -508,6 +509,12 @@
 <v t="yen.20170108171930.1"><vh>@button https server</vh></v>
 <v t="yen.20170108171939.1"><vh>@button ipv6 https server</vh></v>
 <v t="yen.20170209024032.1"><vh>reference</vh></v>
+<v t="leo.20170426212253.2" a="E"><vh>Recovered Nodes</vh>
+<v t="leo.20170426212253.3"><vh>Recovered node "影片" from @clean index.html</vh>
+<v t="leo.20170426212253.4"><vh>old:影片</vh></v>
+<v t="leo.20170426212253.5"><vh>new:影片</vh></v>
+</v>
+</v>
 </vnodes>
 <tnodes>
 <t tx="leo.20170226155017.1"></t>
@@ -1040,7 +1047,8 @@ print("學生總數:", n)
 <t tx="leo.20170308102027.2">###開啟四連桿機構檔案
 開啟fourbarlinkage裡的
 link_30、link_50、link_60
-並依序組裝形成四連桿</t>
+並依序組裝形成四連桿
+</t>
 <t tx="leo.20170313100813.1">&lt;section&gt;
 @others
 &lt;/section&gt;
@@ -1080,7 +1088,8 @@ link_30、link_50、link_60
 並轉出 stl 檔案，以 import 方式轉入 V-rep
 
 ####三.Onshape 完成與第二點相同尺寸之四連桿機構, 
-以 stl 轉出 (或其他格式) 後, 再轉入 V-rep</t>
+以 stl 轉出 (或其他格式) 後, 再轉入 V-rep
+</t>
 <t tx="leo.20170313100813.4">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
@@ -1092,7 +1101,8 @@ link_30、link_50、link_60
 
 						
 </t>
-<t tx="leo.20170313100813.5">###Onshape 完成與第二點相同尺寸之四連桿機構</t>
+<t tx="leo.20170313100813.5">###Onshape 完成與第二點相同尺寸之四連桿機構
+</t>
 <t tx="leo.20170313100813.6">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
@@ -1104,7 +1114,8 @@ link_30、link_50、link_60
 
 						
 </t>
-<t tx="leo.20170313100813.7">&lt;a href="http://imgur.com/y1pHxwR"&gt;&lt;img src="http://i.imgur.com/y1pHxwR.png" title="source: imgur.com" /&gt;&lt;/a&gt;</t>
+<t tx="leo.20170313100813.7">&lt;a href="http://imgur.com/y1pHxwR"&gt;&lt;img src="http://i.imgur.com/y1pHxwR.png" title="source: imgur.com" /&gt;&lt;/a&gt;
+</t>
 <t tx="leo.20170313101445.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
@@ -1176,7 +1187,8 @@ link_30、link_50、link_60
 <t tx="leo.20170313101511.2">###開啟四連桿機構檔案
 開啟fourbarlinkage裡的
 link_30、link_50、link_60
-並依序組裝形成四連桿</t>
+並依序組裝形成四連桿
+</t>
 <t tx="leo.20170313101516.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
@@ -1202,7 +1214,8 @@ link_30、link_50、link_60
 						
 </t>
 <t tx="leo.20170313101529.2">###在 50 連桿上加上 50-50-50 正三角形, 
-以 Solvespace 輸入該三角形頂點運動軌跡</t>
+以 Solvespace 輸入該三角形頂點運動軌跡
+</t>
 <t tx="leo.20170313101618.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
@@ -1216,7 +1229,8 @@ link_30、link_50、link_60
 </t>
 <t tx="leo.20170313101618.2">####四.在 50 連桿上加上 50-50-50 正三角形, 以 Solvespace 輸入該三角形頂點運動軌跡
 
-####五.驗證上述四連桿運動軌跡, 是否正確, 並在分組網頁中執行該四連桿機構的運動模擬</t>
+####五.驗證上述四連桿運動軌跡, 是否正確, 並在分組網頁中執行該四連桿機構的運動模擬
+</t>
 <t tx="leo.20170313101639.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
@@ -1228,7 +1242,8 @@ link_30、link_50、link_60
 
 						
 </t>
-<t tx="leo.20170313101639.2">&lt;a href="http://imgur.com/RImkLbD"&gt;&lt;img src="http://i.imgur.com/RImkLbD.png" title="source: imgur.com" /&gt;&lt;/a&gt;</t>
+<t tx="leo.20170313101639.2">&lt;a href="http://imgur.com/RImkLbD"&gt;&lt;img src="http://i.imgur.com/RImkLbD.png" title="source: imgur.com" /&gt;&lt;/a&gt;
+</t>
 <t tx="leo.20170313101945.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
@@ -1241,7 +1256,8 @@ link_30、link_50、link_60
 						
 </t>
 <t tx="leo.20170313101945.2">###驗證上述四連桿運動軌跡, 是否正確, 
-並在分組網頁中執行該四連桿機構的運動模擬</t>
+並在分組網頁中執行該四連桿機構的運動模擬
+</t>
 <t tx="leo.20170313101947.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
@@ -1312,7 +1328,8 @@ print("ex=", ex, "ey=", ey)
 
 						
 </t>
-<t tx="leo.20170313101950.2">&lt;a href="http://imgur.com/n57fgqp"&gt;&lt;img src="http://i.imgur.com/n57fgqp.png" title="source: imgur.com" /&gt;&lt;/a&gt;</t>
+<t tx="leo.20170313101950.2">&lt;a href="http://imgur.com/n57fgqp"&gt;&lt;img src="http://i.imgur.com/n57fgqp.png" title="source: imgur.com" /&gt;&lt;/a&gt;
+</t>
 <t tx="leo.20170313101952.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
@@ -1324,7 +1341,8 @@ print("ex=", ex, "ey=", ey)
 
 						
 </t>
-<t tx="leo.20170313101952.2">&lt;a href="http://imgur.com/j0QgLYk"&gt;&lt;img src="http://i.imgur.com/j0QgLYk.png" title="source: imgur.com" /&gt;&lt;/a&gt;</t>
+<t tx="leo.20170313101952.2">&lt;a href="http://imgur.com/j0QgLYk"&gt;&lt;img src="http://i.imgur.com/j0QgLYk.png" title="source: imgur.com" /&gt;&lt;/a&gt;
+</t>
 <t tx="leo.20170313102612.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -1351,7 +1369,8 @@ print("ex=", ex, "ey=", ey)
 <t tx="leo.20170313102648.2">###四連桿機構軌跡圖
 
 &lt;iframe src="https://player.vimeo.com/video/208415790" width="480" height="300" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
-&lt;p&gt;&lt;a href="https://vimeo.com/208415790"&gt;四連桿軌跡圖&lt;/a&gt; from &lt;a href="https://vimeo.com/user47600730"&gt;40423228&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;</t>
+&lt;p&gt;&lt;a href="https://vimeo.com/208415790"&gt;四連桿軌跡圖&lt;/a&gt; from &lt;a href="https://vimeo.com/user47600730"&gt;40423228&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
+</t>
 <t tx="leo.20170315101626.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -1376,7 +1395,8 @@ print("ex=", ex, "ey=", ey)
 </t>
 <t tx="leo.20170315101743.2">###40423228機械設計工程系-協同產品設計實習課程-W3
 
-40423228機械設計工程系-協同產品設計實習課程-W3&lt;/a&gt; from &lt;a href="https://vimeo.com/user47600730/videos"&gt;40423228&lt;/a&gt; on &lt;a href="https://vimeo.com/home/myvideos"&gt;vimeo&lt;/a&gt;.&lt;/p&gt;</t>
+40423228機械設計工程系-協同產品設計實習課程-W3&lt;/a&gt; from &lt;a href="https://vimeo.com/user47600730/videos"&gt;40423228&lt;/a&gt; on &lt;a href="https://vimeo.com/home/myvideos"&gt;vimeo&lt;/a&gt;.&lt;/p&gt;
+</t>
 <t tx="leo.20170315102125.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -1457,7 +1477,8 @@ print("ex=", ex, "ey=", ey)
 
 ####二. 在OnShape繪出單連桿機構並轉成STL
 
-####三.在SolveSpace繪出單連桿機構並轉成STL</t>
+####三.在SolveSpace繪出單連桿機構並轉成STL
+</t>
 <t tx="leo.20170315120100.36">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -1475,13 +1496,15 @@ print("ex=", ex, "ey=", ey)
 </t>
 <t tx="leo.20170315155846.1">&lt;section&gt;
 @others
-&lt;/section&gt;</t>
+&lt;/section&gt;
+</t>
 <t tx="leo.20170315155846.2">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
 @others
     &lt;/script&gt;
-&lt;/section&gt;</t>
+&lt;/section&gt;
+</t>
 <t tx="leo.20170315155909.1">####group7&lt;a href="https://40423222.github.io/2017springcd_bg7/blog/"&gt;網誌&lt;/a&gt;、&lt;a href="https://40423222.github.io/2017springcd_bg7/#/"&gt;投影片&lt;/a&gt;、&lt;a href="https://github.com/40423222/2017springcd_bg7"&gt;倉儲&lt;/a&gt;
 
 ####40423202&lt;a href="https://40423202.github.io/2017springcd_hw/blog/"&gt;網誌&lt;/a&gt;、&lt;a href="https://40423202.github.io/2017springcd_hw/#/"&gt;投影片&lt;/a&gt;、&lt;a href="https://github.com/40423202/2017springcd_bg7"&gt;倉儲&lt;/a&gt;
@@ -1496,19 +1519,23 @@ print("ex=", ex, "ey=", ey)
 
 ####40423248&lt;a href="https://40423248.github.io/2017springcd_hw/blog/"&gt;網誌&lt;/a&gt;、&lt;a href="https://40423248.github.io/2017springcd_hw/#/"&gt;投影片&lt;/a&gt;、&lt;a href="https://github.com/40423248/2017springcd_bg7"&gt;倉儲&lt;/a&gt;
 
-####40423251&lt;a href="https://40423251.github.io/2017springcd_hw/blog/"&gt;網誌&lt;/a&gt;、&lt;a href="https://40423251.github.io/2017springcd_hw/#/"&gt;投影片&lt;/a&gt;、&lt;a href="https://github.com/40423251/2017springcd_bg7"&gt;倉儲&lt;/a&gt;</t>
+####40423251&lt;a href="https://40423251.github.io/2017springcd_hw/blog/"&gt;網誌&lt;/a&gt;、&lt;a href="https://40423251.github.io/2017springcd_hw/#/"&gt;投影片&lt;/a&gt;、&lt;a href="https://github.com/40423251/2017springcd_bg7"&gt;倉儲&lt;/a&gt;
+</t>
 <t tx="leo.20170315160415.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
 @others
     &lt;/script&gt;
-&lt;/section&gt;</t>
-<t tx="leo.20170315160415.2">##bg7成員網誌、投影片</t>
+&lt;/section&gt;
+</t>
+<t tx="leo.20170315160415.2">##bg7成員網誌、投影片
+</t>
 <t tx="leo.20170317163035.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
     &lt;/script&gt;
-&lt;/section&gt;</t>
+&lt;/section&gt;
+</t>
 <t tx="leo.20170317163035.2"># 投影片快捷鍵
 
 * 利用箭頭上下前後換頁
@@ -1530,7 +1557,8 @@ print("ex=", ex, "ey=", ey)
 
 						
 </t>
-<t tx="leo.20170412000340.2">####建立各組協同主機</t>
+<t tx="leo.20170412000340.2">####建立各組協同主機
+</t>
 <t tx="leo.20170412000417.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
@@ -1544,7 +1572,8 @@ print("ex=", ex, "ey=", ey)
 </t>
 <t tx="leo.20170412000417.2">####建立各組協同主機
 
-###2017springcd_bg7：&lt;a href="https://mde2a2.kmol.info/cdbg7/"&gt;bg7&lt;/a&gt;</t>
+###2017springcd_bg7：&lt;a href="https://mde2a2.kmol.info/cdbg7/"&gt;bg7&lt;/a&gt;
+</t>
 <t tx="leo.20170412000509.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
@@ -1556,7 +1585,8 @@ print("ex=", ex, "ey=", ey)
 
 						
 </t>
-<t tx="leo.20170412000509.2">####在OnShape繪出單連桿機構並轉成STL</t>
+<t tx="leo.20170412000509.2">####在OnShape繪出單連桿機構並轉成STL
+</t>
 <t tx="leo.20170412000754.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
@@ -1581,7 +1611,8 @@ print("ex=", ex, "ey=", ey)
 
 						
 </t>
-<t tx="leo.20170412000830.2">####在SolveSpace繪出單連桿機構並轉成STL</t>
+<t tx="leo.20170412000830.2">####在SolveSpace繪出單連桿機構並轉成STL
+</t>
 <t tx="leo.20170412000833.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
@@ -1593,7 +1624,8 @@ print("ex=", ex, "ey=", ey)
 
 						
 </t>
-<t tx="leo.20170412000833.2">&lt;a href="http://imgur.com/K4ewRW0"&gt;&lt;img src="http://i.imgur.com/K4ewRW0.jpg" title="source: imgur.com" /&gt;&lt;/a&gt;</t>
+<t tx="leo.20170412000833.2">&lt;a href="http://imgur.com/K4ewRW0"&gt;&lt;img src="http://i.imgur.com/K4ewRW0.jpg" title="source: imgur.com" /&gt;&lt;/a&gt;
+</t>
 <t tx="leo.20170412001018.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -1640,7 +1672,8 @@ print("ex=", ex, "ey=", ey)
 </t>
 <t tx="leo.20170412004018.3">##第六週上課筆記
 
-####一.利用Onshape的變數指令繪製四連桿並匯入V-rep</t>
+####一.利用Onshape的變數指令繪製四連桿並匯入V-rep
+</t>
 <t tx="leo.20170412004018.4">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
@@ -1652,7 +1685,8 @@ print("ex=", ex, "ey=", ey)
 
 						
 </t>
-<t tx="leo.20170412004018.5">####利用Onshape的變數指令繪製四連桿並匯入V-rep</t>
+<t tx="leo.20170412004018.5">####利用Onshape的變數指令繪製四連桿並匯入V-rep
+</t>
 <t tx="leo.20170412004100.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
@@ -1664,7 +1698,8 @@ print("ex=", ex, "ey=", ey)
 
 						
 </t>
-<t tx="leo.20170412004100.2">&lt;a href="http://imgur.com/GGQdQ9z"&gt;&lt;img src="http://i.imgur.com/GGQdQ9z.jpg" title="source: imgur.com" /&gt;&lt;/a&gt;</t>
+<t tx="leo.20170412004100.2">&lt;a href="http://imgur.com/GGQdQ9z"&gt;&lt;img src="http://i.imgur.com/GGQdQ9z.jpg" title="source: imgur.com" /&gt;&lt;/a&gt;
+</t>
 <t tx="leo.20170412004122.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
@@ -1676,7 +1711,8 @@ print("ex=", ex, "ey=", ey)
 
 						
 </t>
-<t tx="leo.20170412004122.2">&lt;a href="http://imgur.com/d1gcqmB"&gt;&lt;img src="http://i.imgur.com/d1gcqmB.jpg" title="source: imgur.com" /&gt;&lt;/a&gt;</t>
+<t tx="leo.20170412004122.2">&lt;a href="http://imgur.com/d1gcqmB"&gt;&lt;img src="http://i.imgur.com/d1gcqmB.jpg" title="source: imgur.com" /&gt;&lt;/a&gt;
+</t>
 <t tx="leo.20170412004123.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
@@ -1688,7 +1724,8 @@ print("ex=", ex, "ey=", ey)
 
 						
 </t>
-<t tx="leo.20170412004123.2">&lt;a href="http://imgur.com/TnAmeun"&gt;&lt;img src="http://i.imgur.com/TnAmeun.jpg" title="source: imgur.com" /&gt;&lt;/a&gt;</t>
+<t tx="leo.20170412004123.2">&lt;a href="http://imgur.com/TnAmeun"&gt;&lt;img src="http://i.imgur.com/TnAmeun.jpg" title="source: imgur.com" /&gt;&lt;/a&gt;
+</t>
 <t tx="leo.20170412004125.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
@@ -1700,7 +1737,8 @@ print("ex=", ex, "ey=", ey)
 
 						
 </t>
-<t tx="leo.20170412004125.2">&lt;a href="http://imgur.com/LUdeqrD"&gt;&lt;img src="http://i.imgur.com/LUdeqrD.jpg" title="source: imgur.com" /&gt;&lt;/a&gt;</t>
+<t tx="leo.20170412004125.2">&lt;a href="http://imgur.com/LUdeqrD"&gt;&lt;img src="http://i.imgur.com/LUdeqrD.jpg" title="source: imgur.com" /&gt;&lt;/a&gt;
+</t>
 <t tx="leo.20170412004127.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
@@ -1712,7 +1750,8 @@ print("ex=", ex, "ey=", ey)
 
 						
 </t>
-<t tx="leo.20170412004127.2">&lt;a href="http://imgur.com/1UaRp1q"&gt;&lt;img src="http://i.imgur.com/1UaRp1q.jpg" title="source: imgur.com" /&gt;&lt;/a&gt;</t>
+<t tx="leo.20170412004127.2">&lt;a href="http://imgur.com/1UaRp1q"&gt;&lt;img src="http://i.imgur.com/1UaRp1q.jpg" title="source: imgur.com" /&gt;&lt;/a&gt;
+</t>
 <t tx="leo.20170412004145.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
@@ -1724,7 +1763,8 @@ print("ex=", ex, "ey=", ey)
 
 						
 </t>
-<t tx="leo.20170412004145.2">&lt;a href="http://imgur.com/3EaW8zW"&gt;&lt;img src="http://i.imgur.com/3EaW8zW.jpg" title="source: imgur.com" /&gt;&lt;/a&gt;</t>
+<t tx="leo.20170412004145.2">&lt;a href="http://imgur.com/3EaW8zW"&gt;&lt;img src="http://i.imgur.com/3EaW8zW.jpg" title="source: imgur.com" /&gt;&lt;/a&gt;
+</t>
 <t tx="leo.20170412004146.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
@@ -1736,7 +1776,8 @@ print("ex=", ex, "ey=", ey)
 
 						
 </t>
-<t tx="leo.20170412004146.2">&lt;a href="http://imgur.com/D0DzEKM"&gt;&lt;img src="http://i.imgur.com/D0DzEKM.gif" title="source: imgur.com" /&gt;&lt;/a&gt;</t>
+<t tx="leo.20170412004146.2">&lt;a href="http://imgur.com/D0DzEKM"&gt;&lt;img src="http://i.imgur.com/D0DzEKM.gif" title="source: imgur.com" /&gt;&lt;/a&gt;
+</t>
 <t tx="leo.20170412010724.1">&lt;section&gt;
 @others
 &lt;/section&gt;
@@ -1765,14 +1806,16 @@ print("ex=", ex, "ey=", ey)
 
 #(1).零件
 &lt;iframe src="https://player.vimeo.com/video/212793254" width="640" height="359" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
-&lt;p&gt;&lt;a href="https://vimeo.com/212793254"&gt;20170405 part1&lt;/a&gt; from &lt;a href="https://vimeo.com/user47600730"&gt;40423228&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;</t>
+&lt;p&gt;&lt;a href="https://vimeo.com/212793254"&gt;20170405 part1&lt;/a&gt; from &lt;a href="https://vimeo.com/user47600730"&gt;40423228&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
+</t>
 <t tx="leo.20170412010724.3">##第七週上課筆記
 
 ####一.利用fossil對倉儲進行管理
 
 ####二.利用Onshape繪製八連桿
 
-####三.將八連桿匯入V-rep並使其作動</t>
+####三.將八連桿匯入V-rep並使其作動
+</t>
 <t tx="leo.20170412010724.4">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
@@ -1784,7 +1827,8 @@ print("ex=", ex, "ey=", ey)
 
 						
 </t>
-<t tx="leo.20170412010724.5">####利用fossil對倉儲進行管理</t>
+<t tx="leo.20170412010724.5">####利用fossil對倉儲進行管理
+</t>
 <t tx="leo.20170412010724.6">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
@@ -1802,7 +1846,8 @@ fossil clone uri foo.fossil
 
 fossil open ./../../foo.fossil (開啟)
 
-fossil add . </t>
+fossil add . 
+</t>
 <t tx="leo.20170412010724.8">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
@@ -1814,7 +1859,8 @@ fossil add . </t>
 
 						
 </t>
-<t tx="leo.20170412010724.9">####二.利用Onshape繪製八連桿</t>
+<t tx="leo.20170412010724.9">####二.利用Onshape繪製八連桿
+</t>
 <t tx="leo.20170412011034.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -1826,7 +1872,8 @@ fossil add . </t>
 </t>
 <t tx="leo.20170412011034.2">###將八連桿匯入V-rep並使其作動
 
-待補</t>
+待補
+</t>
 <t tx="leo.20170412011739.1">&lt;section&gt;
 @others
 &lt;/section&gt;
@@ -1842,7 +1889,8 @@ fossil add . </t>
 
 						
 </t>
-<t tx="leo.20170412011739.11">把零件拆開</t>
+<t tx="leo.20170412011739.11">把零件拆開
+</t>
 <t tx="leo.20170412011739.16">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -1855,7 +1903,8 @@ fossil add . </t>
 <t tx="leo.20170412011739.17">####二. 將單連桿轉入V-rep並使其作動
 
 &lt;iframe src="https://player.vimeo.com/video/212847283" width="640" height="512" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
-&lt;p&gt;&lt;a href="https://vimeo.com/212847283"&gt;20170322 單連桿vrep作動&lt;/a&gt; from &lt;a href="https://vimeo.com/user47600730"&gt;40423228&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;</t>
+&lt;p&gt;&lt;a href="https://vimeo.com/212847283"&gt;20170322 單連桿vrep作動&lt;/a&gt; from &lt;a href="https://vimeo.com/user47600730"&gt;40423228&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
+</t>
 <t tx="leo.20170412011739.2">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
@@ -1873,7 +1922,8 @@ fossil add . </t>
 
 ####二. 將單連桿轉入V-rep並使其作動
 
-####三.將四連桿轉入V-rep並使其作動</t>
+####三.將四連桿轉入V-rep並使其作動
+</t>
 <t tx="leo.20170412011739.4">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
@@ -1885,7 +1935,8 @@ fossil add . </t>
 
 						
 </t>
-<t tx="leo.20170412011739.5">####一.fossil筆記倉儲主頁顯示作業</t>
+<t tx="leo.20170412011739.5">####一.fossil筆記倉儲主頁顯示作業
+</t>
 <t tx="leo.20170412011739.8">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
@@ -1897,7 +1948,8 @@ fossil add . </t>
 
 						
 </t>
-<t tx="leo.20170412011739.9">####二. 將單連桿轉入V-rep並使其作動</t>
+<t tx="leo.20170412011739.9">####二. 將單連桿轉入V-rep並使其作動
+</t>
 <t tx="leo.20170412032211.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
@@ -1909,7 +1961,8 @@ fossil add . </t>
 
 						
 </t>
-<t tx="leo.20170412032211.2">&lt;a href="http://imgur.com/zqrCEdW"&gt;&lt;img src="http://i.imgur.com/zqrCEdW.jpg" title="source: imgur.com" /&gt;&lt;/a&gt;</t>
+<t tx="leo.20170412032211.2">&lt;a href="http://imgur.com/zqrCEdW"&gt;&lt;img src="http://i.imgur.com/zqrCEdW.jpg" title="source: imgur.com" /&gt;&lt;/a&gt;
+</t>
 <t tx="leo.20170412032243.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
@@ -1921,7 +1974,8 @@ fossil add . </t>
 
 						
 </t>
-<t tx="leo.20170412032243.2">&lt;a href="http://imgur.com/n3AhQxS"&gt;&lt;img src="http://i.imgur.com/n3AhQxS.jpg" title="source: imgur.com" /&gt;&lt;/a&gt;</t>
+<t tx="leo.20170412032243.2">&lt;a href="http://imgur.com/n3AhQxS"&gt;&lt;img src="http://i.imgur.com/n3AhQxS.jpg" title="source: imgur.com" /&gt;&lt;/a&gt;
+</t>
 <t tx="leo.20170412032244.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
@@ -1933,7 +1987,8 @@ fossil add . </t>
 
 						
 </t>
-<t tx="leo.20170412032244.2">&lt;a href="http://imgur.com/4yps6DI"&gt;&lt;img src="http://i.imgur.com/4yps6DI.jpg" title="source: imgur.com" /&gt;&lt;/a&gt;</t>
+<t tx="leo.20170412032244.2">&lt;a href="http://imgur.com/4yps6DI"&gt;&lt;img src="http://i.imgur.com/4yps6DI.jpg" title="source: imgur.com" /&gt;&lt;/a&gt;
+</t>
 <t tx="leo.20170412032245.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
@@ -1945,7 +2000,8 @@ fossil add . </t>
 
 						
 </t>
-<t tx="leo.20170412032245.2">&lt;a href="http://imgur.com/RYnVFSd"&gt;&lt;img src="http://i.imgur.com/RYnVFSd.jpg" title="source: imgur.com" /&gt;&lt;/a&gt;</t>
+<t tx="leo.20170412032245.2">&lt;a href="http://imgur.com/RYnVFSd"&gt;&lt;img src="http://i.imgur.com/RYnVFSd.jpg" title="source: imgur.com" /&gt;&lt;/a&gt;
+</t>
 <t tx="leo.20170412032246.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
@@ -1957,7 +2013,8 @@ fossil add . </t>
 
 						
 </t>
-<t tx="leo.20170412032246.2">&lt;a href="http://imgur.com/sZ46yqv"&gt;&lt;img src="http://i.imgur.com/sZ46yqv.jpg" title="source: imgur.com" /&gt;&lt;/a&gt;</t>
+<t tx="leo.20170412032246.2">&lt;a href="http://imgur.com/sZ46yqv"&gt;&lt;img src="http://i.imgur.com/sZ46yqv.jpg" title="source: imgur.com" /&gt;&lt;/a&gt;
+</t>
 <t tx="leo.20170412032248.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
@@ -1969,7 +2026,8 @@ fossil add . </t>
 
 						
 </t>
-<t tx="leo.20170412032248.2">&lt;a href="http://imgur.com/hb3p9Jp"&gt;&lt;img src="http://i.imgur.com/hb3p9Jp.gif" title="source: imgur.com" /&gt;&lt;/a&gt;</t>
+<t tx="leo.20170412032248.2">&lt;a href="http://imgur.com/hb3p9Jp"&gt;&lt;img src="http://i.imgur.com/hb3p9Jp.gif" title="source: imgur.com" /&gt;&lt;/a&gt;
+</t>
 <t tx="leo.20170412032515.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -1983,7 +2041,8 @@ fossil add . </t>
 
 #(2).零件
 &lt;iframe src="https://player.vimeo.com/video/212793288" width="640" height="359" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
-&lt;p&gt;&lt;a href="https://vimeo.com/212793288"&gt;20170405 part2&lt;/a&gt; from &lt;a href="https://vimeo.com/user47600730"&gt;40423228&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;</t>
+&lt;p&gt;&lt;a href="https://vimeo.com/212793288"&gt;20170405 part2&lt;/a&gt; from &lt;a href="https://vimeo.com/user47600730"&gt;40423228&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
+</t>
 <t tx="leo.20170412032516.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -1996,7 +2055,8 @@ fossil add . </t>
 <t tx="leo.20170412032516.2">#(3).組合
 
 &lt;iframe src="https://player.vimeo.com/video/212797143" width="640" height="359" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
-&lt;p&gt;&lt;a href="https://vimeo.com/212797143"&gt;20170405 part3&lt;/a&gt; from &lt;a href="https://vimeo.com/user47600730"&gt;40423228&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;</t>
+&lt;p&gt;&lt;a href="https://vimeo.com/212797143"&gt;20170405 part3&lt;/a&gt; from &lt;a href="https://vimeo.com/user47600730"&gt;40423228&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
+</t>
 <t tx="leo.20170412032517.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -2008,7 +2068,8 @@ fossil add . </t>
 </t>
 <t tx="leo.20170412032517.2">#(4).組合
 &lt;iframe src="https://player.vimeo.com/video/212802593" width="640" height="359" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
-&lt;p&gt;&lt;a href="https://vimeo.com/212802593"&gt;20170405 part4&lt;/a&gt; from &lt;a href="https://vimeo.com/user47600730"&gt;40423228&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;</t>
+&lt;p&gt;&lt;a href="https://vimeo.com/212802593"&gt;20170405 part4&lt;/a&gt; from &lt;a href="https://vimeo.com/user47600730"&gt;40423228&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
+</t>
 <t tx="leo.20170412115008.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
@@ -2020,7 +2081,8 @@ fossil add . </t>
 
 						
 </t>
-<t tx="leo.20170412115008.2">&lt;a href="http://imgur.com/u4sNhl8"&gt;&lt;img src="http://i.imgur.com/u4sNhl8.png" title="source: imgur.com" /&gt;&lt;/a&gt;</t>
+<t tx="leo.20170412115008.2">&lt;a href="http://imgur.com/u4sNhl8"&gt;&lt;img src="http://i.imgur.com/u4sNhl8.png" title="source: imgur.com" /&gt;&lt;/a&gt;
+</t>
 <t tx="leo.20170412115023.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
@@ -2032,7 +2094,8 @@ fossil add . </t>
 
 						
 </t>
-<t tx="leo.20170412115023.2">&lt;a href="http://imgur.com/jl1MgJj"&gt;&lt;img src="http://i.imgur.com/jl1MgJj.png" title="source: imgur.com" /&gt;&lt;/a&gt;</t>
+<t tx="leo.20170412115023.2">&lt;a href="http://imgur.com/jl1MgJj"&gt;&lt;img src="http://i.imgur.com/jl1MgJj.png" title="source: imgur.com" /&gt;&lt;/a&gt;
+</t>
 <t tx="leo.20170412115050.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
@@ -2044,7 +2107,8 @@ fossil add . </t>
 
 						
 </t>
-<t tx="leo.20170412115050.2">加入旋轉軸，並設定尺寸</t>
+<t tx="leo.20170412115050.2">加入旋轉軸，並設定尺寸
+</t>
 <t tx="leo.20170412115051.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
@@ -2056,7 +2120,8 @@ fossil add . </t>
 
 						
 </t>
-<t tx="leo.20170412115051.2">&lt;a href="http://imgur.com/QMCT5ZV"&gt;&lt;img src="http://i.imgur.com/QMCT5ZV.png" title="source: imgur.com" /&gt;&lt;/a&gt;</t>
+<t tx="leo.20170412115051.2">&lt;a href="http://imgur.com/QMCT5ZV"&gt;&lt;img src="http://i.imgur.com/QMCT5ZV.png" title="source: imgur.com" /&gt;&lt;/a&gt;
+</t>
 <t tx="leo.20170412115052.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
@@ -2081,7 +2146,8 @@ fossil add . </t>
 
 						
 </t>
-<t tx="leo.20170412115054.2">將旋轉軸與軸定位在同一位子</t>
+<t tx="leo.20170412115054.2">將旋轉軸與軸定位在同一位子
+</t>
 <t tx="leo.20170412115057.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
@@ -2093,7 +2159,8 @@ fossil add . </t>
 
 						
 </t>
-<t tx="leo.20170412115057.2">&lt;a href="http://imgur.com/mucZw12"&gt;&lt;img src="http://i.imgur.com/mucZw12.png" title="source: imgur.com" /&gt;&lt;/a&gt;</t>
+<t tx="leo.20170412115057.2">&lt;a href="http://imgur.com/mucZw12"&gt;&lt;img src="http://i.imgur.com/mucZw12.png" title="source: imgur.com" /&gt;&lt;/a&gt;
+</t>
 <t tx="leo.20170412115058.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
@@ -2105,7 +2172,8 @@ fossil add . </t>
 
 						
 </t>
-<t tx="leo.20170412115058.2">&lt;a href="http://imgur.com/buNXe5P"&gt;&lt;img src="http://i.imgur.com/buNXe5P.png" title="source: imgur.com" /&gt;&lt;/a&gt;</t>
+<t tx="leo.20170412115058.2">&lt;a href="http://imgur.com/buNXe5P"&gt;&lt;img src="http://i.imgur.com/buNXe5P.png" title="source: imgur.com" /&gt;&lt;/a&gt;
+</t>
 <t tx="leo.20170412115659.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
@@ -2119,7 +2187,8 @@ fossil add . </t>
 </t>
 <t tx="leo.20170412115659.2">設定從屬關係
 →將旋轉軸拉到底座下
-→將上方桿子拉至旋轉軸下</t>
+→將上方桿子拉至旋轉軸下
+</t>
 <t tx="leo.20170412115702.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
@@ -2131,7 +2200,8 @@ fossil add . </t>
 
 						
 </t>
-<t tx="leo.20170412115702.2">&lt;a href="http://imgur.com/buNXe5P"&gt;&lt;img src="http://i.imgur.com/buNXe5P.png" title="source: imgur.com" /&gt;&lt;/a&gt;</t>
+<t tx="leo.20170412115702.2">&lt;a href="http://imgur.com/buNXe5P"&gt;&lt;img src="http://i.imgur.com/buNXe5P.png" title="source: imgur.com" /&gt;&lt;/a&gt;
+</t>
 <t tx="leo.20170412115704.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
@@ -2145,7 +2215,8 @@ fossil add . </t>
 </t>
 <t tx="leo.20170412115704.2">設定旋轉軸素質
 →設定角速度
-→將上方的桿子設定為動態物件</t>
+→將上方的桿子設定為動態物件
+</t>
 <t tx="leo.20170412115705.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
@@ -2157,7 +2228,8 @@ fossil add . </t>
 
 						
 </t>
-<t tx="leo.20170412115705.2">&lt;a href="http://imgur.com/Cz23NHE"&gt;&lt;img src="http://i.imgur.com/Cz23NHE.png" title="source: imgur.com" /&gt;&lt;/a&gt;</t>
+<t tx="leo.20170412115705.2">&lt;a href="http://imgur.com/Cz23NHE"&gt;&lt;img src="http://i.imgur.com/Cz23NHE.png" title="source: imgur.com" /&gt;&lt;/a&gt;
+</t>
 <t tx="leo.20170412115706.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
@@ -2169,7 +2241,8 @@ fossil add . </t>
 
 						
 </t>
-<t tx="leo.20170412115706.2">&lt;a href="http://imgur.com/yAxDWyj"&gt;&lt;img src="http://i.imgur.com/yAxDWyj.png" title="source: imgur.com" /&gt;&lt;/a&gt;</t>
+<t tx="leo.20170412115706.2">&lt;a href="http://imgur.com/yAxDWyj"&gt;&lt;img src="http://i.imgur.com/yAxDWyj.png" title="source: imgur.com" /&gt;&lt;/a&gt;
+</t>
 <t tx="leo.20170412115928.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
@@ -2181,7 +2254,8 @@ fossil add . </t>
 
 						
 </t>
-<t tx="leo.20170412115928.2">讓我們繪製的軸不要顯示於頁面</t>
+<t tx="leo.20170412115928.2">讓我們繪製的軸不要顯示於頁面
+</t>
 <t tx="leo.20170412115929.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
@@ -2193,7 +2267,8 @@ fossil add . </t>
 
 						
 </t>
-<t tx="leo.20170412115929.2">&lt;a href="http://imgur.com/isFLPna"&gt;&lt;img src="http://i.imgur.com/isFLPna.png" title="source: imgur.com" /&gt;&lt;/a&gt;</t>
+<t tx="leo.20170412115929.2">&lt;a href="http://imgur.com/isFLPna"&gt;&lt;img src="http://i.imgur.com/isFLPna.png" title="source: imgur.com" /&gt;&lt;/a&gt;
+</t>
 <t tx="leo.20170412120009.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
@@ -2205,7 +2280,8 @@ fossil add . </t>
 
 						
 </t>
-<t tx="leo.20170412120009.2">####將四連桿轉入V-rep並使其作動</t>
+<t tx="leo.20170412120009.2">####將四連桿轉入V-rep並使其作動
+</t>
 <t tx="leo.20170412120055.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
@@ -2217,7 +2293,8 @@ fossil add . </t>
 
 						
 </t>
-<t tx="leo.20170412120055.2">作法與單連桿相近，差別在於多加入了Dummy</t>
+<t tx="leo.20170412120055.2">作法與單連桿相近，差別在於多加入了Dummy
+</t>
 <t tx="leo.20170412120113.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -2230,7 +2307,8 @@ fossil add . </t>
 <t tx="leo.20170412120113.2">####三. 將四連桿轉入V-rep並使其作動
 
 &lt;iframe src="https://player.vimeo.com/video/212855650" width="640" height="512" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
-&lt;p&gt;&lt;a href="https://vimeo.com/212855650"&gt;0322 四連桿 part1&lt;/a&gt; from &lt;a href="https://vimeo.com/user47600730"&gt;40423228&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;</t>
+&lt;p&gt;&lt;a href="https://vimeo.com/212855650"&gt;0322 四連桿 part1&lt;/a&gt; from &lt;a href="https://vimeo.com/user47600730"&gt;40423228&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
+</t>
 <t tx="leo.20170412120114.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -2243,7 +2321,8 @@ fossil add . </t>
 <t tx="leo.20170412120114.2">####三. 將四連桿轉入V-rep並使其作動
 
 &lt;iframe src="https://player.vimeo.com/video/212855920" width="640" height="512" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
-&lt;p&gt;&lt;a href="https://vimeo.com/212855920"&gt;20170322 四連桿 part2&lt;/a&gt; from &lt;a href="https://vimeo.com/user47600730"&gt;40423228&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;</t>
+&lt;p&gt;&lt;a href="https://vimeo.com/212855920"&gt;20170322 四連桿 part2&lt;/a&gt; from &lt;a href="https://vimeo.com/user47600730"&gt;40423228&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
+</t>
 <t tx="leo.20170419104809.1">&lt;section&gt;
 @others
 &lt;/section&gt;
@@ -2259,7 +2338,8 @@ fossil add . </t>
 
 						
 </t>
-<t tx="leo.20170419104809.11">&lt;a href="http://imgur.com/sJp4cXP"&gt;&lt;img src="http://i.imgur.com/sJp4cXP.png" title="source: imgur.com" /&gt;&lt;/a&gt;</t>
+<t tx="leo.20170419104809.11">&lt;a href="http://imgur.com/sJp4cXP"&gt;&lt;img src="http://i.imgur.com/sJp4cXP.png" title="source: imgur.com" /&gt;&lt;/a&gt;
+</t>
 <t tx="leo.20170419104809.14">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
@@ -2271,7 +2351,8 @@ fossil add . </t>
 
 						
 </t>
-<t tx="leo.20170419104809.15">####Fourbar Walker OnShape 零件協同繪圖與組立查驗</t>
+<t tx="leo.20170419104809.15">####Fourbar Walker OnShape 零件協同繪圖與組立查驗
+</t>
 <t tx="leo.20170419104809.16">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
@@ -2283,7 +2364,8 @@ fossil add . </t>
 
 						
 </t>
-<t tx="leo.20170419104809.17">&lt;a href="http://imgur.com/nTXeTG4"&gt;&lt;img src="http://i.imgur.com/nTXeTG4.png" title="source: imgur.com" /&gt;&lt;/a&gt;</t>
+<t tx="leo.20170419104809.17">&lt;a href="http://imgur.com/nTXeTG4"&gt;&lt;img src="http://i.imgur.com/nTXeTG4.png" title="source: imgur.com" /&gt;&lt;/a&gt;
+</t>
 <t tx="leo.20170419104809.18">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
@@ -2319,7 +2401,8 @@ fossil add . </t>
 
 						
 </t>
-<t tx="leo.20170419104809.21">&lt;a href="http://imgur.com/Ehv9Cns"&gt;&lt;img src="http://i.imgur.com/Ehv9Cns.png" title="source: imgur.com" /&gt;&lt;/a&gt;</t>
+<t tx="leo.20170419104809.21">&lt;a href="http://imgur.com/Ehv9Cns"&gt;&lt;img src="http://i.imgur.com/Ehv9Cns.png" title="source: imgur.com" /&gt;&lt;/a&gt;
+</t>
 <t tx="leo.20170419104809.22">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -2332,7 +2415,8 @@ fossil add . </t>
 <t tx="leo.20170419104809.23">###四連桿機構協同 Trace Point 查驗
 
 &lt;iframe src="https://player.vimeo.com/video/213774978" width="500" height="400" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
-&lt;p&gt;&lt;a href="https://vimeo.com/213774978"&gt;40423228機械設計-協同產品設計課程W9-mission2 &lt;/a&gt; from &lt;a href="https://vimeo.com/user47600730"&gt;40423228&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;</t>
+&lt;p&gt;&lt;a href="https://vimeo.com/213774978"&gt;40423228機械設計-協同產品設計課程W9-mission2 &lt;/a&gt; from &lt;a href="https://vimeo.com/user47600730"&gt;40423228&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
+</t>
 <t tx="leo.20170419104809.24">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -2345,14 +2429,16 @@ fossil add . </t>
 <t tx="leo.20170419104809.25">###Fourbar Walker OnShape 零件協同繪圖與組立查驗
 
 &lt;iframe src="https://player.vimeo.com/video/213781004" width="500" height="400" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
-&lt;p&gt;&lt;a href="https://vimeo.com/213781004"&gt;40423228機械設計-協同產品設計課程W9-mission3&lt;/a&gt; from &lt;a href="https://vimeo.com/user47600730"&gt;40423228&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;</t>
+&lt;p&gt;&lt;a href="https://vimeo.com/213781004"&gt;40423228機械設計-協同產品設計課程W9-mission3&lt;/a&gt; from &lt;a href="https://vimeo.com/user47600730"&gt;40423228&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
+</t>
 <t tx="leo.20170419104809.3">##期中協同查驗與自評
 
 ####一.Fossil Server 實習查驗
 
 ####二.四連桿機構協同 Trace Point 查驗
 
-####三.Fourbar Walker OnShape 零件協同繪圖與組立查驗</t>
+####三.Fourbar Walker OnShape 零件協同繪圖與組立查驗
+</t>
 <t tx="leo.20170419104809.4">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
@@ -2364,7 +2450,8 @@ fossil add . </t>
 
 						
 </t>
-<t tx="leo.20170419104809.5">####期中協同查驗與自評</t>
+<t tx="leo.20170419104809.5">####期中協同查驗與自評
+</t>
 <t tx="leo.20170419104809.6">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
@@ -2376,7 +2463,8 @@ fossil add . </t>
 
 						
 </t>
-<t tx="leo.20170419104809.7">&lt;a href="https://192.168.1.45/home"&gt;fossil_bg7&lt;/a&gt;</t>
+<t tx="leo.20170419104809.7">&lt;a href="https://192.168.1.45/home"&gt;fossil_bg7&lt;/a&gt;
+</t>
 <t tx="leo.20170419104809.8">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
@@ -2388,7 +2476,8 @@ fossil add . </t>
 
 						
 </t>
-<t tx="leo.20170419104809.9">####二.四連桿機構協同 Trace Point 查驗</t>
+<t tx="leo.20170419104809.9">####二.四連桿機構協同 Trace Point 查驗
+</t>
 <t tx="leo.20170419105037.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -2399,7 +2488,8 @@ fossil add . </t>
 						
 </t>
 <t tx="leo.20170419105037.2">&lt;iframe src="https://player.vimeo.com/video/213782253" width="500" height="400" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
-&lt;p&gt;&lt;a href="https://vimeo.com/213782253"&gt;40423228機械設計-協同產品設計課程W9-mission3-動畫&lt;/a&gt; from &lt;a href="https://vimeo.com/user47600730"&gt;40423228&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;</t>
+&lt;p&gt;&lt;a href="https://vimeo.com/213782253"&gt;40423228機械設計-協同產品設計課程W9-mission3-動畫&lt;/a&gt; from &lt;a href="https://vimeo.com/user47600730"&gt;40423228&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
+</t>
 <t tx="leo.20170425221953.1">&lt;section&gt;
 @others
 &lt;/section&gt;
@@ -2417,7 +2507,8 @@ fossil add . </t>
 </t>
 <t tx="leo.20170425221953.3">##第八週上課筆記
 
-####一.各組期中簡報 (含影片拍攝與上傳) 與評分</t>
+####一.各組期中簡報 (含影片拍攝與上傳) 與評分
+</t>
 <t tx="leo.20170425221953.4">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
@@ -2437,7 +2528,8 @@ fossil add . </t>
 
 三.開啟Leo利用Scite編輯Start.bat
 
-四.利用python程式碼控制Vrep裡的單連桿作動</t>
+四.利用python程式碼控制Vrep裡的單連桿作動
+</t>
 <t tx="leo.20170425221953.6">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
@@ -2453,7 +2545,8 @@ fossil add . </t>
 
 一.利用python找出缺課人員
 
-二.利用 Solvespace 進行四連桿機構組立並轉為st檔</t>
+二.利用 Solvespace 進行四連桿機構組立並轉為st檔
+</t>
 <t tx="leo.20170425222125.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
@@ -2475,7 +2568,8 @@ fossil add . </t>
 
 四.在 50 連桿上加上 50-50-50 正三角形, 以 Solvespace 輸入該三角形頂點運動軌跡
 
-五.驗證上述四連桿運動軌跡, 是否正確, 並在分組網頁中執行該四連桿機構的運動模擬</t>
+五.驗證上述四連桿運動軌跡, 是否正確, 並在分組網頁中執行該四連桿機構的運動模擬
+</t>
 <t tx="leo.20170425222127.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
@@ -2493,7 +2587,8 @@ fossil add . </t>
 
 二.在OnShape繪出單連桿機構並轉成STL
 
-三.在SolveSpace繪出單連桿機構並轉成STL</t>
+三.在SolveSpace繪出單連桿機構並轉成STL
+</t>
 <t tx="leo.20170425222128.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
@@ -2541,7 +2636,8 @@ fossil add . </t>
 
 一.利用fossil對倉儲進行管理
 
-二.利用Onshape繪製八連桿</t>
+二.利用Onshape繪製八連桿
+</t>
 <t tx="leo.20170425223030.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
@@ -2555,7 +2651,8 @@ fossil add . </t>
 </t>
 <t tx="leo.20170425223030.2">##影片
 
-#&lt;button onClick="lity('https://vimeo.com/206084321')"&gt;&lt;span class="glyphicon glyphicon-facetime-video"&gt;&lt;/span&gt;stunnel設定&lt;/button&gt; &lt;button onClick="lity('https://vimeo.com/208413780')"&gt;&lt;span class="glyphicon glyphicon-facetime-video"&gt;&lt;/span&gt;Solvespace 30-50-60 cm 比例的四連桿組立&lt;/button&gt;  &lt;button onClick="lity('https://vimeo.com/208415265')"&gt;&lt;span class="glyphicon glyphicon-facetime-video"&gt;&lt;/span&gt;Onshape 四連桿機構&lt;/button&gt; &lt;button onClick="lity('https://vimeo.com/208415790')"&gt;&lt;span class="glyphicon glyphicon-facetime-video"&gt;&lt;/span&gt;四連桿軌跡圖&lt;/button&gt; &lt;button onClick="lity('https://vimeo.com/212759861')"&gt;&lt;span class="glyphicon glyphicon-facetime-video"&gt;&lt;/span&gt;0315單連桿-OnShape&lt;/button&gt; &lt;button onClick="lity('https://vimeo.com/212771293')"&gt;&lt;span class="glyphicon glyphicon-facetime-video"&gt;&lt;/span&gt;0315單連桿-SolveSpace&lt;/button&gt; &lt;button onClick="lity('https://vimeo.com/212847283')"&gt;&lt;span class="glyphicon glyphicon-facetime-video"&gt;&lt;/span&gt;20170322 單連桿vrep作動&lt;/button&gt; &lt;button onClick="lity('https://vimeo.com/212855650')"&gt;&lt;span class="glyphicon glyphicon-facetime-video"&gt;&lt;/span&gt;0322 fourlink part1&lt;/button&gt; &lt;button onClick="lity('https://vimeo.com/212855920')"&gt;&lt;span class="glyphicon glyphicon-facetime-video"&gt;&lt;/span&gt;20170322 fourlink part2&lt;/button&gt; &lt;button onClick="lity('https://vimeo.com/212777111')"&gt;&lt;span class="glyphicon glyphicon-facetime-video"&gt;&lt;/span&gt;20170329四連桿&lt;/button&gt; &lt;button onClick="lity('https://vimeo.com/212793254')"&gt;&lt;span class="glyphicon glyphicon-facetime-video"&gt;&lt;/span&gt;20170405 八連桿零件part1&lt;/button&gt; &lt;button onClick="lity('https://vimeo.com/212793288')"&gt;&lt;span class="glyphicon glyphicon-facetime-video"&gt;&lt;/span&gt;20170405 八連桿零件part2&lt;/button&gt; &lt;button onClick="lity('https://vimeo.com/212797143')"&gt;&lt;span class="glyphicon glyphicon-facetime-video"&gt;&lt;/span&gt;20170405 八連桿組裝part1&lt;/button&gt; &lt;button onClick="lity('https://vimeo.com/212802593')"&gt;&lt;span class="glyphicon glyphicon-facetime-video"&gt;&lt;/span&gt;20170405 八連桿組裝part2&lt;/button&gt; 
+#&lt;button onClick="lity('https://vimeo.com/206084321')"&gt;&lt;span class="glyphicon glyphicon-facetime-video"&gt;&lt;/span&gt;stunnel設定&lt;/button&gt;
+ &lt;button onClick="lity('https://vimeo.com/208413780')"&gt;&lt;span class="glyphicon glyphicon-facetime-video"&gt;&lt;/span&gt;Solvespace 30-50-60 cm 比例的四連桿組立&lt;/button&gt;  &lt;button onClick="lity('https://vimeo.com/208415265')"&gt;&lt;span class="glyphicon glyphicon-facetime-video"&gt;&lt;/span&gt;Onshape 四連桿機構&lt;/button&gt; &lt;button onClick="lity('https://vimeo.com/208415790')"&gt;&lt;span class="glyphicon glyphicon-facetime-video"&gt;&lt;/span&gt;四連桿軌跡圖&lt;/button&gt; &lt;button onClick="lity('https://vimeo.com/212759861')"&gt;&lt;span class="glyphicon glyphicon-facetime-video"&gt;&lt;/span&gt;0315單連桿-OnShape&lt;/button&gt; &lt;button onClick="lity('https://vimeo.com/212771293')"&gt;&lt;span class="glyphicon glyphicon-facetime-video"&gt;&lt;/span&gt;0315單連桿-SolveSpace&lt;/button&gt; &lt;button onClick="lity('https://vimeo.com/212847283')"&gt;&lt;span class="glyphicon glyphicon-facetime-video"&gt;&lt;/span&gt;20170322 單連桿vrep作動&lt;/button&gt; &lt;button onClick="lity('https://vimeo.com/212855650')"&gt;&lt;span class="glyphicon glyphicon-facetime-video"&gt;&lt;/span&gt;0322 fourlink part1&lt;/button&gt; &lt;button onClick="lity('https://vimeo.com/212855920')"&gt;&lt;span class="glyphicon glyphicon-facetime-video"&gt;&lt;/span&gt;20170322 fourlink part2&lt;/button&gt; &lt;button onClick="lity('https://vimeo.com/212777111')"&gt;&lt;span class="glyphicon glyphicon-facetime-video"&gt;&lt;/span&gt;20170329四連桿&lt;/button&gt; &lt;button onClick="lity('https://vimeo.com/212793254')"&gt;&lt;span class="glyphicon glyphicon-facetime-video"&gt;&lt;/span&gt;20170405 八連桿零件part1&lt;/button&gt; &lt;button onClick="lity('https://vimeo.com/212793288')"&gt;&lt;span class="glyphicon glyphicon-facetime-video"&gt;&lt;/span&gt;20170405 八連桿零件part2&lt;/button&gt; &lt;button onClick="lity('https://vimeo.com/212797143')"&gt;&lt;span class="glyphicon glyphicon-facetime-video"&gt;&lt;/span&gt;20170405 八連桿組裝part1&lt;/button&gt; &lt;button onClick="lity('https://vimeo.com/212802593')"&gt;&lt;span class="glyphicon glyphicon-facetime-video"&gt;&lt;/span&gt;20170405 八連桿組裝part2&lt;/button&gt; 
 </t>
 <t tx="leo.20170425224049.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
@@ -2570,7 +2667,8 @@ fossil add . </t>
 </t>
 <t tx="leo.20170425224049.2">###心得
 
-####這周開始繪製單連桿機構，使用SolveSpaces組裝以後剛開始一直無法順利旋轉，後來終於知道是限制條件弄太多，經過修正後終於能順轉。</t>
+####這周開始繪製單連桿機構，使用SolveSpaces組裝以後剛開始一直無法順利旋轉，後來終於知道是限制條件弄太多，經過修正後終於能順轉。
+</t>
 <t tx="leo.20170425224052.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
@@ -2585,6 +2683,25 @@ fossil add . </t>
 <t tx="leo.20170425224052.2">###心得
 
 ####這周將上禮拜繪製的單連桿放入Vrep之中並設定使其旋轉，與之前不同的是又多加了一個Dummy。再組裝設定的時候一直遇到問題無法旋轉再摸索了一下後總算令其能在Vrep中旋轉了。
+</t>
+<t tx="leo.20170426212253.2"></t>
+<t tx="leo.20170426212253.3">(uncached) leo.20170425223030.2
+Diff...
+  ##影片
+  
+- #&lt;button onClick="lity('https://vimeo.com/206084321')"&gt;&lt;span class="glyphicon glyphicon-facetime-video"&gt;&lt;/span&gt;stunnel設定&lt;/button&gt;- 
+-  &lt;button onClick="lity('https://vimeo.com/208413780')"&gt;&lt;span class="glyphicon glyphicon-facetime-video"&gt;&lt;/span&gt;Solvespace 30-50-60 cm 比例的四連桿組立&lt;/button&gt;  &lt;button onClick="lity('https://vimeo.com/208415265')"&gt;&lt;span class="glyphicon glyphicon-facetime-video"&gt;&lt;/span&gt;Onshape 四連桿機構&lt;/button&gt; &lt;button onClick="lity('https://vimeo.com/208415790')"&gt;&lt;span class="glyphicon glyphicon-facetime-video"&gt;&lt;/span&gt;四連桿軌跡圖&lt;/button&gt; &lt;button onClick="lity('https://vimeo.com/212759861')"&gt;&lt;span class="glyphicon glyphicon-facetime-video"&gt;&lt;/span&gt;0315單連桿-OnShape&lt;/button&gt; &lt;button onClick="lity('https://vimeo.com/212771293')"&gt;&lt;span class="glyphicon glyphicon-facetime-video"&gt;&lt;/span&gt;0315單連桿-SolveSpace&lt;/button&gt; &lt;button onClick="lity('https://vimeo.com/212847283')"&gt;&lt;span class="glyphicon glyphicon-facetime-video"&gt;&lt;/span&gt;20170322 單連桿vrep作動&lt;/button&gt; &lt;button onClick="lity('https://vimeo.com/212855650')"&gt;&lt;span class="glyphicon glyphicon-facetime-video"&gt;&lt;/span&gt;0322 fourlink part1&lt;/button&gt; &lt;button onClick="lity('https://vimeo.com/212855920')"&gt;&lt;span class="glyphicon glyphicon-facetime-video"&gt;&lt;/span&gt;20170322 fourlink part2&lt;/button&gt; &lt;button onClick="lity('https://vimeo.com/212777111')"&gt;&lt;span class="glyphicon glyphicon-facetime-video"&gt;&lt;/span&gt;20170329四連桿&lt;/button&gt; &lt;button onClick="lity('https://vimeo.com/212793254')"&gt;&lt;span class="glyphicon glyphicon-facetime-video"&gt;&lt;/span&gt;20170405 八連桿零件part1&lt;/button&gt; &lt;button onClick="lity('https://vimeo.com/212793288')"&gt;&lt;span class="glyphicon glyphicon-facetime-video"&gt;&lt;/span&gt;20170405 八連桿零件part2&lt;/button&gt; &lt;button onClick="lity('https://vimeo.com/212797143')"&gt;&lt;span class="glyphicon glyphicon-facetime-video"&gt;&lt;/span&gt;20170405 八連桿組裝part1&lt;/button&gt; &lt;button onClick="lity('https://vimeo.com/212802593')"&gt;&lt;span class="glyphicon glyphicon-facetime-video"&gt;&lt;/span&gt;20170405 八連桿組裝part2&lt;/button&gt; 
++ #&lt;button onClick="lity('https://vimeo.com/206084321')"&gt;&lt;span class="glyphicon glyphicon-facetime-video"&gt;&lt;/span&gt;stunnel設定&lt;/button&gt;  &lt;button onClick="lity('https://vimeo.com/208413780')"&gt;&lt;span class="glyphicon glyphicon-facetime-video"&gt;&lt;/span&gt;Solvespace 30-50-60 cm 比例的四連桿組立&lt;/button&gt;  &lt;button onClick="lity('https://vimeo.com/208415265')"&gt;&lt;span class="glyphicon glyphicon-facetime-video"&gt;&lt;/span&gt;Onshape 四連桿機構&lt;/button&gt; &lt;button onClick="lity('https://vimeo.com/208415790')"&gt;&lt;span class="glyphicon glyphicon-facetime-video"&gt;&lt;/span&gt;四連桿軌跡圖&lt;/button&gt; &lt;button onClick="lity('https://vimeo.com/212759861')"&gt;&lt;span class="glyphicon glyphicon-facetime-video"&gt;&lt;/span&gt;0315單連桿-OnShape&lt;/button&gt; &lt;button onClick="lity('https://vimeo.com/212771293')"&gt;&lt;span class="glyphicon glyphicon-facetime-video"&gt;&lt;/span&gt;0315單連桿-SolveSpace&lt;/button&gt; &lt;button onClick="lity('https://vimeo.com/212847283')"&gt;&lt;span class="glyphicon glyphicon-facetime-video"&gt;&lt;/span&gt;20170322 單連桿vrep作動&lt;/button&gt; &lt;button onClick="lity('https://vimeo.com/212855650')"&gt;&lt;span class="glyphicon glyphicon-facetime-video"&gt;&lt;/span&gt;0322 fourlink part1&lt;/button&gt; &lt;button onClick="lity('https://vimeo.com/212855920')"&gt;&lt;span class="glyphicon glyphicon-facetime-video"&gt;&lt;/span&gt;20170322 fourlink part2&lt;/button&gt; &lt;button onClick="lity('https://vimeo.com/212777111')"&gt;&lt;span class="glyphicon glyphicon-facetime-video"&gt;&lt;/span&gt;20170329四連桿&lt;/button&gt; &lt;button onClick="lity('https://vimeo.com/212793254')"&gt;&lt;span class="glyphicon glyphicon-facetime-video"&gt;&lt;/span&gt;20170405 八連桿零件part1&lt;/button&gt; &lt;button onClick="lity('https://vimeo.com/212793288')"&gt;&lt;span class="glyphicon glyphicon-facetime-video"&gt;&lt;/span&gt;20170405 八連桿零件part2&lt;/button&gt; &lt;button onClick="lity('https://vimeo.com/212797143')"&gt;&lt;span class="glyphicon glyphicon-facetime-video"&gt;&lt;/span&gt;20170405 八連桿組裝part1&lt;/button&gt; &lt;button onClick="lity('https://vimeo.com/212802593')"&gt;&lt;span class="glyphicon glyphicon-facetime-video"&gt;&lt;/span&gt;20170405 八連桿組裝part2&lt;/button&gt; 
+? ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+</t>
+<t tx="leo.20170426212253.4">##影片
+
+#&lt;button onClick="lity('https://vimeo.com/206084321')"&gt;&lt;span class="glyphicon glyphicon-facetime-video"&gt;&lt;/span&gt;stunnel設定&lt;/button&gt;  &lt;button onClick="lity('https://vimeo.com/208413780')"&gt;&lt;span class="glyphicon glyphicon-facetime-video"&gt;&lt;/span&gt;Solvespace 30-50-60 cm 比例的四連桿組立&lt;/button&gt;  &lt;button onClick="lity('https://vimeo.com/208415265')"&gt;&lt;span class="glyphicon glyphicon-facetime-video"&gt;&lt;/span&gt;Onshape 四連桿機構&lt;/button&gt; &lt;button onClick="lity('https://vimeo.com/208415790')"&gt;&lt;span class="glyphicon glyphicon-facetime-video"&gt;&lt;/span&gt;四連桿軌跡圖&lt;/button&gt; &lt;button onClick="lity('https://vimeo.com/212759861')"&gt;&lt;span class="glyphicon glyphicon-facetime-video"&gt;&lt;/span&gt;0315單連桿-OnShape&lt;/button&gt; &lt;button onClick="lity('https://vimeo.com/212771293')"&gt;&lt;span class="glyphicon glyphicon-facetime-video"&gt;&lt;/span&gt;0315單連桿-SolveSpace&lt;/button&gt; &lt;button onClick="lity('https://vimeo.com/212847283')"&gt;&lt;span class="glyphicon glyphicon-facetime-video"&gt;&lt;/span&gt;20170322 單連桿vrep作動&lt;/button&gt; &lt;button onClick="lity('https://vimeo.com/212855650')"&gt;&lt;span class="glyphicon glyphicon-facetime-video"&gt;&lt;/span&gt;0322 fourlink part1&lt;/button&gt; &lt;button onClick="lity('https://vimeo.com/212855920')"&gt;&lt;span class="glyphicon glyphicon-facetime-video"&gt;&lt;/span&gt;20170322 fourlink part2&lt;/button&gt; &lt;button onClick="lity('https://vimeo.com/212777111')"&gt;&lt;span class="glyphicon glyphicon-facetime-video"&gt;&lt;/span&gt;20170329四連桿&lt;/button&gt; &lt;button onClick="lity('https://vimeo.com/212793254')"&gt;&lt;span class="glyphicon glyphicon-facetime-video"&gt;&lt;/span&gt;20170405 八連桿零件part1&lt;/button&gt; &lt;button onClick="lity('https://vimeo.com/212793288')"&gt;&lt;span class="glyphicon glyphicon-facetime-video"&gt;&lt;/span&gt;20170405 八連桿零件part2&lt;/button&gt; &lt;button onClick="lity('https://vimeo.com/212797143')"&gt;&lt;span class="glyphicon glyphicon-facetime-video"&gt;&lt;/span&gt;20170405 八連桿組裝part1&lt;/button&gt; &lt;button onClick="lity('https://vimeo.com/212802593')"&gt;&lt;span class="glyphicon glyphicon-facetime-video"&gt;&lt;/span&gt;20170405 八連桿組裝part2&lt;/button&gt; 
+</t>
+<t tx="leo.20170426212253.5">##影片
+
+#&lt;button onClick="lity('https://vimeo.com/206084321')"&gt;&lt;span class="glyphicon glyphicon-facetime-video"&gt;&lt;/span&gt;stunnel設定&lt;/button&gt;
+ &lt;button onClick="lity('https://vimeo.com/208413780')"&gt;&lt;span class="glyphicon glyphicon-facetime-video"&gt;&lt;/span&gt;Solvespace 30-50-60 cm 比例的四連桿組立&lt;/button&gt;  &lt;button onClick="lity('https://vimeo.com/208415265')"&gt;&lt;span class="glyphicon glyphicon-facetime-video"&gt;&lt;/span&gt;Onshape 四連桿機構&lt;/button&gt; &lt;button onClick="lity('https://vimeo.com/208415790')"&gt;&lt;span class="glyphicon glyphicon-facetime-video"&gt;&lt;/span&gt;四連桿軌跡圖&lt;/button&gt; &lt;button onClick="lity('https://vimeo.com/212759861')"&gt;&lt;span class="glyphicon glyphicon-facetime-video"&gt;&lt;/span&gt;0315單連桿-OnShape&lt;/button&gt; &lt;button onClick="lity('https://vimeo.com/212771293')"&gt;&lt;span class="glyphicon glyphicon-facetime-video"&gt;&lt;/span&gt;0315單連桿-SolveSpace&lt;/button&gt; &lt;button onClick="lity('https://vimeo.com/212847283')"&gt;&lt;span class="glyphicon glyphicon-facetime-video"&gt;&lt;/span&gt;20170322 單連桿vrep作動&lt;/button&gt; &lt;button onClick="lity('https://vimeo.com/212855650')"&gt;&lt;span class="glyphicon glyphicon-facetime-video"&gt;&lt;/span&gt;0322 fourlink part1&lt;/button&gt; &lt;button onClick="lity('https://vimeo.com/212855920')"&gt;&lt;span class="glyphicon glyphicon-facetime-video"&gt;&lt;/span&gt;20170322 fourlink part2&lt;/button&gt; &lt;button onClick="lity('https://vimeo.com/212777111')"&gt;&lt;span class="glyphicon glyphicon-facetime-video"&gt;&lt;/span&gt;20170329四連桿&lt;/button&gt; &lt;button onClick="lity('https://vimeo.com/212793254')"&gt;&lt;span class="glyphicon glyphicon-facetime-video"&gt;&lt;/span&gt;20170405 八連桿零件part1&lt;/button&gt; &lt;button onClick="lity('https://vimeo.com/212793288')"&gt;&lt;span class="glyphicon glyphicon-facetime-video"&gt;&lt;/span&gt;20170405 八連桿零件part2&lt;/button&gt; &lt;button onClick="lity('https://vimeo.com/212797143')"&gt;&lt;span class="glyphicon glyphicon-facetime-video"&gt;&lt;/span&gt;20170405 八連桿組裝part1&lt;/button&gt; &lt;button onClick="lity('https://vimeo.com/212802593')"&gt;&lt;span class="glyphicon glyphicon-facetime-video"&gt;&lt;/span&gt;20170405 八連桿組裝part2&lt;/button&gt; 
 </t>
 <t tx="yen.20170108171605.1"></t>
 <t tx="yen.20170108171605.2">QTreeWidget {
@@ -2855,7 +2972,8 @@ make.start()</t>
     &lt;script type="text/template"&gt;
 @others
     &lt;/script&gt;
-&lt;/section&gt;</t>
+&lt;/section&gt;
+</t>
 <t tx="yen.20170120110024.8">## 2017Spring 協同產品設計實習
 ###&lt;a href="https://mde2a1.kmol.info/wcontent"&gt;虎科大機械設計工程系&lt;/a&gt;
 ### 設計二乙
