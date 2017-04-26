@@ -347,7 +347,7 @@
 <v t="leo.20170412004018.17"><vh>第六週影片</vh></v>
 </v>
 </v>
-<v t="leo.20170412010724.1" a="E"><vh>20170405W7</vh>
+<v t="leo.20170412010724.1"><vh>20170405W7</vh>
 <v t="leo.20170412010724.2"><vh>上課內容</vh>
 <v t="leo.20170412010724.3"><vh>上課大綱</vh></v>
 </v>
@@ -400,7 +400,7 @@
 <v t="leo.20170412011034.2"><vh>第七週影片</vh></v>
 </v>
 </v>
-<v t="leo.20170425221953.1"><vh>20170412W8</vh>
+<v t="leo.20170425221953.1" a="E"><vh>20170412W8</vh>
 <v t="leo.20170425221953.2"><vh>上課內容</vh>
 <v t="leo.20170425221953.3"><vh>上課大綱</vh></v>
 </v>
@@ -425,8 +425,8 @@
 <v t="leo.20170425222131.1"><vh>一-7</vh>
 <v t="leo.20170425222131.2"><vh>連結</vh></v>
 </v>
-<v t="leo.20170425223030.1" a="E"><vh>(1)影片</vh>
-<v t="leo.20170425223030.2"><vh>影片</vh></v>
+<v t="leo.20170427000305.1" a="E"><vh>(1)影片</vh>
+<v t="leo.20170427000305.2"><vh>影片</vh></v>
 </v>
 </v>
 <v t="leo.20170419104809.1"><vh>20170419W9</vh>
@@ -515,24 +515,6 @@
 <v t="yen.20170108171930.1"><vh>@button https server</vh></v>
 <v t="yen.20170108171939.1"><vh>@button ipv6 https server</vh></v>
 <v t="yen.20170209024032.1"><vh>reference</vh></v>
-<v t="leo.20170426212253.2" a="E"><vh>Recovered Nodes</vh>
-<v t="leo.20170426212253.3"><vh>Recovered node "影片" from @clean index.html</vh>
-<v t="leo.20170426212253.4"><vh>old:影片</vh></v>
-<v t="leo.20170426212253.5"><vh>new:影片</vh></v>
-</v>
-</v>
-<v t="leo.20170426214842.2" a="E"><vh>Recovered Nodes</vh>
-<v t="leo.20170426214842.3"><vh>Recovered node "影片" from @clean index.html</vh>
-<v t="leo.20170426214842.4"><vh>old:影片</vh></v>
-<v t="leo.20170426214842.5"><vh>new:影片</vh></v>
-</v>
-</v>
-<v t="leo.20170426235257.2" a="E"><vh>Recovered Nodes</vh>
-<v t="leo.20170426235257.3"><vh>Recovered node "影片" from @clean index.html</vh>
-<v t="leo.20170426235257.4"><vh>old:影片</vh></v>
-<v t="leo.20170426235257.5"><vh>new:影片</vh></v>
-</v>
-</v>
 </vnodes>
 <tnodes>
 <t tx="leo.20170226155017.1"></t>
@@ -2656,24 +2638,6 @@ fossil add .
 
 二.利用Onshape繪製八連桿
 </t>
-<t tx="leo.20170425223030.1">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-&lt;!-- 請注意, @others 不可以內縮 --&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-
-						
-</t>
-<t tx="leo.20170425223030.2">##影片
-
-#&lt;button onClick="lity('https://vimeo.com/206084321')"&gt;&lt;span class="glyphicon glyphicon-facetime-video"&gt;&lt;/span&gt;stunnel設定&lt;/button&gt;
-
-
- &lt;button onClick="lity('https://vimeo.com/208413780')"&gt;&lt;span class="glyphicon glyphicon-facetime-video"&gt;&lt;/span&gt;Solvespace 30-50-60 cm 比例的四連桿組立&lt;/button&gt;  &lt;button onClick="lity('https://vimeo.com/208415265')"&gt;&lt;span class="glyphicon glyphicon-facetime-video"&gt;&lt;/span&gt;Onshape 四連桿機構&lt;/button&gt; &lt;button onClick="lity('https://vimeo.com/208415790')"&gt;&lt;span class="glyphicon glyphicon-facetime-video"&gt;&lt;/span&gt;四連桿軌跡圖&lt;/button&gt; &lt;button onClick="lity('https://vimeo.com/212759861')"&gt;&lt;span class="glyphicon glyphicon-facetime-video"&gt;&lt;/span&gt;0315單連桿-OnShape&lt;/button&gt; &lt;button onClick="lity('https://vimeo.com/212771293')"&gt;&lt;span class="glyphicon glyphicon-facetime-video"&gt;&lt;/span&gt;0315單連桿-SolveSpace&lt;/button&gt; &lt;button onClick="lity('https://vimeo.com/212847283')"&gt;&lt;span class="glyphicon glyphicon-facetime-video"&gt;&lt;/span&gt;20170322 單連桿vrep作動&lt;/button&gt; &lt;button onClick="lity('https://vimeo.com/212855650')"&gt;&lt;span class="glyphicon glyphicon-facetime-video"&gt;&lt;/span&gt;0322 fourlink part1&lt;/button&gt; &lt;button onClick="lity('https://vimeo.com/212855920')"&gt;&lt;span class="glyphicon glyphicon-facetime-video"&gt;&lt;/span&gt;20170322 fourlink part2&lt;/button&gt; &lt;button onClick="lity('https://vimeo.com/212777111')"&gt;&lt;span class="glyphicon glyphicon-facetime-video"&gt;&lt;/span&gt;20170329四連桿&lt;/button&gt; &lt;button onClick="lity('https://vimeo.com/212793254')"&gt;&lt;span class="glyphicon glyphicon-facetime-video"&gt;&lt;/span&gt;20170405 八連桿零件part1&lt;/button&gt; &lt;button onClick="lity('https://vimeo.com/212793288')"&gt;&lt;span class="glyphicon glyphicon-facetime-video"&gt;&lt;/span&gt;20170405 八連桿零件part2&lt;/button&gt; &lt;button onClick="lity('https://vimeo.com/212797143')"&gt;&lt;span class="glyphicon glyphicon-facetime-video"&gt;&lt;/span&gt;20170405 八連桿組裝part1&lt;/button&gt; &lt;button onClick="lity('https://vimeo.com/212802593')"&gt;&lt;span class="glyphicon glyphicon-facetime-video"&gt;&lt;/span&gt;20170405 八連桿組裝part2&lt;/button&gt; 
-</t>
 <t tx="leo.20170425224049.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
@@ -2704,74 +2668,6 @@ fossil add .
 
 ####這周將上禮拜繪製的單連桿放入Vrep之中並設定使其旋轉，與之前不同的是又多加了一個Dummy。再組裝設定的時候一直遇到問題無法旋轉再摸索了一下後總算令其能在Vrep中旋轉了。
 </t>
-<t tx="leo.20170426212253.2"></t>
-<t tx="leo.20170426212253.3">(uncached) leo.20170425223030.2
-Diff...
-  ##影片
-  
-- #&lt;button onClick="lity('https://vimeo.com/206084321')"&gt;&lt;span class="glyphicon glyphicon-facetime-video"&gt;&lt;/span&gt;stunnel設定&lt;/button&gt; - 
--  &lt;button onClick="lity('https://vimeo.com/208413780')"&gt;&lt;span class="glyphicon glyphicon-facetime-video"&gt;&lt;/span&gt;Solvespace 30-50-60 cm 比例的四連桿組立&lt;/button&gt;  &lt;button onClick="lity('https://vimeo.com/208415265')"&gt;&lt;span class="glyphicon glyphicon-facetime-video"&gt;&lt;/span&gt;Onshape 四連桿機構&lt;/button&gt; &lt;button onClick="lity('https://vimeo.com/208415790')"&gt;&lt;span class="glyphicon glyphicon-facetime-video"&gt;&lt;/span&gt;四連桿軌跡圖&lt;/button&gt; &lt;button onClick="lity('https://vimeo.com/212759861')"&gt;&lt;span class="glyphicon glyphicon-facetime-video"&gt;&lt;/span&gt;0315單連桿-OnShape&lt;/button&gt; &lt;button onClick="lity('https://vimeo.com/212771293')"&gt;&lt;span class="glyphicon glyphicon-facetime-video"&gt;&lt;/span&gt;0315單連桿-SolveSpace&lt;/button&gt; &lt;button onClick="lity('https://vimeo.com/212847283')"&gt;&lt;span class="glyphicon glyphicon-facetime-video"&gt;&lt;/span&gt;20170322 單連桿vrep作動&lt;/button&gt; &lt;button onClick="lity('https://vimeo.com/212855650')"&gt;&lt;span class="glyphicon glyphicon-facetime-video"&gt;&lt;/span&gt;0322 fourlink part1&lt;/button&gt; &lt;button onClick="lity('https://vimeo.com/212855920')"&gt;&lt;span class="glyphicon glyphicon-facetime-video"&gt;&lt;/span&gt;20170322 fourlink part2&lt;/button&gt; &lt;button onClick="lity('https://vimeo.com/212777111')"&gt;&lt;span class="glyphicon glyphicon-facetime-video"&gt;&lt;/span&gt;20170329四連桿&lt;/button&gt; &lt;button onClick="lity('https://vimeo.com/212793254')"&gt;&lt;span class="glyphicon glyphicon-facetime-video"&gt;&lt;/span&gt;20170405 八連桿零件part1&lt;/button&gt; &lt;button onClick="lity('https://vimeo.com/212793288')"&gt;&lt;span class="glyphicon glyphicon-facetime-video"&gt;&lt;/span&gt;20170405 八連桿零件part2&lt;/button&gt; &lt;button onClick="lity('https://vimeo.com/212797143')"&gt;&lt;span class="glyphicon glyphicon-facetime-video"&gt;&lt;/span&gt;20170405 八連桿組裝part1&lt;/button&gt; &lt;button onClick="lity('https://vimeo.com/212802593')"&gt;&lt;span class="glyphicon glyphicon-facetime-video"&gt;&lt;/span&gt;20170405 八連桿組裝part2&lt;/button&gt; 
-+ #&lt;button onClick="lity('https://vimeo.com/206084321')"&gt;&lt;span class="glyphicon glyphicon-facetime-video"&gt;&lt;/span&gt;stunnel設定&lt;/button&gt;  &lt;button onClick="lity('https://vimeo.com/208413780')"&gt;&lt;span class="glyphicon glyphicon-facetime-video"&gt;&lt;/span&gt;Solvespace 30-50-60 cm 比例的四連桿組立&lt;/button&gt;  &lt;button onClick="lity('https://vimeo.com/208415265')"&gt;&lt;span class="glyphicon glyphicon-facetime-video"&gt;&lt;/span&gt;Onshape 四連桿機構&lt;/button&gt; &lt;button onClick="lity('https://vimeo.com/208415790')"&gt;&lt;span class="glyphicon glyphicon-facetime-video"&gt;&lt;/span&gt;四連桿軌跡圖&lt;/button&gt; &lt;button onClick="lity('https://vimeo.com/212759861')"&gt;&lt;span class="glyphicon glyphicon-facetime-video"&gt;&lt;/span&gt;0315單連桿-OnShape&lt;/button&gt; &lt;button onClick="lity('https://vimeo.com/212771293')"&gt;&lt;span class="glyphicon glyphicon-facetime-video"&gt;&lt;/span&gt;0315單連桿-SolveSpace&lt;/button&gt; &lt;button onClick="lity('https://vimeo.com/212847283')"&gt;&lt;span class="glyphicon glyphicon-facetime-video"&gt;&lt;/span&gt;20170322 單連桿vrep作動&lt;/button&gt; &lt;button onClick="lity('https://vimeo.com/212855650')"&gt;&lt;span class="glyphicon glyphicon-facetime-video"&gt;&lt;/span&gt;0322 fourlink part1&lt;/button&gt; &lt;button onClick="lity('https://vimeo.com/212855920')"&gt;&lt;span class="glyphicon glyphicon-facetime-video"&gt;&lt;/span&gt;20170322 fourlink part2&lt;/button&gt; &lt;button onClick="lity('https://vimeo.com/212777111')"&gt;&lt;span class="glyphicon glyphicon-facetime-video"&gt;&lt;/span&gt;20170329四連桿&lt;/button&gt; &lt;button onClick="lity('https://vimeo.com/212793254')"&gt;&lt;span class="glyphicon glyphicon-facetime-video"&gt;&lt;/span&gt;20170405 八連桿零件part1&lt;/button&gt; &lt;button onClick="lity('https://vimeo.com/212793288')"&gt;&lt;span class="glyphicon glyphicon-facetime-video"&gt;&lt;/span&gt;20170405 八連桿零件part2&lt;/button&gt; &lt;button onClick="lity('https://vimeo.com/212797143')"&gt;&lt;span class="glyphicon glyphicon-facetime-video"&gt;&lt;/span&gt;20170405 八連桿組裝part1&lt;/button&gt; &lt;button onClick="lity('https://vimeo.com/212802593')"&gt;&lt;span class="glyphicon glyphicon-facetime-video"&gt;&lt;/span&gt;20170405 八連桿組裝part2&lt;/button&gt; 
-? ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
-</t>
-<t tx="leo.20170426212253.4">##影片
-
-#&lt;button onClick="lity('https://vimeo.com/206084321')"&gt;&lt;span class="glyphicon glyphicon-facetime-video"&gt;&lt;/span&gt;stunnel設定&lt;/button&gt;  &lt;button onClick="lity('https://vimeo.com/208413780')"&gt;&lt;span class="glyphicon glyphicon-facetime-video"&gt;&lt;/span&gt;Solvespace 30-50-60 cm 比例的四連桿組立&lt;/button&gt;  &lt;button onClick="lity('https://vimeo.com/208415265')"&gt;&lt;span class="glyphicon glyphicon-facetime-video"&gt;&lt;/span&gt;Onshape 四連桿機構&lt;/button&gt; &lt;button onClick="lity('https://vimeo.com/208415790')"&gt;&lt;span class="glyphicon glyphicon-facetime-video"&gt;&lt;/span&gt;四連桿軌跡圖&lt;/button&gt; &lt;button onClick="lity('https://vimeo.com/212759861')"&gt;&lt;span class="glyphicon glyphicon-facetime-video"&gt;&lt;/span&gt;0315單連桿-OnShape&lt;/button&gt; &lt;button onClick="lity('https://vimeo.com/212771293')"&gt;&lt;span class="glyphicon glyphicon-facetime-video"&gt;&lt;/span&gt;0315單連桿-SolveSpace&lt;/button&gt; &lt;button onClick="lity('https://vimeo.com/212847283')"&gt;&lt;span class="glyphicon glyphicon-facetime-video"&gt;&lt;/span&gt;20170322 單連桿vrep作動&lt;/button&gt; &lt;button onClick="lity('https://vimeo.com/212855650')"&gt;&lt;span class="glyphicon glyphicon-facetime-video"&gt;&lt;/span&gt;0322 fourlink part1&lt;/button&gt; &lt;button onClick="lity('https://vimeo.com/212855920')"&gt;&lt;span class="glyphicon glyphicon-facetime-video"&gt;&lt;/span&gt;20170322 fourlink part2&lt;/button&gt; &lt;button onClick="lity('https://vimeo.com/212777111')"&gt;&lt;span class="glyphicon glyphicon-facetime-video"&gt;&lt;/span&gt;20170329四連桿&lt;/button&gt; &lt;button onClick="lity('https://vimeo.com/212793254')"&gt;&lt;span class="glyphicon glyphicon-facetime-video"&gt;&lt;/span&gt;20170405 八連桿零件part1&lt;/button&gt; &lt;button onClick="lity('https://vimeo.com/212793288')"&gt;&lt;span class="glyphicon glyphicon-facetime-video"&gt;&lt;/span&gt;20170405 八連桿零件part2&lt;/button&gt; &lt;button onClick="lity('https://vimeo.com/212797143')"&gt;&lt;span class="glyphicon glyphicon-facetime-video"&gt;&lt;/span&gt;20170405 八連桿組裝part1&lt;/button&gt; &lt;button onClick="lity('https://vimeo.com/212802593')"&gt;&lt;span class="glyphicon glyphicon-facetime-video"&gt;&lt;/span&gt;20170405 八連桿組裝part2&lt;/button&gt; 
-</t>
-<t tx="leo.20170426212253.5">##影片
-
-#&lt;button onClick="lity('https://vimeo.com/206084321')"&gt;&lt;span class="glyphicon glyphicon-facetime-video"&gt;&lt;/span&gt;stunnel設定&lt;/button&gt; 
- &lt;button onClick="lity('https://vimeo.com/208413780')"&gt;&lt;span class="glyphicon glyphicon-facetime-video"&gt;&lt;/span&gt;Solvespace 30-50-60 cm 比例的四連桿組立&lt;/button&gt;  &lt;button onClick="lity('https://vimeo.com/208415265')"&gt;&lt;span class="glyphicon glyphicon-facetime-video"&gt;&lt;/span&gt;Onshape 四連桿機構&lt;/button&gt; &lt;button onClick="lity('https://vimeo.com/208415790')"&gt;&lt;span class="glyphicon glyphicon-facetime-video"&gt;&lt;/span&gt;四連桿軌跡圖&lt;/button&gt; &lt;button onClick="lity('https://vimeo.com/212759861')"&gt;&lt;span class="glyphicon glyphicon-facetime-video"&gt;&lt;/span&gt;0315單連桿-OnShape&lt;/button&gt; &lt;button onClick="lity('https://vimeo.com/212771293')"&gt;&lt;span class="glyphicon glyphicon-facetime-video"&gt;&lt;/span&gt;0315單連桿-SolveSpace&lt;/button&gt; &lt;button onClick="lity('https://vimeo.com/212847283')"&gt;&lt;span class="glyphicon glyphicon-facetime-video"&gt;&lt;/span&gt;20170322 單連桿vrep作動&lt;/button&gt; &lt;button onClick="lity('https://vimeo.com/212855650')"&gt;&lt;span class="glyphicon glyphicon-facetime-video"&gt;&lt;/span&gt;0322 fourlink part1&lt;/button&gt; &lt;button onClick="lity('https://vimeo.com/212855920')"&gt;&lt;span class="glyphicon glyphicon-facetime-video"&gt;&lt;/span&gt;20170322 fourlink part2&lt;/button&gt; &lt;button onClick="lity('https://vimeo.com/212777111')"&gt;&lt;span class="glyphicon glyphicon-facetime-video"&gt;&lt;/span&gt;20170329四連桿&lt;/button&gt; &lt;button onClick="lity('https://vimeo.com/212793254')"&gt;&lt;span class="glyphicon glyphicon-facetime-video"&gt;&lt;/span&gt;20170405 八連桿零件part1&lt;/button&gt; &lt;button onClick="lity('https://vimeo.com/212793288')"&gt;&lt;span class="glyphicon glyphicon-facetime-video"&gt;&lt;/span&gt;20170405 八連桿零件part2&lt;/button&gt; &lt;button onClick="lity('https://vimeo.com/212797143')"&gt;&lt;span class="glyphicon glyphicon-facetime-video"&gt;&lt;/span&gt;20170405 八連桿組裝part1&lt;/button&gt; &lt;button onClick="lity('https://vimeo.com/212802593')"&gt;&lt;span class="glyphicon glyphicon-facetime-video"&gt;&lt;/span&gt;20170405 八連桿組裝part2&lt;/button&gt; 
-</t>
-<t tx="leo.20170426214842.2"></t>
-<t tx="leo.20170426214842.3">(uncached) leo.20170425223030.2
-Diff...
-  ##影片
-  
-- #&lt;button onClick="lity('https://vimeo.com/206084321')"&gt;&lt;span class="glyphicon glyphicon-facetime-video"&gt;&lt;/span&gt;stunnel設定&lt;/button&gt; ?                                                                                                                                  ^
-+ #&lt;button onClick="lity('https://vimeo.com/206084321')"&gt;&lt;span class="glyphicon glyphicon-facetime-video"&gt;&lt;/span&gt;stunnel設定&lt;/button&gt; 
-?                                                                                                                                  ^^
-- 
-- 
-   &lt;button onClick="lity('https://vimeo.com/208413780')"&gt;&lt;span class="glyphicon glyphicon-facetime-video"&gt;&lt;/span&gt;Solvespace 30-50-60 cm 比例的四連桿組立&lt;/button&gt;  &lt;button onClick="lity('https://vimeo.com/208415265')"&gt;&lt;span class="glyphicon glyphicon-facetime-video"&gt;&lt;/span&gt;Onshape 四連桿機構&lt;/button&gt; &lt;button onClick="lity('https://vimeo.com/208415790')"&gt;&lt;span class="glyphicon glyphicon-facetime-video"&gt;&lt;/span&gt;四連桿軌跡圖&lt;/button&gt; &lt;button onClick="lity('https://vimeo.com/212759861')"&gt;&lt;span class="glyphicon glyphicon-facetime-video"&gt;&lt;/span&gt;0315單連桿-OnShape&lt;/button&gt; &lt;button onClick="lity('https://vimeo.com/212771293')"&gt;&lt;span class="glyphicon glyphicon-facetime-video"&gt;&lt;/span&gt;0315單連桿-SolveSpace&lt;/button&gt; &lt;button onClick="lity('https://vimeo.com/212847283')"&gt;&lt;span class="glyphicon glyphicon-facetime-video"&gt;&lt;/span&gt;20170322 單連桿vrep作動&lt;/button&gt; &lt;button onClick="lity('https://vimeo.com/212855650')"&gt;&lt;span class="glyphicon glyphicon-facetime-video"&gt;&lt;/span&gt;0322 fourlink part1&lt;/button&gt; &lt;button onClick="lity('https://vimeo.com/212855920')"&gt;&lt;span class="glyphicon glyphicon-facetime-video"&gt;&lt;/span&gt;20170322 fourlink part2&lt;/button&gt; &lt;button onClick="lity('https://vimeo.com/212777111')"&gt;&lt;span class="glyphicon glyphicon-facetime-video"&gt;&lt;/span&gt;20170329四連桿&lt;/button&gt; &lt;button onClick="lity('https://vimeo.com/212793254')"&gt;&lt;span class="glyphicon glyphicon-facetime-video"&gt;&lt;/span&gt;20170405 八連桿零件part1&lt;/button&gt; &lt;button onClick="lity('https://vimeo.com/212793288')"&gt;&lt;span class="glyphicon glyphicon-facetime-video"&gt;&lt;/span&gt;20170405 八連桿零件part2&lt;/button&gt; &lt;button onClick="lity('https://vimeo.com/212797143')"&gt;&lt;span class="glyphicon glyphicon-facetime-video"&gt;&lt;/span&gt;20170405 八連桿組裝part1&lt;/button&gt; &lt;button onClick="lity('https://vimeo.com/212802593')"&gt;&lt;span class="glyphicon glyphicon-facetime-video"&gt;&lt;/span&gt;20170405 八連桿組裝part2&lt;/button&gt; 
-</t>
-<t tx="leo.20170426214842.4">##影片
-
-#&lt;button onClick="lity('https://vimeo.com/206084321')"&gt;&lt;span class="glyphicon glyphicon-facetime-video"&gt;&lt;/span&gt;stunnel設定&lt;/button&gt; 
- &lt;button onClick="lity('https://vimeo.com/208413780')"&gt;&lt;span class="glyphicon glyphicon-facetime-video"&gt;&lt;/span&gt;Solvespace 30-50-60 cm 比例的四連桿組立&lt;/button&gt;  &lt;button onClick="lity('https://vimeo.com/208415265')"&gt;&lt;span class="glyphicon glyphicon-facetime-video"&gt;&lt;/span&gt;Onshape 四連桿機構&lt;/button&gt; &lt;button onClick="lity('https://vimeo.com/208415790')"&gt;&lt;span class="glyphicon glyphicon-facetime-video"&gt;&lt;/span&gt;四連桿軌跡圖&lt;/button&gt; &lt;button onClick="lity('https://vimeo.com/212759861')"&gt;&lt;span class="glyphicon glyphicon-facetime-video"&gt;&lt;/span&gt;0315單連桿-OnShape&lt;/button&gt; &lt;button onClick="lity('https://vimeo.com/212771293')"&gt;&lt;span class="glyphicon glyphicon-facetime-video"&gt;&lt;/span&gt;0315單連桿-SolveSpace&lt;/button&gt; &lt;button onClick="lity('https://vimeo.com/212847283')"&gt;&lt;span class="glyphicon glyphicon-facetime-video"&gt;&lt;/span&gt;20170322 單連桿vrep作動&lt;/button&gt; &lt;button onClick="lity('https://vimeo.com/212855650')"&gt;&lt;span class="glyphicon glyphicon-facetime-video"&gt;&lt;/span&gt;0322 fourlink part1&lt;/button&gt; &lt;button onClick="lity('https://vimeo.com/212855920')"&gt;&lt;span class="glyphicon glyphicon-facetime-video"&gt;&lt;/span&gt;20170322 fourlink part2&lt;/button&gt; &lt;button onClick="lity('https://vimeo.com/212777111')"&gt;&lt;span class="glyphicon glyphicon-facetime-video"&gt;&lt;/span&gt;20170329四連桿&lt;/button&gt; &lt;button onClick="lity('https://vimeo.com/212793254')"&gt;&lt;span class="glyphicon glyphicon-facetime-video"&gt;&lt;/span&gt;20170405 八連桿零件part1&lt;/button&gt; &lt;button onClick="lity('https://vimeo.com/212793288')"&gt;&lt;span class="glyphicon glyphicon-facetime-video"&gt;&lt;/span&gt;20170405 八連桿零件part2&lt;/button&gt; &lt;button onClick="lity('https://vimeo.com/212797143')"&gt;&lt;span class="glyphicon glyphicon-facetime-video"&gt;&lt;/span&gt;20170405 八連桿組裝part1&lt;/button&gt; &lt;button onClick="lity('https://vimeo.com/212802593')"&gt;&lt;span class="glyphicon glyphicon-facetime-video"&gt;&lt;/span&gt;20170405 八連桿組裝part2&lt;/button&gt; 
-</t>
-<t tx="leo.20170426214842.5">##影片
-
-#&lt;button onClick="lity('https://vimeo.com/206084321')"&gt;&lt;span class="glyphicon glyphicon-facetime-video"&gt;&lt;/span&gt;stunnel設定&lt;/button&gt; 
-
- &lt;button onClick="lity('https://vimeo.com/208413780')"&gt;&lt;span class="glyphicon glyphicon-facetime-video"&gt;&lt;/span&gt;Solvespace 30-50-60 cm 比例的四連桿組立&lt;/button&gt;  &lt;button onClick="lity('https://vimeo.com/208415265')"&gt;&lt;span class="glyphicon glyphicon-facetime-video"&gt;&lt;/span&gt;Onshape 四連桿機構&lt;/button&gt; &lt;button onClick="lity('https://vimeo.com/208415790')"&gt;&lt;span class="glyphicon glyphicon-facetime-video"&gt;&lt;/span&gt;四連桿軌跡圖&lt;/button&gt; &lt;button onClick="lity('https://vimeo.com/212759861')"&gt;&lt;span class="glyphicon glyphicon-facetime-video"&gt;&lt;/span&gt;0315單連桿-OnShape&lt;/button&gt; &lt;button onClick="lity('https://vimeo.com/212771293')"&gt;&lt;span class="glyphicon glyphicon-facetime-video"&gt;&lt;/span&gt;0315單連桿-SolveSpace&lt;/button&gt; &lt;button onClick="lity('https://vimeo.com/212847283')"&gt;&lt;span class="glyphicon glyphicon-facetime-video"&gt;&lt;/span&gt;20170322 單連桿vrep作動&lt;/button&gt; &lt;button onClick="lity('https://vimeo.com/212855650')"&gt;&lt;span class="glyphicon glyphicon-facetime-video"&gt;&lt;/span&gt;0322 fourlink part1&lt;/button&gt; &lt;button onClick="lity('https://vimeo.com/212855920')"&gt;&lt;span class="glyphicon glyphicon-facetime-video"&gt;&lt;/span&gt;20170322 fourlink part2&lt;/button&gt; &lt;button onClick="lity('https://vimeo.com/212777111')"&gt;&lt;span class="glyphicon glyphicon-facetime-video"&gt;&lt;/span&gt;20170329四連桿&lt;/button&gt; &lt;button onClick="lity('https://vimeo.com/212793254')"&gt;&lt;span class="glyphicon glyphicon-facetime-video"&gt;&lt;/span&gt;20170405 八連桿零件part1&lt;/button&gt; &lt;button onClick="lity('https://vimeo.com/212793288')"&gt;&lt;span class="glyphicon glyphicon-facetime-video"&gt;&lt;/span&gt;20170405 八連桿零件part2&lt;/button&gt; &lt;button onClick="lity('https://vimeo.com/212797143')"&gt;&lt;span class="glyphicon glyphicon-facetime-video"&gt;&lt;/span&gt;20170405 八連桿組裝part1&lt;/button&gt; &lt;button onClick="lity('https://vimeo.com/212802593')"&gt;&lt;span class="glyphicon glyphicon-facetime-video"&gt;&lt;/span&gt;20170405 八連桿組裝part2&lt;/button&gt; 
-</t>
-<t tx="leo.20170426235257.2"></t>
-<t tx="leo.20170426235257.3">(uncached) leo.20170425223030.2
-Diff...
-  ##影片
-  
-- #&lt;button onClick="lity('https://vimeo.com/206084321')"&gt;&lt;span class="glyphicon glyphicon-facetime-video"&gt;&lt;/span&gt;stunnel設定&lt;/button&gt;?                                                                                                                                  ^
-+ #&lt;button onClick="lity('https://vimeo.com/206084321')"&gt;&lt;span class="glyphicon glyphicon-facetime-video"&gt;&lt;/span&gt;stunnel設定&lt;/button&gt; 
-?                                                                                                                                  ^^
-- 
-- 
-  
-   &lt;button onClick="lity('https://vimeo.com/208413780')"&gt;&lt;span class="glyphicon glyphicon-facetime-video"&gt;&lt;/span&gt;Solvespace 30-50-60 cm 比例的四連桿組立&lt;/button&gt;  &lt;button onClick="lity('https://vimeo.com/208415265')"&gt;&lt;span class="glyphicon glyphicon-facetime-video"&gt;&lt;/span&gt;Onshape 四連桿機構&lt;/button&gt; &lt;button onClick="lity('https://vimeo.com/208415790')"&gt;&lt;span class="glyphicon glyphicon-facetime-video"&gt;&lt;/span&gt;四連桿軌跡圖&lt;/button&gt; &lt;button onClick="lity('https://vimeo.com/212759861')"&gt;&lt;span class="glyphicon glyphicon-facetime-video"&gt;&lt;/span&gt;0315單連桿-OnShape&lt;/button&gt; &lt;button onClick="lity('https://vimeo.com/212771293')"&gt;&lt;span class="glyphicon glyphicon-facetime-video"&gt;&lt;/span&gt;0315單連桿-SolveSpace&lt;/button&gt; &lt;button onClick="lity('https://vimeo.com/212847283')"&gt;&lt;span class="glyphicon glyphicon-facetime-video"&gt;&lt;/span&gt;20170322 單連桿vrep作動&lt;/button&gt; &lt;button onClick="lity('https://vimeo.com/212855650')"&gt;&lt;span class="glyphicon glyphicon-facetime-video"&gt;&lt;/span&gt;0322 fourlink part1&lt;/button&gt; &lt;button onClick="lity('https://vimeo.com/212855920')"&gt;&lt;span class="glyphicon glyphicon-facetime-video"&gt;&lt;/span&gt;20170322 fourlink part2&lt;/button&gt; &lt;button onClick="lity('https://vimeo.com/212777111')"&gt;&lt;span class="glyphicon glyphicon-facetime-video"&gt;&lt;/span&gt;20170329四連桿&lt;/button&gt; &lt;button onClick="lity('https://vimeo.com/212793254')"&gt;&lt;span class="glyphicon glyphicon-facetime-video"&gt;&lt;/span&gt;20170405 八連桿零件part1&lt;/button&gt; &lt;button onClick="lity('https://vimeo.com/212793288')"&gt;&lt;span class="glyphicon glyphicon-facetime-video"&gt;&lt;/span&gt;20170405 八連桿零件part2&lt;/button&gt; &lt;button onClick="lity('https://vimeo.com/212797143')"&gt;&lt;span class="glyphicon glyphicon-facetime-video"&gt;&lt;/span&gt;20170405 八連桿組裝part1&lt;/button&gt; &lt;button onClick="lity('https://vimeo.com/212802593')"&gt;&lt;span class="glyphicon glyphicon-facetime-video"&gt;&lt;/span&gt;20170405 八連桿組裝part2&lt;/button&gt; 
-</t>
-<t tx="leo.20170426235257.4">##影片
-
-#&lt;button onClick="lity('https://vimeo.com/206084321')"&gt;&lt;span class="glyphicon glyphicon-facetime-video"&gt;&lt;/span&gt;stunnel設定&lt;/button&gt; 
-
- &lt;button onClick="lity('https://vimeo.com/208413780')"&gt;&lt;span class="glyphicon glyphicon-facetime-video"&gt;&lt;/span&gt;Solvespace 30-50-60 cm 比例的四連桿組立&lt;/button&gt;  &lt;button onClick="lity('https://vimeo.com/208415265')"&gt;&lt;span class="glyphicon glyphicon-facetime-video"&gt;&lt;/span&gt;Onshape 四連桿機構&lt;/button&gt; &lt;button onClick="lity('https://vimeo.com/208415790')"&gt;&lt;span class="glyphicon glyphicon-facetime-video"&gt;&lt;/span&gt;四連桿軌跡圖&lt;/button&gt; &lt;button onClick="lity('https://vimeo.com/212759861')"&gt;&lt;span class="glyphicon glyphicon-facetime-video"&gt;&lt;/span&gt;0315單連桿-OnShape&lt;/button&gt; &lt;button onClick="lity('https://vimeo.com/212771293')"&gt;&lt;span class="glyphicon glyphicon-facetime-video"&gt;&lt;/span&gt;0315單連桿-SolveSpace&lt;/button&gt; &lt;button onClick="lity('https://vimeo.com/212847283')"&gt;&lt;span class="glyphicon glyphicon-facetime-video"&gt;&lt;/span&gt;20170322 單連桿vrep作動&lt;/button&gt; &lt;button onClick="lity('https://vimeo.com/212855650')"&gt;&lt;span class="glyphicon glyphicon-facetime-video"&gt;&lt;/span&gt;0322 fourlink part1&lt;/button&gt; &lt;button onClick="lity('https://vimeo.com/212855920')"&gt;&lt;span class="glyphicon glyphicon-facetime-video"&gt;&lt;/span&gt;20170322 fourlink part2&lt;/button&gt; &lt;button onClick="lity('https://vimeo.com/212777111')"&gt;&lt;span class="glyphicon glyphicon-facetime-video"&gt;&lt;/span&gt;20170329四連桿&lt;/button&gt; &lt;button onClick="lity('https://vimeo.com/212793254')"&gt;&lt;span class="glyphicon glyphicon-facetime-video"&gt;&lt;/span&gt;20170405 八連桿零件part1&lt;/button&gt; &lt;button onClick="lity('https://vimeo.com/212793288')"&gt;&lt;span class="glyphicon glyphicon-facetime-video"&gt;&lt;/span&gt;20170405 八連桿零件part2&lt;/button&gt; &lt;button onClick="lity('https://vimeo.com/212797143')"&gt;&lt;span class="glyphicon glyphicon-facetime-video"&gt;&lt;/span&gt;20170405 八連桿組裝part1&lt;/button&gt; &lt;button onClick="lity('https://vimeo.com/212802593')"&gt;&lt;span class="glyphicon glyphicon-facetime-video"&gt;&lt;/span&gt;20170405 八連桿組裝part2&lt;/button&gt; 
-</t>
-<t tx="leo.20170426235257.5">##影片
-
-#&lt;button onClick="lity('https://vimeo.com/206084321')"&gt;&lt;span class="glyphicon glyphicon-facetime-video"&gt;&lt;/span&gt;stunnel設定&lt;/button&gt;
-
-
- &lt;button onClick="lity('https://vimeo.com/208413780')"&gt;&lt;span class="glyphicon glyphicon-facetime-video"&gt;&lt;/span&gt;Solvespace 30-50-60 cm 比例的四連桿組立&lt;/button&gt;  &lt;button onClick="lity('https://vimeo.com/208415265')"&gt;&lt;span class="glyphicon glyphicon-facetime-video"&gt;&lt;/span&gt;Onshape 四連桿機構&lt;/button&gt; &lt;button onClick="lity('https://vimeo.com/208415790')"&gt;&lt;span class="glyphicon glyphicon-facetime-video"&gt;&lt;/span&gt;四連桿軌跡圖&lt;/button&gt; &lt;button onClick="lity('https://vimeo.com/212759861')"&gt;&lt;span class="glyphicon glyphicon-facetime-video"&gt;&lt;/span&gt;0315單連桿-OnShape&lt;/button&gt; &lt;button onClick="lity('https://vimeo.com/212771293')"&gt;&lt;span class="glyphicon glyphicon-facetime-video"&gt;&lt;/span&gt;0315單連桿-SolveSpace&lt;/button&gt; &lt;button onClick="lity('https://vimeo.com/212847283')"&gt;&lt;span class="glyphicon glyphicon-facetime-video"&gt;&lt;/span&gt;20170322 單連桿vrep作動&lt;/button&gt; &lt;button onClick="lity('https://vimeo.com/212855650')"&gt;&lt;span class="glyphicon glyphicon-facetime-video"&gt;&lt;/span&gt;0322 fourlink part1&lt;/button&gt; &lt;button onClick="lity('https://vimeo.com/212855920')"&gt;&lt;span class="glyphicon glyphicon-facetime-video"&gt;&lt;/span&gt;20170322 fourlink part2&lt;/button&gt; &lt;button onClick="lity('https://vimeo.com/212777111')"&gt;&lt;span class="glyphicon glyphicon-facetime-video"&gt;&lt;/span&gt;20170329四連桿&lt;/button&gt; &lt;button onClick="lity('https://vimeo.com/212793254')"&gt;&lt;span class="glyphicon glyphicon-facetime-video"&gt;&lt;/span&gt;20170405 八連桿零件part1&lt;/button&gt; &lt;button onClick="lity('https://vimeo.com/212793288')"&gt;&lt;span class="glyphicon glyphicon-facetime-video"&gt;&lt;/span&gt;20170405 八連桿零件part2&lt;/button&gt; &lt;button onClick="lity('https://vimeo.com/212797143')"&gt;&lt;span class="glyphicon glyphicon-facetime-video"&gt;&lt;/span&gt;20170405 八連桿組裝part1&lt;/button&gt; &lt;button onClick="lity('https://vimeo.com/212802593')"&gt;&lt;span class="glyphicon glyphicon-facetime-video"&gt;&lt;/span&gt;20170405 八連桿組裝part2&lt;/button&gt; 
-</t>
 <t tx="leo.20170426235828.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
@@ -2796,6 +2692,21 @@ Diff...
 						
 </t>
 <t tx="leo.20170426235837.2">&lt;img src="data/W7/Vrep.png" width="800" /&gt;</t>
+<t tx="leo.20170427000305.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170427000305.2">##影片
+
+#&lt;button onClick="lity('https://vimeo.com/206084321')"&gt;&lt;span class="glyphicon glyphicon-facetime-video"&gt;&lt;/span&gt;stunnel設定&lt;/button&gt;&lt;button onClick="lity('https://vimeo.com/208413780')"&gt;&lt;span class="glyphicon glyphicon-facetime-video"&gt;&lt;/span&gt;Solvespace 30-50-60 cm 比例的四連桿組立&lt;/button&gt;  &lt;button onClick="lity('https://vimeo.com/208415265')"&gt;&lt;span class="glyphicon glyphicon-facetime-video"&gt;&lt;/span&gt;Onshape 四連桿機構&lt;/button&gt; &lt;button onClick="lity('https://vimeo.com/208415790')"&gt;&lt;span class="glyphicon glyphicon-facetime-video"&gt;&lt;/span&gt;四連桿軌跡圖&lt;/button&gt; &lt;button onClick="lity('https://vimeo.com/212759861')"&gt;&lt;span class="glyphicon glyphicon-facetime-video"&gt;&lt;/span&gt;0315單連桿-OnShape&lt;/button&gt; &lt;button onClick="lity('https://vimeo.com/212771293')"&gt;&lt;span class="glyphicon glyphicon-facetime-video"&gt;&lt;/span&gt;0315單連桿-SolveSpace&lt;/button&gt; &lt;button onClick="lity('https://vimeo.com/212847283')"&gt;&lt;span class="glyphicon glyphicon-facetime-video"&gt;&lt;/span&gt;20170322 單連桿vrep作動&lt;/button&gt; &lt;button onClick="lity('https://vimeo.com/212855650')"&gt;&lt;span class="glyphicon glyphicon-facetime-video"&gt;&lt;/span&gt;0322 fourlink part1&lt;/button&gt; &lt;button onClick="lity('https://vimeo.com/212855920')"&gt;&lt;span class="glyphicon glyphicon-facetime-video"&gt;&lt;/span&gt;20170322 fourlink part2&lt;/button&gt; &lt;button onClick="lity('https://vimeo.com/212777111')"&gt;&lt;span class="glyphicon glyphicon-facetime-video"&gt;&lt;/span&gt;20170329四連桿&lt;/button&gt; &lt;button onClick="lity('https://vimeo.com/212793254')"&gt;&lt;span class="glyphicon glyphicon-facetime-video"&gt;&lt;/span&gt;20170405 八連桿零件part1&lt;/button&gt; &lt;button onClick="lity('https://vimeo.com/212793288')"&gt;&lt;span class="glyphicon glyphicon-facetime-video"&gt;&lt;/span&gt;20170405 八連桿零件part2&lt;/button&gt; &lt;button onClick="lity('https://vimeo.com/212797143')"&gt;&lt;span class="glyphicon glyphicon-facetime-video"&gt;&lt;/span&gt;20170405 八連桿組裝part1&lt;/button&gt; &lt;button onClick="lity('https://vimeo.com/212802593')"&gt;&lt;span class="glyphicon glyphicon-facetime-video"&gt;&lt;/span&gt;20170405 八連桿組裝part2&lt;/button&gt; 
+</t>
 <t tx="yen.20170108171605.1"></t>
 <t tx="yen.20170108171605.2">QTreeWidget {
     /* These apply to the selected item, but not to editing items.*/
