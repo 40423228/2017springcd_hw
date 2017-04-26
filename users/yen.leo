@@ -400,7 +400,7 @@
 <v t="leo.20170412011034.2"><vh>第七週影片</vh></v>
 </v>
 </v>
-<v t="leo.20170425221953.1" a="E"><vh>20170412W8</vh>
+<v t="leo.20170425221953.1"><vh>20170412W8</vh>
 <v t="leo.20170425221953.2"><vh>上課內容</vh>
 <v t="leo.20170425221953.3"><vh>上課大綱</vh></v>
 </v>
@@ -425,12 +425,12 @@
 <v t="leo.20170425222131.1"><vh>一-7</vh>
 <v t="leo.20170425222131.2"><vh>連結</vh></v>
 </v>
-<v t="leo.20170427000305.1" a="E"><vh>(1)影片</vh>
+<v t="leo.20170427000305.1"><vh>(1)影片</vh>
 <v t="leo.20170427000305.2"><vh>影片</vh></v>
 </v>
 </v>
-<v t="leo.20170419104809.1"><vh>20170419W9</vh>
-<v t="leo.20170419104809.2"><vh>上課內容</vh>
+<v t="leo.20170419104809.1" a="E"><vh>20170419W9</vh>
+<v t="leo.20170419104809.2" a="E"><vh>上課內容</vh>
 <v t="leo.20170419104809.3"><vh>上課大綱</vh></v>
 </v>
 <v t="leo.20170419104809.4"><vh>一-1</vh>
@@ -458,13 +458,30 @@
 <v t="leo.20170419104809.21"><vh>圖片</vh></v>
 </v>
 <v t="leo.20170419104809.22"><vh>(1)影片</vh>
-<v t="leo.20170419104809.23"><vh>第八週影片</vh></v>
+<v t="leo.20170419104809.23"><vh>第九週影片</vh></v>
 </v>
 <v t="leo.20170419104809.24"><vh>(2)影片</vh>
-<v t="leo.20170419104809.25"><vh>第八週影片</vh></v>
+<v t="leo.20170419104809.25"><vh>第九週影片</vh></v>
 </v>
 <v t="leo.20170419105037.1"><vh>(3)影片</vh>
-<v t="leo.20170419105037.2"><vh>第八週影片</vh></v>
+<v t="leo.20170419105037.2"><vh>第九週影片</vh></v>
+</v>
+</v>
+<v t="leo.20170427000454.1"><vh>20170426W10</vh>
+<v t="leo.20170427000454.2"><vh>上課內容</vh>
+<v t="leo.20170427000454.3"><vh>上課大綱</vh></v>
+</v>
+<v t="leo.20170427000454.4"><vh>一-1</vh>
+<v t="leo.20170427000454.5"><vh>標題</vh></v>
+</v>
+<v t="leo.20170427000454.6"><vh>一-2</vh>
+<v t="leo.20170427000454.7"><vh>內容</vh></v>
+</v>
+<v t="leo.20170427000530.1"><vh>一-3</vh>
+<v t="leo.20170427000530.2"><vh>圖片</vh></v>
+</v>
+<v t="leo.20170427000454.20"><vh>(1)影片</vh>
+<v t="leo.20170427000454.21"><vh>第十週影片</vh></v>
 </v>
 </v>
 </v>
@@ -2431,7 +2448,7 @@ fossil add .
 &lt;iframe src="https://player.vimeo.com/video/213781004" width="500" height="400" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 &lt;p&gt;&lt;a href="https://vimeo.com/213781004"&gt;40423228機械設計-協同產品設計課程W9-mission3&lt;/a&gt; from &lt;a href="https://vimeo.com/user47600730"&gt;40423228&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
 </t>
-<t tx="leo.20170419104809.3">##期中協同查驗與自評
+<t tx="leo.20170419104809.3">##第九週期中協同查驗與自評
 
 ####一.Fossil Server 實習查驗
 
@@ -2707,6 +2724,77 @@ fossil add .
 
 #&lt;button onClick="lity('https://vimeo.com/206084321')"&gt;&lt;span class="glyphicon glyphicon-facetime-video"&gt;&lt;/span&gt;stunnel設定&lt;/button&gt;&lt;button onClick="lity('https://vimeo.com/208413780')"&gt;&lt;span class="glyphicon glyphicon-facetime-video"&gt;&lt;/span&gt;Solvespace 30-50-60 cm 比例的四連桿組立&lt;/button&gt;  &lt;button onClick="lity('https://vimeo.com/208415265')"&gt;&lt;span class="glyphicon glyphicon-facetime-video"&gt;&lt;/span&gt;Onshape 四連桿機構&lt;/button&gt; &lt;button onClick="lity('https://vimeo.com/208415790')"&gt;&lt;span class="glyphicon glyphicon-facetime-video"&gt;&lt;/span&gt;四連桿軌跡圖&lt;/button&gt; &lt;button onClick="lity('https://vimeo.com/212759861')"&gt;&lt;span class="glyphicon glyphicon-facetime-video"&gt;&lt;/span&gt;0315單連桿-OnShape&lt;/button&gt; &lt;button onClick="lity('https://vimeo.com/212771293')"&gt;&lt;span class="glyphicon glyphicon-facetime-video"&gt;&lt;/span&gt;0315單連桿-SolveSpace&lt;/button&gt; &lt;button onClick="lity('https://vimeo.com/212847283')"&gt;&lt;span class="glyphicon glyphicon-facetime-video"&gt;&lt;/span&gt;20170322 單連桿vrep作動&lt;/button&gt; &lt;button onClick="lity('https://vimeo.com/212855650')"&gt;&lt;span class="glyphicon glyphicon-facetime-video"&gt;&lt;/span&gt;0322 fourlink part1&lt;/button&gt; &lt;button onClick="lity('https://vimeo.com/212855920')"&gt;&lt;span class="glyphicon glyphicon-facetime-video"&gt;&lt;/span&gt;20170322 fourlink part2&lt;/button&gt; &lt;button onClick="lity('https://vimeo.com/212777111')"&gt;&lt;span class="glyphicon glyphicon-facetime-video"&gt;&lt;/span&gt;20170329四連桿&lt;/button&gt; &lt;button onClick="lity('https://vimeo.com/212793254')"&gt;&lt;span class="glyphicon glyphicon-facetime-video"&gt;&lt;/span&gt;20170405 八連桿零件part1&lt;/button&gt; &lt;button onClick="lity('https://vimeo.com/212793288')"&gt;&lt;span class="glyphicon glyphicon-facetime-video"&gt;&lt;/span&gt;20170405 八連桿零件part2&lt;/button&gt; &lt;button onClick="lity('https://vimeo.com/212797143')"&gt;&lt;span class="glyphicon glyphicon-facetime-video"&gt;&lt;/span&gt;20170405 八連桿組裝part1&lt;/button&gt; &lt;button onClick="lity('https://vimeo.com/212802593')"&gt;&lt;span class="glyphicon glyphicon-facetime-video"&gt;&lt;/span&gt;20170405 八連桿組裝part2&lt;/button&gt; 
 </t>
+<t tx="leo.20170427000454.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+</t>
+<t tx="leo.20170427000454.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170427000454.20">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20170427000454.21">###Fourbar Walker Vrep
+
+&lt;iframe src="https://player.vimeo.com/video/214781219" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href="https://vimeo.com/214781219"&gt;Fourbar Walker Vrep&lt;/a&gt; from &lt;a href="https://vimeo.com/user47600730"&gt;40423228&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;</t>
+<t tx="leo.20170427000454.3">##第十周
+
+####一.Fourbar Walker Vrep</t>
+<t tx="leo.20170427000454.4">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170427000454.5">####一.Fourbar Walker Vrep</t>
+<t tx="leo.20170427000454.6">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170427000454.7">A零件固定經由轉動軸joint使B旋轉，B經由joint0、joint3帶動C、E，再分別以joint2、joint4帶動D、F，最後經由joint3、joint5連回A。
+
+並用Dummy放再最後拘束其運動，Dummy連接Dummy0，Dummy1連接Dummy2
+
+另一側作法亦同</t>
+<t tx="leo.20170427000530.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170427000530.2">&lt;img src="data/w10/0426Fourbar Walker Vrep.jpg" width="800" /&gt;</t>
 <t tx="yen.20170108171605.1"></t>
 <t tx="yen.20170108171605.2">QTreeWidget {
     /* These apply to the selected item, but not to editing items.*/
