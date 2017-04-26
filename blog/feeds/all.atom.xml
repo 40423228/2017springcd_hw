@@ -149,6 +149,7 @@ ctx.closePath()
 &lt;p&gt;&lt;button onClick="lity('https://vimeo.com/212802593')"&gt;&lt;span class="glyphicon glyphicon-facetime-video"&gt;&lt;/span&gt;20170405 八連桿組裝part2&lt;/button&gt; &lt;/p&gt;</summary><category term="w8上課內容"></category></entry><entry><title>2017/04/05 W7</title><link href="./W7.html" rel="alternate"></link><published>2017-04-05T11:00:00+08:00</published><updated>2017-04-05T11:00:00+08:00</updated><author><name>40423228</name></author><id>tag:,2017-04-05:./W7.html</id><summary type="html">&lt;h3&gt;20170405W7上課內容&lt;/h3&gt;
 &lt;p&gt;一.利用fossil對倉儲進行管理&lt;/p&gt;
 &lt;p&gt;二.利用Onshape繪製八連桿&lt;/p&gt;
+&lt;p&gt;三.利用Vrep使八連桿作動&lt;/p&gt;
 
 
 &lt;h2&gt;&lt;span style="background-color: #00ff37"&gt;一.&lt;/span&gt;利用fossil對倉儲進行管理&lt;/h2&gt;
@@ -165,6 +166,8 @@ fossil clone uri foo.fossil&lt;/p&gt;
 &lt;a href="http://imgur.com/RYnVFSd"&gt;&lt;img src="http://i.imgur.com/RYnVFSd.jpg" title="source: imgur.com" /&gt;&lt;/a&gt;
 &lt;a href="http://imgur.com/sZ46yqv"&gt;&lt;img src="http://i.imgur.com/sZ46yqv.jpg" title="source: imgur.com" /&gt;&lt;/a&gt;
 &lt;a href="http://imgur.com/hb3p9Jp"&gt;&lt;img src="http://i.imgur.com/hb3p9Jp.gif" title="source: imgur.com" /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;&lt;span style="background-color: #00ff37"&gt;三.&lt;/span&gt;利用Vrep使八連桿作動&lt;/h2&gt;
+&lt;p&gt;&lt;img src="./../data/W7/Vrep.png" width="800" /&gt;&lt;/p&gt;
 &lt;p&gt;影片:&lt;/p&gt;
 &lt;h1&gt;(1).零件&lt;/h1&gt;
 &lt;iframe src="https://player.vimeo.com/video/212793254" width="640" height="359" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
@@ -184,7 +187,12 @@ fossil clone uri foo.fossil&lt;/p&gt;
 &lt;h1&gt;(4).組合&lt;/h1&gt;
 &lt;iframe src="https://player.vimeo.com/video/212802593" width="640" height="359" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 
-&lt;p&gt;&lt;a href="https://vimeo.com/212802593"&gt;20170405 part4&lt;/a&gt; from &lt;a href="https://vimeo.com/user47600730"&gt;40423228&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;</summary><category term="w7上課內容"></category></entry><entry><title>2017/03/29 W6</title><link href="./W6.html" rel="alternate"></link><published>2017-03-29T11:00:00+08:00</published><updated>2017-03-29T11:00:00+08:00</updated><author><name>40423228</name></author><id>tag:,2017-03-29:./W6.html</id><summary type="html">&lt;h3&gt;20170329W6上課內容&lt;/h3&gt;
+&lt;p&gt;&lt;a href="https://vimeo.com/212802593"&gt;20170405 part4&lt;/a&gt; from &lt;a href="https://vimeo.com/user47600730"&gt;40423228&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h1&gt;Vrep&lt;/h1&gt;
+&lt;iframe src="https://player.vimeo.com/video/214865492" width="640" height="359" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;a href="https://vimeo.com/214865492"&gt;八連桿Vrep&lt;/a&gt; from &lt;a href="https://vimeo.com/user47600730"&gt;40423228&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;</summary><category term="w7上課內容"></category></entry><entry><title>2017/03/29 W6</title><link href="./W6.html" rel="alternate"></link><published>2017-03-29T11:00:00+08:00</published><updated>2017-03-29T11:00:00+08:00</updated><author><name>40423228</name></author><id>tag:,2017-03-29:./W6.html</id><summary type="html">&lt;h3&gt;20170329W6上課內容&lt;/h3&gt;
 &lt;p&gt;一.利用Onshape的變數指令繪製四連桿並匯入V-rep&lt;/p&gt;
 
 
