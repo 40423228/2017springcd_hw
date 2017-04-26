@@ -429,8 +429,8 @@
 <v t="leo.20170427000305.2"><vh>影片</vh></v>
 </v>
 </v>
-<v t="leo.20170419104809.1" a="E"><vh>20170419W9</vh>
-<v t="leo.20170419104809.2" a="E"><vh>上課內容</vh>
+<v t="leo.20170419104809.1"><vh>20170419W9</vh>
+<v t="leo.20170419104809.2"><vh>上課內容</vh>
 <v t="leo.20170419104809.3"><vh>上課大綱</vh></v>
 </v>
 <v t="leo.20170419104809.4"><vh>一-1</vh>
@@ -467,14 +467,14 @@
 <v t="leo.20170419105037.2"><vh>第九週影片</vh></v>
 </v>
 </v>
-<v t="leo.20170427000454.1"><vh>20170426W10</vh>
+<v t="leo.20170427000454.1" a="E"><vh>20170426W10</vh>
 <v t="leo.20170427000454.2"><vh>上課內容</vh>
 <v t="leo.20170427000454.3"><vh>上課大綱</vh></v>
 </v>
 <v t="leo.20170427000454.4"><vh>一-1</vh>
 <v t="leo.20170427000454.5"><vh>標題</vh></v>
 </v>
-<v t="leo.20170427000454.6"><vh>一-2</vh>
+<v t="leo.20170427000454.6" a="E"><vh>一-2</vh>
 <v t="leo.20170427000454.7"><vh>內容</vh></v>
 </v>
 <v t="leo.20170427000530.1"><vh>一-3</vh>
@@ -1890,7 +1890,8 @@ fossil add .
 <t tx="leo.20170412011034.2">###將八連桿匯入V-rep並使其作動
 
 &lt;iframe src="https://player.vimeo.com/video/214865492" width="640" height="359" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
-&lt;p&gt;&lt;a href="https://vimeo.com/214865492"&gt;八連桿Vrep&lt;/a&gt; from &lt;a href="https://vimeo.com/user47600730"&gt;40423228&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;</t>
+&lt;p&gt;&lt;a href="https://vimeo.com/214865492"&gt;八連桿Vrep&lt;/a&gt; from &lt;a href="https://vimeo.com/user47600730"&gt;40423228&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
+</t>
 <t tx="leo.20170412011739.1">&lt;section&gt;
 @others
 &lt;/section&gt;
@@ -2696,7 +2697,8 @@ fossil add .
 
 						
 </t>
-<t tx="leo.20170426235828.2">####三.將八連桿匯入V-rep並使其作動</t>
+<t tx="leo.20170426235828.2">####三.將八連桿匯入V-rep並使其作動
+</t>
 <t tx="leo.20170426235837.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
@@ -2708,7 +2710,8 @@ fossil add .
 
 						
 </t>
-<t tx="leo.20170426235837.2">&lt;img src="data/W7/Vrep.png" width="800" /&gt;</t>
+<t tx="leo.20170426235837.2">&lt;img src="data/W7/Vrep.png" width="800" /&gt;
+</t>
 <t tx="leo.20170427000305.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
@@ -2751,10 +2754,12 @@ fossil add .
 <t tx="leo.20170427000454.21">###Fourbar Walker Vrep
 
 &lt;iframe src="https://player.vimeo.com/video/214781219" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
-&lt;p&gt;&lt;a href="https://vimeo.com/214781219"&gt;Fourbar Walker Vrep&lt;/a&gt; from &lt;a href="https://vimeo.com/user47600730"&gt;40423228&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;</t>
+&lt;p&gt;&lt;a href="https://vimeo.com/214781219"&gt;Fourbar Walker Vrep&lt;/a&gt; from &lt;a href="https://vimeo.com/user47600730"&gt;40423228&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
+</t>
 <t tx="leo.20170427000454.3">##第十周
 
-####一.Fourbar Walker Vrep</t>
+####一.Fourbar Walker Vrep
+</t>
 <t tx="leo.20170427000454.4">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
@@ -2766,7 +2771,8 @@ fossil add .
 
 						
 </t>
-<t tx="leo.20170427000454.5">####一.Fourbar Walker Vrep</t>
+<t tx="leo.20170427000454.5">####一.Fourbar Walker Vrep
+</t>
 <t tx="leo.20170427000454.6">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
@@ -2778,11 +2784,11 @@ fossil add .
 
 						
 </t>
-<t tx="leo.20170427000454.7">A零件固定經由轉動軸joint使B旋轉，B經由joint0、joint3帶動C、E，再分別以joint2、joint4帶動D、F，最後經由joint3、joint5連回A。
-
+<t tx="leo.20170427000454.7">A零件固定經由轉動軸joint使B旋轉，B經由joint0
+、joint3帶動C、E，再分別以joint2、joint4帶動D、F，最後經由joint3、joint5連回A。
 並用Dummy放再最後拘束其運動，Dummy連接Dummy0，Dummy1連接Dummy2
-
-另一側作法亦同</t>
+另一側作法亦同
+</t>
 <t tx="leo.20170427000530.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
@@ -2794,7 +2800,8 @@ fossil add .
 
 						
 </t>
-<t tx="leo.20170427000530.2">&lt;img src="data/w10/0426Fourbar Walker Vrep.jpg" width="800" /&gt;</t>
+<t tx="leo.20170427000530.2">&lt;img src="data/w10/0426Fourbar Walker Vrep.jpg" width="800" /&gt;
+</t>
 <t tx="yen.20170108171605.1"></t>
 <t tx="yen.20170108171605.2">QTreeWidget {
     /* These apply to the selected item, but not to editing items.*/
