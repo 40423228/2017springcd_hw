@@ -32,8 +32,8 @@
 <v t="yen.20170120110024.3"><vh>head</vh></v>
 <v t="yen.20170120110024.4" a="E"><vh>body</vh>
 <v t="yen.20170120110024.5" a="E"><vh>reveal div</vh>
-<v t="yen.20170120110024.6" a="E"><vh>slides div</vh>
-<v t="yen.20170120110024.7" a="E"><vh>封面投影片</vh>
+<v t="yen.20170120110024.6"><vh>slides div</vh>
+<v t="yen.20170120110024.7"><vh>封面投影片</vh>
 <v t="yen.20170120110024.8"><vh>封面投影片內容</vh></v>
 </v>
 <v t="leo.20170317163035.1"><vh>投影片快捷鍵</vh>
@@ -501,7 +501,8 @@
 <v t="leo.20170412010459.1"><vh>@edit 0405W7.md</vh></v>
 <v t="leo.20170425195100.1"><vh>@edit 0412W8.md</vh></v>
 <v t="leo.20170419091646.1"><vh>@edit 0419W9.md</vh></v>
-<v t="leo.20170426214555.1"><vh>@edit 0426W10.md</vh></v>
+<v t="leo.20170510091513.1"><vh>@edit 0426W10.md</vh></v>
+<v t="leo.20170426214555.1"><vh>@edit 0510W12.md</vh></v>
 </v>
 <v t="yen.20170108171733.81"><vh>@path pages</vh>
 <v t="yen.20170108171733.82"><vh>@edit pages_1.md</vh></v>
