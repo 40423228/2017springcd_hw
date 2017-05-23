@@ -1,7 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom"><title>2017Spring 協同產品設計實習 (虎尾科大MDE)</title><link href="./" rel="alternate"></link><link href="./feeds/course.atom.xml" rel="self"></link><id>./</id><updated>2017-05-17T11:00:00+08:00</updated><entry><title>2017/05/17 W13</title><link href="./W13.html" rel="alternate"></link><published>2017-05-17T11:00:00+08:00</published><updated>2017-05-17T11:00:00+08:00</updated><author><name>40423228</name></author><id>tag:,2017-05-17:./W13.html</id><summary type="html">&lt;h3&gt;20170517W13&lt;/h3&gt;
 </summary><category term="w13上課內容"></category></entry><entry><title>2017/05/10 W12</title><link href="./W12.html" rel="alternate"></link><published>2017-05-10T11:00:00+08:00</published><updated>2017-05-10T11:00:00+08:00</updated><author><name>40423228</name></author><id>tag:,2017-05-10:./W12.html</id><summary type="html">&lt;h3&gt;20170510W12&lt;/h3&gt;
-</summary><category term="w12上課內容"></category></entry><entry><title>2017/05/03 W11</title><link href="./W11.html" rel="alternate"></link><published>2017-05-03T11:00:00+08:00</published><updated>2017-05-03T11:00:00+08:00</updated><author><name>40423228</name></author><id>tag:,2017-05-03:./W11.html</id><summary type="html">&lt;h3&gt;20170503W11&lt;/h3&gt;
+&lt;p&gt;漸開線齒輪繪製&lt;/p&gt;
+
+
+&lt;p&gt;設定變數&lt;/p&gt;
+&lt;p&gt;m=模數；t=齒數；a=壓力角&lt;/p&gt;
+&lt;p&gt;&lt;img src="./../data/W12/variable.jpg" width="800" /&gt;&lt;/p&gt;
+&lt;p&gt;繪製節圓、齒頂圓、齒根圓、基圓&lt;/p&gt;
+&lt;p&gt;&lt;img src="./../data/W12/picture.jpg" width="800" /&gt;
+&lt;img src="./../data/W12/step1.png" width="800" /&gt;&lt;/p&gt;
+&lt;p&gt;最後繪製完成&lt;/p&gt;
+&lt;p&gt;&lt;img src="./../data/W12/finish.png" width="800" /&gt;&lt;/p&gt;
+&lt;p&gt;將齒環狀排列完成齒輪&lt;/p&gt;
+&lt;p&gt;&lt;img src="./../data/W12/finish2.png" width="800" /&gt;&lt;/p&gt;
+&lt;h1&gt;尺寸:&lt;/h1&gt;
+&lt;p&gt;節圓 = MT&lt;/p&gt;
+&lt;p&gt;齒頂圓 = 節圓往外偏移M&lt;/p&gt;
+&lt;p&gt;齒底圓 = 節圓往內偏移M&lt;/p&gt;
+&lt;p&gt;基圓 = MTcos(a)&lt;/p&gt;
+&lt;p&gt;影片:&lt;/p&gt;
+&lt;iframe src="https://player.vimeo.com/video/218664256" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;a href="https://vimeo.com/218664256"&gt;漸開線齒輪T17&lt;/a&gt; from &lt;a href="https://vimeo.com/user47600730"&gt;40423228&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;</summary><category term="w12上課內容"></category></entry><entry><title>2017/05/03 W11</title><link href="./W11.html" rel="alternate"></link><published>2017-05-03T11:00:00+08:00</published><updated>2017-05-03T11:00:00+08:00</updated><author><name>40423228</name></author><id>tag:,2017-05-03:./W11.html</id><summary type="html">&lt;h3&gt;20170503W11&lt;/h3&gt;
 &lt;p&gt;利用漸開線原理, 以 Brython 繪製單一正齒輪廓&lt;/p&gt;
 
 
