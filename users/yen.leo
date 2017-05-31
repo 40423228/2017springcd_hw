@@ -9,7 +9,7 @@
 <preferences/>
 <find_panel_settings/>
 <vnodes>
-<v t="yen.20170108171605.1" a="E"><vh>@settings</vh>
+<v t="yen.20170108171605.1"><vh>@settings</vh>
 <v t="yen.20170108171605.2"><vh>@data qt-gui-plugin-style-sheet</vh></v>
 <v t="yen.20170108171605.3"><vh>@string initial_split_orientation = horizontal</vh></v>
 </v>
@@ -27,11 +27,11 @@
 <v t="yen.20170215103332.1"><vh>@edit base.html</vh></v>
 </v>
 </v>
-<v t="yen.20170120110024.1" a="E"><vh>@clean index.html</vh>
+<v t="yen.20170120110024.1"><vh>@clean index.html</vh>
 <v t="yen.20170120110024.2"><vh>html</vh>
 <v t="yen.20170120110024.3"><vh>head</vh></v>
-<v t="yen.20170120110024.4" a="E"><vh>body</vh>
-<v t="yen.20170120110024.5" a="E"><vh>reveal div</vh>
+<v t="yen.20170120110024.4"><vh>body</vh>
+<v t="yen.20170120110024.5"><vh>reveal div</vh>
 <v t="yen.20170120110024.6"><vh>slides div</vh>
 <v t="yen.20170120110024.7"><vh>封面投影片</vh>
 <v t="yen.20170120110024.8"><vh>封面投影片內容</vh></v>
@@ -238,7 +238,7 @@
 <v t="leo.20170412001018.2"><vh>第四週影片</vh></v>
 </v>
 </v>
-<v t="leo.20170412011739.1" a="E"><vh>20170322W5</vh>
+<v t="leo.20170412011739.1"><vh>20170322W5</vh>
 <v t="leo.20170412011739.2"><vh>上課內容</vh>
 <v t="leo.20170412011739.3"><vh>上課大綱</vh></v>
 </v>
@@ -343,7 +343,7 @@
 <v t="leo.20170412004146.1"><vh>一-8</vh>
 <v t="leo.20170412004146.2"><vh>圖片</vh></v>
 </v>
-<v t="leo.20170412004018.16" a="E"><vh>(1)影片</vh>
+<v t="leo.20170412004018.16"><vh>(1)影片</vh>
 <v t="leo.20170412004018.17"><vh>第六週影片</vh></v>
 </v>
 </v>
@@ -381,7 +381,7 @@
 <v t="leo.20170426235828.1"><vh>三-1</vh>
 <v t="leo.20170426235828.2"><vh>標題</vh></v>
 </v>
-<v t="leo.20170426235837.1" a="E"><vh>三-2</vh>
+<v t="leo.20170426235837.1"><vh>三-2</vh>
 <v t="leo.20170426235837.2"><vh>圖片</vh></v>
 </v>
 <v t="leo.20170412010724.20"><vh>(1)影片</vh>
