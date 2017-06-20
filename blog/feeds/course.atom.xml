@@ -85,7 +85,11 @@ ctx.closePath()
 git submodule -b master https://github.com/scrum-1/cdbw17 subw17
 &lt;/pre&gt;
 
-&lt;p&gt;&lt;img src="./../data/W17/w17_2.png" width="800" /&gt;&lt;/p&gt;</summary><category term="w17上課內容"></category></entry><entry><title>20170531w15練習</title><link href="./W15.html" rel="alternate"></link><published>2017-05-31T11:00:00+08:00</published><updated>2017-05-31T11:00:00+08:00</updated><author><name>40423228</name></author><id>tag:,2017-05-31:./W15.html</id><summary type="html">&lt;h3&gt;20170531W15&lt;/h3&gt;
+&lt;p&gt;&lt;img src="./../data/W17/w17_2.png" width="800" /&gt;&lt;/p&gt;
+&lt;h2&gt;&lt;span style="background-color: #00ff37"&gt;四、五&lt;/span&gt; Solvespace 近端零組件繪圖，轉入 V-rep。&lt;/h2&gt;
+&lt;iframe src="https://player.vimeo.com/video/222381333" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;a href="https://vimeo.com/222381333"&gt;Untitled&lt;/a&gt; from &lt;a href="https://vimeo.com/user47600730"&gt;40423228&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;</summary><category term="w17上課內容"></category></entry><entry><title>20170531w15練習</title><link href="./W15.html" rel="alternate"></link><published>2017-05-31T11:00:00+08:00</published><updated>2017-05-31T11:00:00+08:00</updated><author><name>40423228</name></author><id>tag:,2017-05-31:./W15.html</id><summary type="html">&lt;h3&gt;20170531W15&lt;/h3&gt;
 
 
 &lt;h2&gt;&lt;span style="background-color: #00ff37"&gt;一.&lt;/span&gt; 800x600 為畫布大小, 在畫布正中央畫一個半徑為 250 畫素, 壓力角 20, 齒數為 36 齒的漸開線正齒輪輪廓,並在正齒輪中央寫上自己的學號。&lt;/h2&gt;
