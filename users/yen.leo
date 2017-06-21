@@ -509,26 +509,34 @@
 <v t="leo.20170621083036.7"><vh>第十二週影片</vh></v>
 </v>
 </v>
-<v t="leo.20170621083810.1"><vh>20170517W13</vh>
+<v t="leo.20170621083810.1" a="E"><vh>20170517W13</vh>
 <v t="leo.20170621083810.2"><vh>上課內容</vh>
 <v t="leo.20170621083810.3"><vh>上課大綱</vh></v>
 </v>
-<v t="leo.20170621083810.4"><vh>一-1</vh>
+<v t="leo.20170621083810.4" a="E"><vh>一-1</vh>
 <v t="leo.20170621083810.5"><vh>內容</vh></v>
 </v>
 </v>
-<v t="leo.20170621084234.1" a="E"><vh>20170531W15</vh>
-<v t="leo.20170621084234.2" a="E"><vh>上課內容</vh>
+<v t="leo.20170621084234.1"><vh>20170531W15</vh>
+<v t="leo.20170621084234.2"><vh>上課內容</vh>
 <v t="leo.20170621084234.3"><vh>上課大綱</vh></v>
 </v>
-<v t="leo.20170621084234.4" a="E"><vh>一-1</vh>
+<v t="leo.20170621084234.4"><vh>一-1</vh>
 <v t="leo.20170621084234.5"><vh>內容</vh></v>
 </v>
-<v t="leo.20170621085203.1" a="E"><vh>二-1</vh>
+<v t="leo.20170621085203.1"><vh>二-1</vh>
 <v t="leo.20170621085203.2"><vh>內容</vh></v>
 </v>
-<v t="leo.20170621085204.1" a="E"><vh>三-1</vh>
+<v t="leo.20170621085204.1"><vh>三-1</vh>
 <v t="leo.20170621085204.2"><vh>內容</vh></v>
+</v>
+</v>
+<v t="leo.20170621085451.1"><vh>20170614W17</vh>
+<v t="leo.20170621085451.2"><vh>上課內容</vh>
+<v t="leo.20170621085451.3"><vh>上課大綱</vh></v>
+</v>
+<v t="leo.20170621085451.4"><vh>一-1</vh>
+<v t="leo.20170621085451.5"><vh>內容</vh></v>
 </v>
 </v>
 </v>
@@ -2995,7 +3003,7 @@ fossil add .
 
 						
 </t>
-<t tx="leo.20170621083810.5">https://40423228.github.io/2017springcd_hw/blog/W13.html</t>
+<t tx="leo.20170621083810.5">####取自:&lt;a href="https://40423228.github.io/2017springcd_hw/blog/W13.html"&gt;W13網誌&lt;/a&gt;</t>
 <t tx="leo.20170621084234.1">&lt;section&gt;
 @others
 &lt;/section&gt;
@@ -3066,6 +3074,42 @@ fossil add .
 &lt;img src="data/w15/w15_3.png" width="600" /&gt;
 
 ####取自:&lt;a href="https://40423222.github.io/2017springcd_bg7/blog/15W-Code%20gear.html"&gt;BG7網誌&lt;/a&gt;</t>
+<t tx="leo.20170621085451.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+</t>
+<t tx="leo.20170621085451.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170621085451.3">##第十七周
+
+####一.繪製一零件轉成html放入網誌
+
+####二.各組員網誌上的 2D 繪圖, 並將程式碼顯示在繪圖網誌文章中 
+
+####三.把https://github.com/scrum-1/cdbw17這個倉儲設為subw17子目錄
+
+####四、五.Solvespace 近端零組件繪圖，轉入 V-rep。</t>
+<t tx="leo.20170621085451.4">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170621085451.5">####取自:&lt;a href="https://40423228.github.io/2017springcd_hw/blog/W15.html"&gt;W15網誌&lt;/a&gt;</t>
 <t tx="yen.20170108171605.1"></t>
 <t tx="yen.20170108171605.2">QTreeWidget {
     /* These apply to the selected item, but not to editing items.*/
