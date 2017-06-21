@@ -1,5 +1,33 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>2017Spring 協同產品設計實習 (虎尾科大MDE)</title><link href="./" rel="alternate"></link><link href="./feeds/all.atom.xml" rel="self"></link><id>./</id><updated>2017-06-14T11:00:00+08:00</updated><entry><title>20170614w17練習</title><link href="./W17.html" rel="alternate"></link><published>2017-06-14T11:00:00+08:00</published><updated>2017-06-14T11:00:00+08:00</updated><author><name>40423228</name></author><id>tag:,2017-06-14:./W17.html</id><summary type="html">&lt;h3&gt;20170614W17&lt;/h3&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>2017Spring 協同產品設計實習 (虎尾科大MDE)</title><link href="./" rel="alternate"></link><link href="./feeds/all.atom.xml" rel="self"></link><id>./</id><updated>2017-06-21T11:00:00+08:00</updated><entry><title>20170621w18練習</title><link href="./W18.html" rel="alternate"></link><published>2017-06-21T11:00:00+08:00</published><updated>2017-06-21T11:00:00+08:00</updated><author><name>40423228</name></author><id>tag:,2017-06-21:./W18.html</id><summary type="html">&lt;h3&gt;20170621W18&lt;/h3&gt;
+&lt;p&gt;期末各週連結&lt;/p&gt;
+
+
+&lt;h2&gt;&lt;a href="https://40423228.github.io/2017springcd_hw/blog/W11.html"&gt;第十一周連結&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;一.利用漸開線原理, 以 Brython 繪製單一正齒輪廓&lt;/p&gt;
+&lt;h2&gt;&lt;a href="https://40423228.github.io/2017springcd_hw/blog/W12.html"&gt;第十二周連結&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;一.漸開線齒輪繪製&lt;/p&gt;
+&lt;h2&gt;&lt;a href="https://40423228.github.io/2017springcd_hw/blog/W13.html"&gt;第十三周連結&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;一.行走機構&lt;/p&gt;
+&lt;h2&gt;&lt;a href="https://40423228.github.io/2017springcd_hw/blog/W15.html"&gt;第十五周連結&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;一.在畫布正中央畫一個漸開線正齒輪輪廓,並在正齒輪中央寫上自己的學號。
+二.畫出只有上半齒形的漸開線正齒輪輪廓 
+三.嚙合齒輪
+四.在 Onshape 完成相同齒輪組的囓合協同繪圖&lt;/p&gt;
+&lt;h2&gt;&lt;a href="https://40423228.github.io/2017springcd_hw/blog/W16.html"&gt;第十六周連結&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;一.聽學長的專題報告，個人報告延後。&lt;/p&gt;
+&lt;h2&gt;&lt;a href="https://40423228.github.io/2017springcd_hw/blog/W17.html"&gt;第十七周連結&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;一.繪製一零件轉成html放入網誌
+二.各組員網誌上的 2D 繪圖, 並將程式碼顯示在繪圖網誌文章中
+三.把https://github.com/scrum-1/cdbw17這個倉儲設為subw17子目錄
+四、五. Solvespace 近端零組件繪圖，轉入 V-rep。&lt;/p&gt;
+&lt;p&gt;Onshape:&lt;/p&gt;
+&lt;h4&gt;&lt;a href=https://cad.onshape.com/documents/315a22f25f6418d4ff33e501/w/017b7fe17eafd6941a8006b3/e/fb1a344628b2e527d42bb815"&gt;漸開線齒輪&lt;/a&gt;&lt;/h4&gt;
+&lt;h4&gt;&lt;a href="https://cad.onshape.com/documents/cf507b96e7c271e8c87cf557/w/1b52e29c6835a06bb0bc5287/e/be08f4e14664ee2e0e4f9d3e"&gt;BG7行走機構&lt;/a&gt;&lt;/h4&gt;
+&lt;p&gt;影片:&lt;/p&gt;
+&lt;p&gt;&lt;button onClick="lity('https://vimeo.com/218664256')"&gt;&lt;span class="glyphicon glyphicon-facetime-video"&gt;&lt;/span&gt;漸開線齒輪&lt;/button&gt; &lt;/p&gt;
+&lt;p&gt;&lt;button onClick="lity('https://vimeo.com/220459109')"&gt;&lt;span class="glyphicon glyphicon-facetime-video"&gt;&lt;/span&gt;齒輪嚙合&lt;/button&gt; &lt;/p&gt;
+&lt;p&gt;&lt;button onClick="lity('https://vimeo.com/222381333')"&gt;&lt;span class="glyphicon glyphicon-facetime-video"&gt;&lt;/span&gt;W17&lt;/button&gt; &lt;/p&gt;</summary><category term="w18上課內容"></category></entry><entry><title>20170614w17練習</title><link href="./W17.html" rel="alternate"></link><published>2017-06-14T11:00:00+08:00</published><updated>2017-06-14T11:00:00+08:00</updated><author><name>40423228</name></author><id>tag:,2017-06-14:./W17.html</id><summary type="html">&lt;h3&gt;20170614W17&lt;/h3&gt;
 
 
 &lt;h2&gt;&lt;span style="background-color: #00ff37"&gt;一.&lt;/span&gt; 繪製一零件轉成html放入網誌&lt;/h2&gt;
