@@ -484,29 +484,37 @@
 <v t="leo.20170427000454.21"><vh>第十週影片</vh></v>
 </v>
 </v>
-<v t="leo.20170621082500.1"><vh>20170503W12</vh>
+<v t="leo.20170621082500.1"><vh>20170503W11</vh>
 <v t="leo.20170621082500.2"><vh>上課內容</vh>
 <v t="leo.20170621082500.3"><vh>上課大綱</vh></v>
 </v>
 <v t="leo.20170621082500.4"><vh>一-1</vh>
 <v t="leo.20170621082500.5"><vh>標題</vh></v>
 </v>
-<v t="leo.20170621082956.1" a="E"><vh>(1)影片</vh>
+<v t="leo.20170621082956.1"><vh>(1)影片</vh>
 <v t="leo.20170621082956.2"><vh>第十一週影片</vh></v>
 </v>
 </v>
-<v t="leo.20170621083036.1" a="E"><vh>20170510W13</vh>
+<v t="leo.20170621083036.1"><vh>20170510W12</vh>
 <v t="leo.20170621083036.2"><vh>上課內容</vh>
 <v t="leo.20170621083036.3"><vh>上課大綱</vh></v>
 </v>
-<v t="leo.20170621083036.4" a="E"><vh>一-1</vh>
+<v t="leo.20170621083036.4"><vh>一-1</vh>
 <v t="leo.20170621083036.5"><vh>內容</vh></v>
 </v>
-<v t="leo.20170621083126.1" a="E"><vh>一-1</vh>
+<v t="leo.20170621083126.1"><vh>一-1</vh>
 <v t="leo.20170621083126.2"><vh>內容</vh></v>
 </v>
-<v t="leo.20170621083036.6" a="E"><vh>(1)影片</vh>
+<v t="leo.20170621083036.6"><vh>(1)影片</vh>
 <v t="leo.20170621083036.7"><vh>第十二週影片</vh></v>
+</v>
+</v>
+<v t="leo.20170621083810.1" a="E"><vh>20170517W13</vh>
+<v t="leo.20170621083810.2" a="E"><vh>上課內容</vh>
+<v t="leo.20170621083810.3"><vh>上課大綱</vh></v>
+</v>
+<v t="leo.20170621083810.4" a="E"><vh>一-1</vh>
+<v t="leo.20170621083810.5"><vh>內容</vh></v>
 </v>
 </v>
 </v>
@@ -2844,7 +2852,7 @@ fossil add .
 
 						
 </t>
-<t tx="leo.20170621082500.3">##第十周
+<t tx="leo.20170621082500.3">##第十一周
 
 ####一.利用漸開線原理, 以 Brython 繪製單一正齒輪廓正齒輪傳動繪圖
 </t>
@@ -2890,7 +2898,7 @@ fossil add .
 
 						
 </t>
-<t tx="leo.20170621083036.3">##第十周
+<t tx="leo.20170621083036.3">##第十二周
 
 ####一.漸開線齒輪繪製
 </t>
@@ -2943,6 +2951,36 @@ fossil add .
 齒底圓 = 節圓往內偏移M
 
 基圓 = MTcos(a)</t>
+<t tx="leo.20170621083810.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+</t>
+<t tx="leo.20170621083810.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170621083810.3">##第十三周
+
+####一.齒輪輪廓繪製</t>
+<t tx="leo.20170621083810.4">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170621083810.5">https://40423228.github.io/2017springcd_hw/blog/W13.html</t>
 <t tx="yen.20170108171605.1"></t>
 <t tx="yen.20170108171605.2">QTreeWidget {
     /* These apply to the selected item, but not to editing items.*/
