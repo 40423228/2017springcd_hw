@@ -517,18 +517,18 @@
 <v t="leo.20170621083810.5"><vh>內容</vh></v>
 </v>
 </v>
-<v t="leo.20170621084234.1"><vh>20170510W12</vh>
-<v t="leo.20170621084234.2"><vh>上課內容</vh>
+<v t="leo.20170621084234.1" a="E"><vh>20170531W15</vh>
+<v t="leo.20170621084234.2" a="E"><vh>上課內容</vh>
 <v t="leo.20170621084234.3"><vh>上課大綱</vh></v>
 </v>
-<v t="leo.20170621084234.4"><vh>一-1</vh>
+<v t="leo.20170621084234.4" a="E"><vh>一-1</vh>
 <v t="leo.20170621084234.5"><vh>內容</vh></v>
 </v>
-<v t="leo.20170621084234.6"><vh>一-1</vh>
-<v t="leo.20170621084234.7"><vh>內容</vh></v>
+<v t="leo.20170621085203.1" a="E"><vh>二-1</vh>
+<v t="leo.20170621085203.2"><vh>內容</vh></v>
 </v>
-<v t="leo.20170621084234.8"><vh>(1)影片</vh>
-<v t="leo.20170621084234.9"><vh>第十二週影片</vh></v>
+<v t="leo.20170621085204.1" a="E"><vh>三-1</vh>
+<v t="leo.20170621085204.2"><vh>內容</vh></v>
 </v>
 </v>
 </v>
@@ -3011,10 +3011,15 @@ fossil add .
 
 						
 </t>
-<t tx="leo.20170621084234.3">##第十二周
+<t tx="leo.20170621084234.3">##第十五周
 
-####一.漸開線齒輪繪製
-</t>
+####一.在畫布正中央畫一個漸開線正齒輪輪廓,並在正齒輪中央寫上自己的學號。
+
+####二.畫出只有上半齒形的漸開線正齒輪輪廓 
+
+####三.嚙合齒輪
+
+####四.在 Onshape 完成相同齒輪組的囓合協同繪圖</t>
 <t tx="leo.20170621084234.4">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
@@ -3026,11 +3031,11 @@ fossil add .
 
 						
 </t>
-<t tx="leo.20170621084234.5">####一.設定變數
+<t tx="leo.20170621084234.5">####一.在畫布正中央畫一個漸開線正齒輪輪廓,並在正齒輪中央寫上自己的學號。
 
-&lt;img src="data/W12/variable.jpg" width="800" /&gt;
+&lt;img src="data/w15/w15_1.png" width="400" /&gt;
 </t>
-<t tx="leo.20170621084234.6">&lt;section data-markdown&gt;
+<t tx="leo.20170621085203.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
 @others
@@ -3041,29 +3046,26 @@ fossil add .
 
 						
 </t>
-<t tx="leo.20170621084234.7">####二.尺寸
+<t tx="leo.20170621085203.2">####一.畫出只有上半齒形的漸開線正齒輪輪廓 
 
-節圓 = MT
-
-齒頂圓 = 節圓往外偏移M
-
-齒底圓 = 節圓往內偏移M
-
-基圓 = MTcos(a)</t>
-<t tx="leo.20170621084234.8">&lt;section data-markdown&gt;
+&lt;img src="data/w15/w15_2.png" width="600" /&gt;
+</t>
+<t tx="leo.20170621085204.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
 @others
     &lt;/script&gt;
 &lt;/section&gt;
 
 
+
 						
 </t>
-<t tx="leo.20170621084234.9">###gear
+<t tx="leo.20170621085204.2">####一.嚙合齒輪
 
-&lt;iframe src="https://player.vimeo.com/video/218664256" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
-&lt;p&gt;&lt;a href="https://vimeo.com/218664256"&gt;漸開線齒輪T17&lt;/a&gt; from &lt;a href="https://vimeo.com/user47600730"&gt;40423228&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
-</t>
+&lt;img src="data/w15/w15_3.png" width="600" /&gt;
+
+####取自:&lt;a href="https://40423222.github.io/2017springcd_bg7/blog/15W-Code%20gear.html"&gt;BG7網誌&lt;/a&gt;</t>
 <t tx="yen.20170108171605.1"></t>
 <t tx="yen.20170108171605.2">QTreeWidget {
     /* These apply to the selected item, but not to editing items.*/
