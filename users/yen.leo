@@ -509,12 +509,26 @@
 <v t="leo.20170621083036.7"><vh>第十二週影片</vh></v>
 </v>
 </v>
-<v t="leo.20170621083810.1" a="E"><vh>20170517W13</vh>
-<v t="leo.20170621083810.2" a="E"><vh>上課內容</vh>
+<v t="leo.20170621083810.1"><vh>20170517W13</vh>
+<v t="leo.20170621083810.2"><vh>上課內容</vh>
 <v t="leo.20170621083810.3"><vh>上課大綱</vh></v>
 </v>
-<v t="leo.20170621083810.4" a="E"><vh>一-1</vh>
+<v t="leo.20170621083810.4"><vh>一-1</vh>
 <v t="leo.20170621083810.5"><vh>內容</vh></v>
+</v>
+</v>
+<v t="leo.20170621084234.1"><vh>20170510W12</vh>
+<v t="leo.20170621084234.2"><vh>上課內容</vh>
+<v t="leo.20170621084234.3"><vh>上課大綱</vh></v>
+</v>
+<v t="leo.20170621084234.4"><vh>一-1</vh>
+<v t="leo.20170621084234.5"><vh>內容</vh></v>
+</v>
+<v t="leo.20170621084234.6"><vh>一-1</vh>
+<v t="leo.20170621084234.7"><vh>內容</vh></v>
+</v>
+<v t="leo.20170621084234.8"><vh>(1)影片</vh>
+<v t="leo.20170621084234.9"><vh>第十二週影片</vh></v>
 </v>
 </v>
 </v>
@@ -539,6 +553,7 @@
 <v t="leo.20170426214555.1"><vh>@edit 0510W12.md</vh></v>
 <v t="leo.20170517093059.1"><vh>@edit 0517W13.md</vh></v>
 <v t="leo.20170531084631.1"><vh>@edit 0531W15.md</vh></v>
+<v t="leo.20170621084337.1"><vh>@edit 0607W16.md</vh></v>
 <v t="leo.20170614103830.1"><vh>@edit 0614W17.md</vh></v>
 </v>
 <v t="yen.20170108171733.81"><vh>@path pages</vh>
@@ -2981,6 +2996,74 @@ fossil add .
 						
 </t>
 <t tx="leo.20170621083810.5">https://40423228.github.io/2017springcd_hw/blog/W13.html</t>
+<t tx="leo.20170621084234.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+</t>
+<t tx="leo.20170621084234.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170621084234.3">##第十二周
+
+####一.漸開線齒輪繪製
+</t>
+<t tx="leo.20170621084234.4">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170621084234.5">####一.設定變數
+
+&lt;img src="data/W12/variable.jpg" width="800" /&gt;
+</t>
+<t tx="leo.20170621084234.6">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170621084234.7">####二.尺寸
+
+節圓 = MT
+
+齒頂圓 = 節圓往外偏移M
+
+齒底圓 = 節圓往內偏移M
+
+基圓 = MTcos(a)</t>
+<t tx="leo.20170621084234.8">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20170621084234.9">###gear
+
+&lt;iframe src="https://player.vimeo.com/video/218664256" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href="https://vimeo.com/218664256"&gt;漸開線齒輪T17&lt;/a&gt; from &lt;a href="https://vimeo.com/user47600730"&gt;40423228&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
+</t>
 <t tx="yen.20170108171605.1"></t>
 <t tx="yen.20170108171605.2">QTreeWidget {
     /* These apply to the selected item, but not to editing items.*/
