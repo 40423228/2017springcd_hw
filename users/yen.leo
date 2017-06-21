@@ -27,12 +27,12 @@
 <v t="yen.20170215103332.1"><vh>@edit base.html</vh></v>
 </v>
 </v>
-<v t="yen.20170120110024.1"><vh>@clean index.html</vh>
-<v t="yen.20170120110024.2"><vh>html</vh>
+<v t="yen.20170120110024.1" a="E"><vh>@clean index.html</vh>
+<v t="yen.20170120110024.2" a="E"><vh>html</vh>
 <v t="yen.20170120110024.3"><vh>head</vh></v>
-<v t="yen.20170120110024.4"><vh>body</vh>
-<v t="yen.20170120110024.5"><vh>reveal div</vh>
-<v t="yen.20170120110024.6"><vh>slides div</vh>
+<v t="yen.20170120110024.4" a="E"><vh>body</vh>
+<v t="yen.20170120110024.5" a="E"><vh>reveal div</vh>
+<v t="yen.20170120110024.6" a="E"><vh>slides div</vh>
 <v t="yen.20170120110024.7"><vh>封面投影片</vh>
 <v t="yen.20170120110024.8"><vh>封面投影片內容</vh></v>
 </v>
@@ -477,11 +477,36 @@
 <v t="leo.20170427001752.1"><vh>一-2</vh>
 <v t="leo.20170427001752.2"><vh>內容</vh></v>
 </v>
-<v t="leo.20170427000530.1"><vh>一-3</vh>
+<v t="leo.20170427000530.1" a="E"><vh>一-3</vh>
 <v t="leo.20170427000530.2"><vh>圖片</vh></v>
 </v>
-<v t="leo.20170427000454.20"><vh>(1)影片</vh>
+<v t="leo.20170427000454.20" a="E"><vh>(1)影片</vh>
 <v t="leo.20170427000454.21"><vh>第十週影片</vh></v>
+</v>
+</v>
+<v t="leo.20170621082500.1"><vh>20170503W12</vh>
+<v t="leo.20170621082500.2"><vh>上課內容</vh>
+<v t="leo.20170621082500.3"><vh>上課大綱</vh></v>
+</v>
+<v t="leo.20170621082500.4"><vh>一-1</vh>
+<v t="leo.20170621082500.5"><vh>標題</vh></v>
+</v>
+<v t="leo.20170621082956.1" a="E"><vh>(1)影片</vh>
+<v t="leo.20170621082956.2"><vh>第十一週影片</vh></v>
+</v>
+</v>
+<v t="leo.20170621083036.1" a="E"><vh>20170510W13</vh>
+<v t="leo.20170621083036.2"><vh>上課內容</vh>
+<v t="leo.20170621083036.3"><vh>上課大綱</vh></v>
+</v>
+<v t="leo.20170621083036.4" a="E"><vh>一-1</vh>
+<v t="leo.20170621083036.5"><vh>內容</vh></v>
+</v>
+<v t="leo.20170621083126.1" a="E"><vh>一-1</vh>
+<v t="leo.20170621083126.2"><vh>內容</vh></v>
+</v>
+<v t="leo.20170621083036.6" a="E"><vh>(1)影片</vh>
+<v t="leo.20170621083036.7"><vh>第十二週影片</vh></v>
 </v>
 </v>
 </v>
@@ -2804,6 +2829,120 @@ fossil add .
 </t>
 <t tx="leo.20170427001752.2">A零件固定經由轉動軸joint使B旋轉，B經由joint0 和joint3帶動C、E，再分別以joint2和joint4帶動D與F，最後經由joint3和joint5連回A。
 並用Dummy放再最後拘束其運動，Dummy連接Dummy0，Dummy1連接Dummy2，另一側作法亦同</t>
+<t tx="leo.20170621082500.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+</t>
+<t tx="leo.20170621082500.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170621082500.3">##第十周
+
+####一.利用漸開線原理, 以 Brython 繪製單一正齒輪廓正齒輪傳動繪圖
+</t>
+<t tx="leo.20170621082500.4">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170621082500.5">####一.利用漸開線原理, 以 Brython 繪製單一正齒輪廓正齒輪傳動繪圖
+</t>
+<t tx="leo.20170621082956.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20170621082956.2">###gear
+
+&lt;iframe src="https://player.vimeo.com/video/218664256" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href="https://vimeo.com/218664256"&gt;漸開線齒輪T17&lt;/a&gt; from &lt;a href="https://vimeo.com/user47600730"&gt;40423228&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
+</t>
+<t tx="leo.20170621083036.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+</t>
+<t tx="leo.20170621083036.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170621083036.3">##第十周
+
+####一.漸開線齒輪繪製
+</t>
+<t tx="leo.20170621083036.4">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170621083036.5">####一.設定變數
+
+&lt;img src="data/W12/variable.jpg" width="800" /&gt;
+</t>
+<t tx="leo.20170621083036.6">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20170621083036.7">###gear
+
+&lt;iframe src="https://player.vimeo.com/video/218664256" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href="https://vimeo.com/218664256"&gt;漸開線齒輪T17&lt;/a&gt; from &lt;a href="https://vimeo.com/user47600730"&gt;40423228&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
+</t>
+<t tx="leo.20170621083126.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170621083126.2">####二.尺寸
+
+節圓 = MT
+
+齒頂圓 = 節圓往外偏移M
+
+齒底圓 = 節圓往內偏移M
+
+基圓 = MTcos(a)</t>
 <t tx="yen.20170108171605.1"></t>
 <t tx="yen.20170108171605.2">QTreeWidget {
     /* These apply to the selected item, but not to editing items.*/
