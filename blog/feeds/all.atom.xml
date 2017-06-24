@@ -170,7 +170,6 @@ canvas = doc["japanflag1"]
 ctx = canvas.getContext("2d")
 
 # 以下可以利用 ctx 物件進行畫圖
-# 先畫一條直線
 ctx.beginPath()
 ctx.lineWidth = 5
 picture_points = [ (300, 0), (300, 50), (50, 50), (50, 300), (0, 300), (0, 0) ]
@@ -183,9 +182,91 @@ ctx.closePath()
 &lt;/script&gt;
 &lt;/pre&gt;
 
-&lt;h2&gt;&lt;span style="background-color: #00ff37"&gt;三.&lt;/span&gt;把https://github.com/scrum-1/cdbw17這個倉儲設為subw17子目錄&lt;/h2&gt;
+&lt;h2&gt;&lt;span style="background-color: #00ff37"&gt;二 - 2.&lt;/span&gt;&lt;/h2&gt;
+&lt;!-- 以下實際利用  Brython 畫兩條直線 --&gt;
+
+&lt;canvas id="japanflag2" width="400" height="200"&gt;&lt;/canvas&gt;
+
+&lt;script type="text/python3"&gt;
+from browser import document as doc
+import math
+# 準備繪圖畫布
+canvas = doc["japanflag2"]
+ctx = canvas.getContext("2d")
+
+# 以下可以利用 ctx 物件進行畫圖
+
+#第一腳
+ctx.beginPath()
+ctx.lineWidth = 5
+ctx.moveTo(5.18,12.82)
+ctx.lineTo(35.18,12.82)
+ctx.lineTo(35.18,112.82)
+ctx.lineTo(5.18,112.82)
+ctx.lineTo(5.18,12.82)
+ctx.fillStyle="blue"
+ctx.fill()
+
+#第二腳
+ctx.beginPath()
+ctx.lineWidth = 5
+ctx.moveTo(-1.26,27.01)
+ctx.lineTo(20.76,6.63)
+ctx.lineTo(88.76,80.03)
+ctx.lineTo(66.65,100.41)
+ctx.lineTo(1.26,27.01)
+ctx.fillStyle="red"
+ctx.fill()
+
+&lt;/script&gt;
+
 &lt;pre class="brush: python"&gt;
-git submodule -b master https://github.com/scrum-1/cdbw17 subw17
+&lt;!-- 導入 Brython 標準程式庫 --&gt;
+&lt;script type="text/javascript" 
+    src="https://cdn.rawgit.com/brython-dev/brython/master/www/src/brython_dist.js"&gt;
+&lt;/script&gt;
+
+&lt;!-- 啟動 Brython --&gt;
+&lt;script&gt;
+window.onload=function(){
+brython(1);
+}
+&lt;/script&gt;
+
+&lt;!-- 以下實際利用  Brython 畫兩條直線 --&gt;
+&lt;canvas id="japanflag2" width="400" height="200"&gt;&lt;/canvas&gt;
+&lt;script type="text/python3"&gt;
+from browser import document as doc
+import math
+# 準備繪圖畫布
+canvas = doc["japanflag2"]
+ctx = canvas.getContext("2d")
+
+# 以下可以利用 ctx 物件進行畫圖
+
+#第一腳
+ctx.beginPath()
+ctx.lineWidth = 5
+ctx.moveTo(5.18,12.82)
+ctx.lineTo(35.18,12.82)
+ctx.lineTo(35.18,112.82)
+ctx.lineTo(5.18,112.82)
+ctx.lineTo(5.18,12.82)
+ctx.fillStyle="blue"
+ctx.fill()
+
+#第二腳
+ctx.beginPath()
+ctx.lineWidth = 5
+ctx.moveTo(-1.26,27.01)
+ctx.lineTo(20.76,6.63)
+ctx.lineTo(88.76,80.03)
+ctx.lineTo(66.65,100.41)
+ctx.lineTo(1.26,27.01)
+ctx.fillStyle="red"
+ctx.fill()
+
+&lt;/script&gt;
 &lt;/pre&gt;
 
 &lt;p&gt;&lt;img src="./../data/W17/w17_2.png" width="800" /&gt;&lt;/p&gt;
