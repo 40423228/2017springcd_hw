@@ -1,5 +1,65 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>2017Spring 協同產品設計實習 (虎尾科大MDE)</title><link href="./" rel="alternate"></link><link href="./feeds/all.atom.xml" rel="self"></link><id>./</id><updated>2017-06-21T11:00:00+08:00</updated><entry><title>20170621w18</title><link href="./W18.html" rel="alternate"></link><published>2017-06-21T11:00:00+08:00</published><updated>2017-06-21T11:00:00+08:00</updated><author><name>40423228</name></author><id>tag:,2017-06-21:./W18.html</id><summary type="html">&lt;h3&gt;20170621W18&lt;/h3&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>2017Spring 協同產品設計實習 (虎尾科大MDE)</title><link href="./" rel="alternate"></link><link href="./feeds/all.atom.xml" rel="self"></link><id>./</id><updated>2017-06-24T11:00:00+08:00</updated><entry><title>20170624</title><link href="./W19.html" rel="alternate"></link><published>2017-06-24T11:00:00+08:00</published><updated>2017-06-24T11:00:00+08:00</updated><author><name>40423228</name></author><id>tag:,2017-06-24:./W19.html</id><summary type="html">&lt;h3&gt;20170624&lt;/h3&gt;
+&lt;h3&gt;課程評分內容&lt;/h3&gt;
+
+
+&lt;h2&gt;&lt;span style="background-color: #00ff37"&gt;一.&lt;/span&gt; 各組員是否依照 &lt;a href=" https://mde2a1.kmol.info/wiki?name=2017springcd"&gt;課程連結&lt;/a&gt;所列, 如實完成各週任務, 並拍攝操作影片？&lt;/h2&gt;
+&lt;h2&gt;&lt;a href="https://40423228.github.io/2017springcd_hw/blog/W1.html"&gt;第一周連結&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;一.觀看這學期的課程大綱&lt;/p&gt;
+&lt;p&gt;二.了解如何使用stunnel&lt;/p&gt;
+&lt;p&gt;三.開啟Leo利用Scite編輯Start.bat&lt;/p&gt;
+&lt;p&gt;四.利用python程式碼控制Vrep裡的單連桿作動&lt;/p&gt;
+&lt;h2&gt;&lt;a href="https://40423228.github.io/2017springcd_hw/blog/W2.html"&gt;第二周連結&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;一.利用python找出缺課人員&lt;/p&gt;
+&lt;p&gt;二.利用 Solvespace 進行四連桿機構組立並轉為st檔&lt;/p&gt;
+&lt;h2&gt;&lt;a href="https://40423228.github.io/2017springcd_hw/blog/W3.html"&gt;第三周連結&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;一.寫出影片的英文逐字稿&lt;/p&gt;
+&lt;p&gt;二.Solvespace 30-50-60 cm 比例的四連桿組立，並轉出 stl 檔案，以 import 方式轉入 V-rep&lt;/p&gt;
+&lt;p&gt;三.Onshape 完成與第二點相同尺寸之四連桿機構, 以 stl 轉出 (或其他格式) 後, 再轉入 V-rep&lt;/p&gt;
+&lt;p&gt;四.在 50 連桿上加上 50-50-50 正三角形, 以 Solvespace 輸入該三角形頂點運動軌跡&lt;/p&gt;
+&lt;p&gt;五.驗證上述四連桿運動軌跡, 是否正確, 並在分組網頁中執行該四連桿機構的運動模擬&lt;/p&gt;
+&lt;h2&gt;&lt;a href="https://40423228.github.io/2017springcd_hw/blog/W4.html"&gt;第四周連結&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;一.建立各組協同主機&lt;/p&gt;
+&lt;p&gt;二.在OnShape繪出單連桿機構並轉成STL&lt;/p&gt;
+&lt;p&gt;三.在SolveSpace繪出單連桿機構並轉成STL&lt;/p&gt;
+&lt;h2&gt;&lt;a href="https://40423228.github.io/2017springcd_hw/blog/W5.html"&gt;第五周連結&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;一.fossil筆記倉儲主頁顯示作業&lt;/p&gt;
+&lt;p&gt;二.將單連桿轉入V-rep並使其作動&lt;/p&gt;
+&lt;h2&gt;&lt;a href="https://40423228.github.io/2017springcd_hw/blog/W6.html"&gt;第六周連結&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;一.利用Onshape的變數指令繪製四連桿並匯入V-rep&lt;/p&gt;
+&lt;h2&gt;&lt;a href="https://40423228.github.io/2017springcd_hw/blog/W7.html"&gt;第七周連結&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;一.利用fossil對倉儲進行管理&lt;/p&gt;
+&lt;p&gt;二.利用Onshape繪製八連桿&lt;/p&gt;
+&lt;p&gt;三.利用Vrep使八連桿作動&lt;/p&gt;
+&lt;h2&gt;&lt;a href="https://40423228.github.io/2017springcd_hw/blog/W8.html"&gt;第八周連結&lt;/a&gt;&lt;/h2&gt;
+&lt;h2&gt;&lt;a href="https://40423228.github.io/2017springcd_hw/blog/W9.html"&gt;第九周連結&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;一.Fossil Server 實習查驗&lt;/p&gt;
+&lt;p&gt;二.四連桿機構協同 Trace Point 查驗&lt;/p&gt;
+&lt;p&gt;三.Fourbar Walker OnShape 零件協同繪圖與組立查驗&lt;/p&gt;
+&lt;h2&gt;&lt;a href="https://40423228.github.io/2017springcd_hw/blog/W10.html"&gt;第十周連結&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;一.Fourbar Walker Vrep&lt;/p&gt;
+&lt;h2&gt;&lt;a href="https://40423228.github.io/2017springcd_hw/blog/W11.html"&gt;第十一周連結&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;一.利用漸開線原理, 以 Brython 繪製單一正齒輪廓&lt;/p&gt;
+&lt;h2&gt;&lt;a href="https://40423228.github.io/2017springcd_hw/blog/W12.html"&gt;第十二周連結&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;一.OnShpae漸開線齒輪繪製&lt;/p&gt;
+&lt;h2&gt;&lt;a href="https://40423228.github.io/2017springcd_hw/blog/W13.html"&gt;第十三周連結&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;一.各組之組合機構&lt;/p&gt;
+&lt;h2&gt;&lt;a href="https://40423228.github.io/2017springcd_hw/blog/W15.html"&gt;第十五周連結&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;一.800x600 為畫布大小, 在畫布正中央畫一個半徑為 250 畫素, 壓力角 20, 齒數為 36 齒的漸開線正齒輪輪廓,並在正齒輪中央寫上自己的學號。&lt;/p&gt;
+&lt;p&gt;二.畫出只有上半齒形的漸開線正齒輪輪廓 , 且該齒輪廓下方水平線, 連接兩端齒根圓點交的直線以紅色繪製, 且在齒輪下方以藍色字元寫上自己的學號.&lt;/p&gt;
+&lt;p&gt;三.組長從各組員的 submodule 設定中呼叫導入, 在各分組的網頁中完成一個畫出所有組員協同繪圖的齒輪減速組圖, 且各齒輪正中心必須寫上組員學號, 各組按照學號大小排序, 分別由最右邊齒數 16 齒開始囓合, 依序增加 2 齒, 當排至平面四齒囓合後, 第五位組員則以垂直方向向下囓合兩個齒輪後, 轉由右至左水平排列, 直至所有組員均各提供一個協同囓合用的齒輪為止&lt;/p&gt;
+&lt;p&gt;四.在 Onshape 完成相同齒輪組的囓合協同繪圖&lt;/p&gt;
+&lt;h2&gt;&lt;a href="https://40423228.github.io/2017springcd_hw/blog/W16.html"&gt;第十六周連結&lt;/a&gt;&lt;/h2&gt;
+&lt;h2&gt;&lt;a href="https://40423228.github.io/2017springcd_hw/blog/W17.html"&gt;第十七周連結&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;一.繪製一零件轉成html放入網誌&lt;/p&gt;
+&lt;p&gt;二.各組員網誌上的 2D 繪圖, 並將程式碼顯示在繪圖網誌文章中&lt;/p&gt;
+&lt;p&gt;三.把https://github.com/scrum-1/cdbw17這個倉儲設為subw17子目錄 &lt;/p&gt;
+&lt;p&gt;四、五.Solvespace 近端零組件繪圖，轉入 V-rep。&lt;/p&gt;
+&lt;h2&gt;&lt;a href="https://40423228.github.io/2017springcd_hw/blog/W18.html"&gt;第十八周連結&lt;/a&gt;&lt;/h2&gt;
+&lt;h2&gt;&lt;span style="background-color: #00ff37"&gt;二.&lt;/span&gt; 各組員 OnShape 帳號中是否完成四足行走機構的設計？&lt;/h2&gt;
+&lt;h2&gt;&lt;span style="background-color: #00ff37"&gt;三.&lt;/span&gt;各組員是否利用 V-rep 執行各週任務模擬, 並拍攝操作影片？&lt;/h2&gt;
+&lt;h2&gt;&lt;span style="background-color: #00ff37"&gt;四.&lt;/span&gt;各組是否完成行走機構的實體製作、測試與討論.&lt;/h2&gt;
+&lt;h2&gt;&lt;span style="background-color: #00ff37"&gt;五.&lt;/span&gt;各組是否將所設計完成的行走機構零件檔案提供在網誌中, 可讓其他人下載 (若非使用 OnShape 設計部份) 或複製 (若使用 OnShape 零組件需提供可複製之公開連結), 並忠實呈現四足行走機構的協同設計流程?&lt;/h2&gt;</summary><category term="w19上課內容"></category></entry><entry><title>20170621w18</title><link href="./W18.html" rel="alternate"></link><published>2017-06-21T11:00:00+08:00</published><updated>2017-06-21T11:00:00+08:00</updated><author><name>40423228</name></author><id>tag:,2017-06-21:./W18.html</id><summary type="html">&lt;h3&gt;20170621W18&lt;/h3&gt;
 &lt;p&gt;期末各週連結&lt;/p&gt;
 
 

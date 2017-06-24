@@ -27,12 +27,12 @@
 <v t="yen.20170215103332.1"><vh>@edit base.html</vh></v>
 </v>
 </v>
-<v t="yen.20170120110024.1" a="E"><vh>@clean index.html</vh>
+<v t="yen.20170120110024.1"><vh>@clean index.html</vh>
 <v t="yen.20170120110024.2" a="E"><vh>html</vh>
 <v t="yen.20170120110024.3"><vh>head</vh></v>
 <v t="yen.20170120110024.4" a="E"><vh>body</vh>
 <v t="yen.20170120110024.5" a="E"><vh>reveal div</vh>
-<v t="yen.20170120110024.6" a="E"><vh>slides div</vh>
+<v t="yen.20170120110024.6"><vh>slides div</vh>
 <v t="yen.20170120110024.7"><vh>封面投影片</vh>
 <v t="yen.20170120110024.8"><vh>封面投影片內容</vh></v>
 </v>
@@ -564,6 +564,7 @@
 <v t="leo.20170621084337.1"><vh>@edit 0607W16.md</vh></v>
 <v t="leo.20170614103830.1"><vh>@edit 0614W17.md</vh></v>
 <v t="leo.20170621094623.1"><vh>@edit 0621W18.md</vh></v>
+<v t="leo.20170624135711.1"><vh>@edit 0624W19.md</vh></v>
 </v>
 <v t="yen.20170108171733.81"><vh>@path pages</vh>
 <v t="yen.20170108171733.82"><vh>@edit pages_1.md</vh></v>
