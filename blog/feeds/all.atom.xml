@@ -57,7 +57,7 @@
 &lt;p&gt;四、五.Solvespace 近端零組件繪圖，轉入 V-rep。&lt;/p&gt;
 &lt;h2&gt;&lt;a href="https://40423228.github.io/2017springcd_hw/blog/W18.html"&gt;第十八周連結&lt;/a&gt;&lt;/h2&gt;
 &lt;h2&gt;&lt;span style="background-color: #00ff37"&gt;二.&lt;/span&gt; 各組員 OnShape 帳號中是否完成四足行走機構的設計？&lt;/h2&gt;
-&lt;h2&gt;&lt;a href="https://cad.onshape.com/documents/6394a8c0bc379d095f7c908f/w/bdf8edabda05be87ca1423d5/e/b509d70bfcee2d118e1a7270"&gt;onshape W10 行走機構&lt;/a&gt;&lt;/h2&gt;
+&lt;h2&gt;&lt;a href="https://cad.onshape.com/documents/6394a8c0bc379d095f7c908f/w/bdf8edabda05be87ca1423d5/e/7ab2249808dbaa78c9d6043f"&gt;onshape  行走機構&lt;/a&gt;&lt;/h2&gt;
 &lt;h2&gt;&lt;span style="background-color: #00ff37"&gt;三.&lt;/span&gt;各組員是否利用 V-rep 執行各週任務模擬, 並拍攝操作影片？&lt;/h2&gt;
 &lt;p&gt;W5單連桿: &lt;button onClick="lity('https://vimeo.com/212847283')"&gt;&lt;span class="glyphicon glyphicon-facetime-video"&gt;&lt;/span&gt; W5單連桿&lt;/button&gt;&lt;/p&gt;
 
@@ -69,10 +69,12 @@
 
 &lt;p&gt;W10行走機構: &lt;button onClick="lity('https://vimeo.com/214781219')"&gt;&lt;span class="glyphicon glyphicon-facetime-video"&gt;&lt;/span&gt; W10行走機構&lt;/button&gt;&lt;/p&gt;
 
-&lt;p&gt;W17: &lt;button onClick="lity('https://vimeo.com/222381333')"&gt;&lt;span class="glyphicon glyphicon-facetime-video"&gt;&lt;/span&gt; W17&lt;/button&gt;&lt;/p&gt;
+&lt;p&gt;W17任務Vreop模擬: &lt;button onClick="lity('https://vimeo.com/222381333')"&gt;&lt;span class="glyphicon glyphicon-facetime-video"&gt;&lt;/span&gt; W17任務Vreop模擬&lt;/button&gt;&lt;/p&gt;
+
+&lt;p&gt;行走機構模擬: &lt;button onClick="lity('https://vimeo.com/223510522')"&gt;&lt;span class="glyphicon glyphicon-facetime-video"&gt;&lt;/span&gt; 行走機構模擬&lt;/button&gt;&lt;/p&gt;
 
 &lt;h2&gt;&lt;span style="background-color: #00ff37"&gt;四.&lt;/span&gt;各組是否完成行走機構的實體製作、測試與討論.&lt;/h2&gt;
-&lt;p&gt;列印中&lt;/p&gt;
+&lt;p&gt;列印中，尚未組裝。&lt;/p&gt;
 &lt;h2&gt;&lt;span style="background-color: #00ff37"&gt;五.&lt;/span&gt;各組是否將所設計完成的行走機構零件檔案提供在網誌中, 可讓其他人(使用 OnShape 零組件需提供可複製之公開連結)&lt;/h2&gt;
 &lt;h4&gt;&lt;a href="https://cad.onshape.com/documents/cf507b96e7c271e8c87cf557/w/1b52e29c6835a06bb0bc5287/e/be08f4e14664ee2e0e4f9d3e"&gt;OnShape_第七組行走機構&lt;/a&gt;&lt;/h4&gt;</summary><category term="w19上課內容"></category></entry><entry><title>20170621w18</title><link href="./W18.html" rel="alternate"></link><published>2017-06-21T11:00:00+08:00</published><updated>2017-06-21T11:00:00+08:00</updated><author><name>40423228</name></author><id>tag:,2017-06-21:./W18.html</id><summary type="html">&lt;h3&gt;20170621W18&lt;/h3&gt;
 &lt;p&gt;期末各週連結&lt;/p&gt;
@@ -846,7 +848,9 @@ ctx.stroke()
 &lt;p&gt;行走機構&lt;/p&gt;
 
 
-&lt;h4&gt;&lt;a href="https://cad.onshape.com/documents/cf507b96e7c271e8c87cf557/w/1b52e29c6835a06bb0bc5287/e/be08f4e14664ee2e0e4f9d3e"&gt;行走機構&lt;/a&gt;&lt;/h4&gt;</summary><category term="w13上課內容"></category></entry><entry><title>2017/05/10 W12</title><link href="./W12.html" rel="alternate"></link><published>2017-05-10T11:00:00+08:00</published><updated>2017-05-10T11:00:00+08:00</updated><author><name>40423228</name></author><id>tag:,2017-05-10:./W12.html</id><summary type="html">&lt;h3&gt;20170510W12&lt;/h3&gt;
+&lt;h4&gt;&lt;a href="https://cad.onshape.com/documents/6394a8c0bc379d095f7c908f/w/bdf8edabda05be87ca1423d5/e/7ab2249808dbaa78c9d6043f"&gt;行走機構&lt;/a&gt;&lt;/h4&gt;
+&lt;p&gt;作動影片：&lt;iframe src="https://player.vimeo.com/video/223510522" width="640" height="359" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href="https://vimeo.com/223510522"&gt;行走機構OnShape+Vrep模擬&lt;/a&gt; from &lt;a href="https://vimeo.com/user47600730"&gt;40423228&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;</summary><category term="w13上課內容"></category></entry><entry><title>2017/05/10 W12</title><link href="./W12.html" rel="alternate"></link><published>2017-05-10T11:00:00+08:00</published><updated>2017-05-10T11:00:00+08:00</updated><author><name>40423228</name></author><id>tag:,2017-05-10:./W12.html</id><summary type="html">&lt;h3&gt;20170510W12&lt;/h3&gt;
 &lt;p&gt;漸開線齒輪繪製&lt;/p&gt;
 
 
